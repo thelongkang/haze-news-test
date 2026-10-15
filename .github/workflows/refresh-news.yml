@@ -2,6 +2,9 @@ name: Refresh news backup
 
 on:
   workflow_dispatch:
+  schedule:
+    # 08:00-19:00 Asia/Singapore, inclusive.
+    - cron: '0 0-11 * * *'
 
 permissions:
   contents: write
