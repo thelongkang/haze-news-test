@@ -1,16 +1,23 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-17T08:17:43.878251+00:00",
+  "checkedAt": "2026-10-17T12:43:17.753749+00:00",
   "sources": [
     {
       "name": "CNA",
-      "fetchedAt": "2026-10-17T08:17:43.878251+00:00",
+      "fetchedAt": "2026-10-17T12:43:17.753749+00:00",
       "available": true,
       "items": [
         {
-          "title": "Singapore haze: PM2.5 readings climb into high band in four regions",
+          "title": "Singapore haze: PM2.5 readings climb into high band in three regions",
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNGZ3V3F3cGR5QzRrZWdYTXlKaFpVLWpESXpaQ21YYTFVVXhtVFV5X1dESlg5VmNrenBtWVZMdTl0NS1xNkJxSXotVFR2TGVWUGN0bGMyMlRaVDJaaTVqaDB6NW10bm10b2FlX3l1UDVWSGJWbHgwN2lzQzU1aVo1aWxsbWlPSzg?oc=5",
-          "published": "2026-10-17T08:04:02+00:00",
+          "published": "2026-10-17T11:08:29+00:00",
+          "source": "CNA",
+          "via": "Google News"
+        },
+        {
+          "title": "CNA938 Rewind - Market Watch (12/10): Could the haze place more pressure on Indonesia's economy? #SGToday",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPaU5GMDJwSnhIcXlKb212QWJUX2Y1ZUVXN2NxSVVlaklCVXpIdWdENkNPS3ZfdVNwVkpWSEpmdGUtanF2X1VpcldOSTk5QlpmRWppYmhLZm9lUGhxcXB3bXczQjhnVjhLVHk5MzE5Z3pkSmRFY0JQcGdVUWxJU1ZRNndZbnk3aTUySlA0LVpZVzhqaXZMRjJldEVpTDhEVWRWSnZjeFlvWm1MbVd4WHd4UTJva1VmRzF5TGZTMTFHRkwybE1BakxaUktNMk16dDhPbjNoRl9jTmdQS2xZVG4tSE15bHZOYVZHODhLWlQzM29LQ0UwejZRcWg3bTlZdw?oc=5",
+          "published": "2026-10-17T08:37:19+00:00",
           "source": "CNA",
           "via": "Google News"
         },
@@ -69,21 +76,28 @@
           "published": "2026-10-16T14:41:37+00:00",
           "source": "CNA",
           "via": "Google News"
-        },
-        {
-          "title": "Haze in Singapore: Preventive measure notices sent to 7 companies responsible for fires",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSzdKaVNvMEExcUxWczhmcWRuXzVUQzVzSWpMakZtQjNBNktoRHNhSDh2Wi1LaFJyVUtReDJNS2dJdm9lTjg4VThNU0JXWWp1dllzTldmY2NzYlJFajBzYmM1bFptNEk1SktSVmlfV0lUR2xoanpvZlNPTThIc3VONWVjczNlNkZIYXpZLVZfQkVfRUFFcGVtZWRNTTRWbUxfN3lnQ1U5dzRURnJGTE1aNklMN0xyTDFkSmJCSkxnNG1YZms?oc=5",
-          "published": "2026-10-16T14:34:41+00:00",
-          "source": "CNA",
-          "via": "Google News"
         }
       ]
     },
     {
       "name": "The Straits Times",
-      "fetchedAt": "2026-10-17T08:17:43.878251+00:00",
+      "fetchedAt": "2026-10-17T12:43:17.753749+00:00",
       "available": true,
       "items": [
+        {
+          "title": "Buying masks or haze-related items on the secondary market? Be careful, says CASE",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdHUxXzVkWDNEUzJ4Rzdsd2dNSGVNRXBHS0xUMTluWFJfQVZJZ2VsOXIzVEdjUXhDZDliWWdCcDlmMmhwMlB1ejdCa29TSWVMNEo0bnpCTmhLVXNYMGU4NEZqaERxdlN2aDhhb1psOUdhZXpZZy14Z18xOVdhcGdtYW1HTnNaeHh0cVBqTE1Ea3AycGZ0cVkzeE1FeVdzOEVjLXVkMUpsaWRtc1NzMGZvYzdPZlFidGY0TkE?oc=5",
+          "published": "2026-10-17T11:13:00+00:00",
+          "source": "The Straits Times",
+          "via": "Google News"
+        },
+        {
+          "title": "Haze in Singapore: Before and after photos",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNR2FkT3YwQ0NHYVdKN202WGlQNzVJX0NPdjZVMnRRNVkzR2o3VDRjekJJYkVTcWZOcUgwVmNOMnF2QjA1clZrR3F6UDdZbWVESml3SGNMSW9JOXJGMXRnWlJYMWF1NzQ5VHY4ODU2V0xEOFp0OGw1ZEtXMXZCWUpLUS04R0o0dWc?oc=5",
+          "published": "2026-10-17T09:00:00+00:00",
+          "source": "The Straits Times",
+          "via": "Google News"
+        },
         {
           "title": "Are two N95 masks enough for me this haze season?",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdlJWTExNUzFBNHpkQ0lmZ294aGFrcWt1VVlIekNzSVVFdXhyQ2pJbUpEaFRoNUxKdjhqbXZFODZnSFdKa1B6NUVTNWdwNlIyR1dHQWlWYVExeEk0SFhfa2FDTFNjWGZTNUk5WWpFQ2QtLXRNX0lGb3RwYnhTMEdWSTdKSHd4YnNsMExraENkTVA?oc=5",
@@ -137,20 +151,6 @@
           "title": "Employers are encouraged to let employees work from home amid haze situation: Jasmin Lau",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0yTHduODRkanhKdTFaSDlGdHp0cU5iT0pOb2ptdGJ1NUxmdXVpWTdEYWdFMXd2Y1otbi03TUFrZzdyTE05ekNzdGlxWm1QU042VjluUnV3NjZaS3RpVGc?oc=5",
           "published": "2026-10-16T15:57:04+00:00",
-          "source": "The Straits Times",
-          "via": "Google News"
-        },
-        {
-          "title": "2026 Great Eastern Women’s Run cancelled amid worsening air quality from haze",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcm1aZ18tdU52MXFKZUYyZF90NWwzSi1taHJwdERQcTgwWFRjemI3aVhtQUxPNWJOSzFTdzI3S0swdWZrdE90WkEyV0N6NDNrRmlkQmdqZ0VIMzZwTGFkQWRROXVRVWZjOHVSMVhKc3M2RUhiZEx5OWVDZVBIS0RxSVFaY3VfU3JueDlWdGh0SWxiZWV0a3kxVWpVaHVPUWlNUmtrZHh4Q0d0bXVwdFBldA?oc=5",
-          "published": "2026-10-16T14:32:00+00:00",
-          "source": "The Straits Times",
-          "via": "Google News"
-        },
-        {
-          "title": "Haze in Malaysia: Schools to close, public gatherings halted if API exceeds 200",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdlZWV08yNXo1dGkwQTYtUlNYQmlLLXBaZUlvbnpJZHJwNkpVbEVFOF9mM0d2OHJ3Wkk4UklDNE12STZZRnlOUElGY3VJcWRPNnBaWFJEVlpab054dEtpbUZXVkkzTUdHVXE3UG93bUhXNFJYNW5nY0xOVzRsbTVyb0ZqSmhOSGJWaHp4eG91eTZCQzMwRDZ0Q3ZhMHJMY2diTFZmOVFHckdFOW9WVjJyT1hKYjFaMHNwT09n?oc=5",
-          "published": "2026-10-16T13:23:00+00:00",
           "source": "The Straits Times",
           "via": "Google News"
         }
