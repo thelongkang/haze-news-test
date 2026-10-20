@@ -1,12 +1,26 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-19T16:49:08.493245+00:00",
+  "checkedAt": "2026-10-20T03:40:14.426332+00:00",
   "sources": [
     {
       "name": "CNA",
-      "fetchedAt": "2026-10-19T16:49:08.493245+00:00",
+      "fetchedAt": "2026-10-20T03:40:14.426332+00:00",
       "available": true,
       "items": [
+        {
+          "title": "CNA938 Rewind - Singapore haze and mental health: How to cope with prolonged poor air quality",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeWNVYVZQQ3dhV25mQzRCQ0VFRDFuNmZzR3JwTkluU2dNWHJrQUd3RXp2TG84dDVocnZYVml0YlJ3YlBoTnJwRml4MjZiN3k0bHJQdXRCdGIxczVyRXFzVHJEd1VpT0kzM0ItSEg1bkU0bHpBQ0VXdEhJaGNna2JJMEhZOEJVVEg2OFlJZWxKdXJVUnZrb2ptXzd3ZC1QblhabXlzRFBoWThoZm0teGVRZWVneDYyRW9yYXlhcUF5c3ExcjA4X1Z3ZQ?oc=5",
+          "published": "2026-10-20T01:50:41+00:00",
+          "source": "CNA",
+          "via": "Google News"
+        },
+        {
+          "title": "Hourly PM2.5 elevated in four regions across Singapore; PSI unhealthy in western and central regions",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA3M3JTdDhtSlBSQkZ4NzVOVlg3YXZ5RXczUFZmUHpIeGMzS3QzNmVXbHdRcFJRRm94MTUyMjRROFRqcFJielNJS20tU1ZQNGJWeGlCRDQ3QmxZSW01NndkdXFJaXYwNThPVFl6ZUROTF9oMzl2LVFsRDFR?oc=5",
+          "published": "2026-10-19T23:22:00+00:00",
+          "source": "CNA",
+          "via": "Google News"
+        },
         {
           "title": "Wholesalers in Singapore say haze affecting vegetable size, supply and prices",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQ0Q5UHptN3hrS0Noak1jR1dfWXNoZkZNMVBDZk42OUI1RURiMVZsT19iWU9QR1JpRWg2bVZXVERYRWY3eW5tU1dkOFdtQVNEaTF1REdKNnk4cFB5czlEbmM2b3VJTXVEcXVBNFdnWHh6YzA1bTRuZE5GME45U1R6bkVkRFJXMVBEd3YxUko4RHdWeWQxamNrTFVyekR3NDcwSGE5SnVCdVFWWDJNQnhBZTBvUmJvRlZWbFNfb0dIOA?oc=5",
@@ -62,28 +76,49 @@
           "published": "2026-10-19T09:04:00+00:00",
           "source": "CNA",
           "via": "Google News"
-        },
-        {
-          "title": "Shanmugam calls Indonesian official's 'oxygen' remarks disappointing, welcomes Prabowo's actions on haze",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb2VoS0U5QllyT19ER181N1kxMHlRQkJaclhFbm1DWXpHbzNOa2xzOW01TTk5cWdPcUFIMXZlRUhId2FrNzIxR0dpN2k1VFA1aWtFSVhRUURmYkpXaEQ3WXFWR3l2cHExdUo0OW9YQ0pIdDVNT0xicUsyS2xTRzVsd1FlV0hZaTZfRHJRYUJUdHY2OVhZenZ0TDYxalJQWVA0X0llOHI5LWNPR0FPMklsQnJOaw?oc=5",
-          "published": "2026-10-19T09:00:00+00:00",
-          "source": "CNA",
-          "via": "Google News"
-        },
-        {
-          "title": "Firms linked to haze ‘should not underestimate Singapore’s determination’ to pursue them: Shanmugam",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNG1tbkxpeHo0OUVEd3pQVE1udDdLdVVmNy0tSzhlWHZWTGM1RHVFMEt4M0IyeFpPMF9wSy1EUm1iNHFVNkZTNFNsa1lTMGtrQlFQQzZxNkR2ZnpqM3RLZlpXdVBRSWtlTVdtaklnNDl0c2lITWJuUkhpZmF5dV90UHFtdTNUa0E0M05QZkszUUhyLVRQbW1ySHczSQ?oc=5",
-          "published": "2026-10-19T09:00:00+00:00",
-          "source": "CNA",
-          "via": "Google News"
         }
       ]
     },
     {
       "name": "The Straits Times",
-      "fetchedAt": "2026-10-19T16:49:08.493245+00:00",
+      "fetchedAt": "2026-10-20T03:40:14.426332+00:00",
       "available": true,
       "items": [
+        {
+          "title": "Behind the blazes: ST looks at 10 firms issued notices under S’pore haze law",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUDdPdU1oOWRnTHpmWDRza0llckJtQUhvcDJ0NjBRYUxUa1daeHVvQTN4QjIwMWdJMHBiSGhOSzAzZTlQcTN0ak5rai1DOFc0eEM2R3hUakVmV1FpYll1NEs3ZVllRFVqdW1BRkc0TTE4cHk2MVlvUDYtZlNfRzZxU2pQRFdTT3lQczZhVmxKTXNqSVlUQnhvaFNlMzJiZG5PYlNoNVhtajJ2LVh2SnZldHNIYw?oc=5",
+          "published": "2026-10-20T03:20:00+00:00",
+          "source": "The Straits Times",
+          "via": "Google News"
+        },
+        {
+          "title": "S’pore-listed First Resources pledges cooperation with authorities over haze",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUEJyeFplNzhaNkNNNW9GXzBnZ3FqYm93ZDZKSGxIRFlzZ2NHTzRXbEhLODd5cUZjaWp3WXBDbmZtOXAzLU1XRGRoMzdEdmpVZzZXaVBCYkZmeFVmV0R2Rktwa0x5VTNxUy13SlNITG9tVmd5RGxEcnhfTWJ6SnplUTFSMFlUc0lhMU9HNTVGSFJKZXExakNGMEE2NnhlMGtKZFlEN2FoVmRVbUcyZlc0R1lOSWdHcHpVZXhJUjNVSHRqOGI4eVktN05Oaw?oc=5",
+          "published": "2026-10-20T01:58:00+00:00",
+          "source": "The Straits Times",
+          "via": "Google News"
+        },
+        {
+          "title": "Singaporeans have good reason to be angry about the haze",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNM1hobFlOaVhKd1h2SDFvVGFGLWNwUk9va0hzRm1jb2lwcnpLRGN5b2NTX2lnemZteXhHZzQ3WEJyekZqanBJUTRFQXZQWENlaHJvY0twUEtWdFpVSkI3UTBicjFFV2lDWHNtWHhLdEVmYmlYeVdaM3NuSG9ETEJuaHdhOWJObGlnZXVLb1hmSU0yYVZYOUZZTA?oc=5",
+          "published": "2026-10-19T23:00:00+00:00",
+          "source": "The Straits Times",
+          "via": "Google News"
+        },
+        {
+          "title": "Haze in Singapore: Air quality improves with 3 of 5 regions recording moderate PSI levels",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSmxsbC03WkwtOG1QN2ZKWWl6ajZySXZETzlQVWxkOTFOYnVkM1pXclZFYzhIZlAwU3Q5dnpWMjZqSmZSUnppMkJxNzl5aHk4REVSSVpSVEFnSkY2THpvX2MxM3RvY0VjQWJsRWtuVnZMdURkeU1SNnFtYVFWb0hwaW45VDlYYXBBYUR5cEpwY0cyQzNRZnh0dndlaGV0Qk10bThSLTFNVC1sdTFmbXp4UGhvVFJSS0pOM1cwcWpmUUxLalpQTmc?oc=5",
+          "published": "2026-10-19T22:25:00+00:00",
+          "source": "The Straits Times",
+          "via": "Google News"
+        },
+        {
+          "title": "Singapore schools to stay open despite haze: Desmond Lee",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBlX3BfQWMtNTg3bEQtSmdwcEVzekRUVV9rUkNUNnlCaDh6TnRfOEJlWFBkUXhwVXNESDVVWm80cGxocGRqOVZrbzBnZ3hoTHVxYnNpMGQwTzhTNjQ0Ync?oc=5",
+          "published": "2026-10-19T17:07:31+00:00",
+          "source": "The Straits Times",
+          "via": "Google News"
+        },
         {
           "title": "Firefly plans to resume all Subang-Seletar flights on Oct 22 after haze cancellations",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbi1lRzdtRWJDUXNDM3FHYnJZdTFuVk5lamxZX2k1REdZNkh5VzRTakhsRGtZWUROa1FKTXUzbFZtbU1kSDBRejU4dWhJQk5IdXQyR2UxNFViaWZmTE1BRnNRZElHcjVjbDg2bVNHeXRGUjVxalJyU1d2YldHcVh2YzlBSlluUE1wNFQ0ZG4yME9jUEVqQmdwVVMzRF8zZEV1MHhMZHZfbV9mRGZzVmxacmpJRTNLck56R0I4bGtMU2Z0RXM?oc=5",
@@ -116,41 +151,6 @@
           "title": "Govt will use every lever available on companies causing haze: Shanmugam",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE91THB2enc3X2xwaEdrWU5VdE56VmpWZlByMXNSclRiRVF5Z3R3V3QwMjhnYjN4dWN6TndTMHF6VmVEak4yOGdxMHJhVVhYZUNPTG9uOUZlM2lleFRaZVE?oc=5",
           "published": "2026-10-19T09:23:37+00:00",
-          "source": "The Straits Times",
-          "via": "Google News"
-        },
-        {
-          "title": "NEA issues notices to 3 more companies in Indonesia over fires contributing to haze",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QRTlXdFpnNjFCWFpNaFJ6WEdwMXJ3SEdTY05mdF9HS0d2SEdhcXdZYXkycTBaQ1JGQm56a05KVlRRaXZTR1BGYmZ2cHdGOFZZYmZlOFhxNURUNC1rNWc?oc=5",
-          "published": "2026-10-19T09:17:15+00:00",
-          "source": "The Straits Times",
-          "via": "Google News"
-        },
-        {
-          "title": "Asia Pulp & Paper buys from companies in haze probe: Shanmugam",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GMmJYWXV0ZGFTT2RFXzdmR1lOb05xSjJLaWZYU3VrOXZCSzBLT0RtaEdqOFB0dVlMS1J1aGtJSV9QVHQ4TUxRbTBENHVURHJ6UHhzMFVKSy05ZUdPLXc?oc=5",
-          "published": "2026-10-19T09:15:12+00:00",
-          "source": "The Straits Times",
-          "via": "Google News"
-        },
-        {
-          "title": "Singapore appreciates efforts by Prabowo and his administration to solve haze issue: Shanmugam",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVkxJRUJSLU5NWXNtTExiYVR6N2NpVDRpcWdESlAwRHJHRlRsYzdBNmwxTTBfdEM2bkJ5cTJQMWVfLVJMbUZCWTFaTFE3QlhSY3VQd1pkOC1EbDg2azNGVmZxNzFGT0tYYUlwV25YQTdjUTVRNVZQdTZKTDNxbm9aTDFiUDNjcVlRRkZYS1VrN1JYaGozQVJLZVhsQkNzTkpjcjJHZXlSOElqTFItbXVFVlNUMVlBNUFheHM3ZnlBYWYwNW9iNTFn?oc=5",
-          "published": "2026-10-19T09:00:00+00:00",
-          "source": "The Straits Times",
-          "via": "Google News"
-        },
-        {
-          "title": "S’pore to use ‘every legal and regulatory lever’ against companies linked to haze: Shanmugam",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPODVHX3NJUHJyVDdhbW9Za1kwbGc0ZWZSNU5GRThZMU81T3pUU1JWMjA2UjNablczNEVfdWFKd0doazZ0Wk9aUzB4bmNfT0Fpb1YtZTlBSzBpa0p1OEhpaXJQVFNNeGVtU2NiX2FXaWYtSi1STTljVTBiMmhNS2VYNUwxb0lDRGxZZUk5a2p1aERXc1c4TFdkTHY0WFpwUzMzRlFLMlg1c2ROcjV4VnppdzUteVdpQmRxYnRkM19uMEk1OGFoNGc?oc=5",
-          "published": "2026-10-19T09:00:00+00:00",
-          "source": "The Straits Times",
-          "via": "Google News"
-        },
-        {
-          "title": "HBL during haze works only when there is workplace flexibility",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWWxPdWtVN0Z0WUtGVF8yUXJPd1N4RXRXZndkZl93ek0zendWNjRDZGZDRGxFQTB4cXJuLXhZeV9QTUVBeW9NN1AwTEkzUXdSMmhsbGZhUDRrUHpYd18zcXpzNVoyU0VPSjc3V3gxTnpzY3l6X1NVeEZjZHJvZmR0c1Nfa081NzhUdl94RHNhRFZmbTdCLUhPMkVvTjZseFIxb1hzd2U1YXc2ZGxFenBZWnlB?oc=5",
-          "published": "2026-10-19T09:00:00+00:00",
           "source": "The Straits Times",
           "via": "Google News"
         }
