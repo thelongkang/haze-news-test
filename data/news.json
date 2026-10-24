@@ -1,16 +1,23 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-24T03:31:14.434312+00:00",
+  "checkedAt": "2026-10-24T08:40:46.029791+00:00",
   "sources": [
     {
       "name": "CNA",
-      "fetchedAt": "2026-10-24T03:31:14.434312+00:00",
+      "fetchedAt": "2026-10-24T08:40:46.029791+00:00",
       "available": true,
       "items": [
         {
           "title": "Deep Dive - Does air-con keep you safe from haze? What we might be getting wrong about haze safety",
           "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZlpTVTg5RGpkRlp6Qi14S210T3YwSllPRDQ5Q0FXaElDVU9lT0RaNE1qc05KaTBpUlV1VmQyaXpabm9zSTFEcE9jYkZ3cFVUNWUyc0R2cTY4d3RDQmlNYlUzWnVMcHVQTVhGci02ZlhSMDJobGN1MVVVTHhhRzZnakN1SEc1elR0MW9Tc2hJZ2FMM1p1V0RVS2ttazgwWjU3RFp4M0sxN19QWlhrem9oLU5MWWlrVWN2RUl5WFpGekMwRExaU3BodnJQUE5lZlUwSVB3?oc=5",
-          "published": "2026-10-24T02:09:55+00:00",
+          "published": "2026-10-24T08:09:57+00:00",
+          "source": "CNA",
+          "via": "Google News"
+        },
+        {
+          "title": "CNA938 Rewind - Singapore's haze law: Can companies behind Indonesia's fires be held accountable?",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeXJ3TG01cDFhTnJhUjlscnVnUWtzMHg2aTJ6enEyb3BmS0pZZFpJaVQwbGt4bnRUNTJXc1Zpdklpa21jU2Z4cFhQRFowVFZHbm01Z1JpSXNLSVNFMDBoNktRMlNlTnN0cEJPYmdlOWxZODhoV18wb1A2OU5tZXVhVTVqRWN3eG1rWElDVGVKbUJWaTktQXl1QURNb2N6Tkxtel9DOTdhOFdHSUZnajBmalQ5d1dLU2VBR2cxR3V2aG10QktLTVJIZDNUR2ZuV1AwZFMtTg?oc=5",
+          "published": "2026-10-24T03:24:33+00:00",
           "source": "CNA",
           "via": "Google News"
         },
@@ -69,23 +76,37 @@
           "published": "2026-10-23T10:58:48+00:00",
           "source": "CNA",
           "via": "Google News"
-        },
-        {
-          "title": "CNA938 Rewind - #HazeHealth: Getting to the Root of Haze; what is Slash and Burn #SGToday",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTjdsbVU0b01GSkFSVXZwQ01HVHJ2b3JlTEZQTTUwWTBKems2VkRNREwwaHpRSXZyay1rSWltc253WkpFOEgzWXVEZGlCSksxTy1OZG5tdW5uSFNSZmtoZ2xLcl92WUNLNzRsRFdQZXdWSzFDSy01RGRhdFJWcG5LRk03OFNwVzVEdElaY2s3dkRpa3Y3WlFETzNOVV94Ul9oUkN4TmlsS2Vnb2pnbE9HcmdnTjhKWlRt?oc=5",
-          "published": "2026-10-23T10:20:39+00:00",
-          "source": "CNA",
-          "via": "Google News"
         }
       ]
     },
     {
       "name": "The Straits Times",
-      "fetchedAt": "2026-10-24T03:31:14.434312+00:00",
+      "fetchedAt": "2026-10-24T08:40:46.029791+00:00",
       "available": true,
       "items": [
         {
-          "title": "Visitors mask up, change plans amid the haze; some tour operators see dip in bookings",
+          "title": "3 S’pore companies say they will cooperate with authorities after receiving notices under haze law",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYmR5dW5qdkdCUUNob2YtLXJpREhiUUNKMExCMEJXZ1FNaDhQaGZSY05DX3dJajBlUG1HaV81ZG1oVDlwNHZKdGNvVEw4c3ppRDNCMm50OGFRSkxHYmZ0bnI3M0lXOF8tZ3U0aUJiWUpVcVE2al9sYmJRWEgyZHRNRkE0alQ1eWNIY0NPc192VjZ0ZC1haUNOazBkU1hCcGlrMHlTLUJIbFFqUEt0V1E2bEtvT3FnYmd3WFNOQmpSVDk2NV9WVl9McU9IeXdwRGh0Qnc?oc=5",
+          "published": "2026-10-24T08:28:00+00:00",
+          "source": "The Straits Times",
+          "via": "Google News"
+        },
+        {
+          "title": "Haze in Malaysia: All Johor schools to reopen on Oct 26 as conditions improve",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYkxvQkMxTUh0azExRy1JX0pfcFlsb0haLWRYS04zLXFKalJRN1A0d0lvMVBYdlczY3o4UzlScUtMNnc0RU9WUXdFQ0xmeF9uQ3VzOE1kWDRUV2NMb25aZWptb05tc0pSclJfOUxOTU9vQW42aDc5Q29UNE1UVGYtZmJUUWViRkFUMGpaeVIzWGV4TWdOalIwSXV5dXJQV2dTRzU1eVRaVnNVTnIyZGptRFptNTNEd1dwV2c?oc=5",
+          "published": "2026-10-24T08:20:00+00:00",
+          "source": "The Straits Times",
+          "via": "Google News"
+        },
+        {
+          "title": "‘How is it possible?’: Students in Kalimantan protest against Indonesian haze",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdE91M0lsTmRLbnpmamowSXFUdmFXVWxTN3h1OUVINVpJYlhpSWZzUU9zbm5KNktOUF93X3V1QkZpNEttM1o2TlRFUGJDVFlQcFJuUkVOcjRoWDBuTTctVlI2YldIaU4zd29wREkzdTZ5TWo1RTRNTmxnd3BJM2FHbDR6b1N3Zi05U0J5ZjNPbUEzZ196Ry1DdnFyb1dRUEJPTEdmbjJkeDQ4VTg?oc=5",
+          "published": "2026-10-24T05:35:00+00:00",
+          "source": "The Straits Times",
+          "via": "Google News"
+        },
+        {
+          "title": "Visitors mask up, change plans amid haze; some tour operators see dip in bookings",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPb0xQSUtMbm9MLThMVmZUY0ZwcklfbHRSWFQ2QkN0RGJlS2pGSm1PV2xCaERPcmtFa2pFYzVXdGJ4ODg4b19wT2dfUmIyMmFobnFWdHNDQ3dQN1B3TGF1TEtOM1FaMFRCWGdfVS1vcDlrRVI0a19Zb3RqM3d5bEk3ZEF4cU9ZMVgtU2t3NmlqZ1VSUkVIWEJNdTByeXpCVi0xUkE5U0pfZWlXRmVJN0VNVEhfYW5uLW80WTdxX0lBcw?oc=5",
           "published": "2026-10-24T02:00:00+00:00",
           "source": "The Straits Times",
@@ -120,13 +141,6 @@
           "via": "Google News"
         },
         {
-          "title": "The Singapore connections to the Indonesian companies causing the haze",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE12LTZsQnVNSE9BeElxVzd1STh4U3VXMm1xbjRUaGtBUXkyTE56WDZZS0N4Mnd6SGZXZG5vamRrREYzOGpTYjRmelMyNnlBRkozMnVkb0xzS2x1bU82RXc?oc=5",
-          "published": "2026-10-23T04:45:30+00:00",
-          "source": "The Straits Times",
-          "via": "Google News"
-        },
-        {
           "title": "How PM2.5 in haze affects the human body",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdWNqWVh1U3owejE0b09pcFhacTM1Q0xTZlBqR0k4R19UaFVfVGZuTG13V2JNSzF4QVBWRGpfYnpkaGlkcGxsZEdzMEZOQU1QZmlQZS1VaXRlOFdhQlREczl3OFV3TVJHd2gzOXVtQzA1UFlpd1lYWlR5VWFpa0NDSEhtX2pVWVIxYWRHaTVrYw?oc=5",
           "published": "2026-10-23T04:00:00+00:00",
@@ -137,20 +151,6 @@
           "title": "Getting haze-induced pimples? Skincare dos and don’ts to fight facial irritation",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNM2ROalEwYWpfVzhuQlFIVWFEZlJGZlFpMzZLeDNvWmd6YjBRb1Y4aURBdWhEd1BNU3ptNEpuaFQ0NHJ1MVlTdndoN3o2aVphbWhKeVhYWk1BVmhKaU5tMWhfakdUQ054RjN3RGFlRFJ6MmF3YWZOY0dVT2dwbG9ha1QzdDRVd3hWTXVDZmRscEtpWm04eHBEbUZfVDhvN083ZmZuazU4NUtkSTU1cWow?oc=5",
           "published": "2026-10-23T04:00:00+00:00",
-          "source": "The Straits Times",
-          "via": "Google News"
-        },
-        {
-          "title": "Quick-dash shoppers affecting Johor traders as haze alters consumer behaviour",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPXzVJZVZjUm5waC1fTlp1eV9zQ1J5LU15UlFGZFBvbzNGc054QVZaOUZpMzV4bkJwSkdJd1J6WTZfQ0ljcHRXbUdsM1ZJaDNwUlpzU3dpRkJ1OWZ0T1JIWXpOUE9mSkw1MXNoTWxYdXhCSGdSOVJTdlpUU0FtLWxVbVAwSmFYd0F6RUpXejF5bVhZVmVmYkpLZzdDY1B4LWJLQlVfdi04OWV1ZXZnUmNXT3FIeV92UFVMbHdJ?oc=5",
-          "published": "2026-10-23T02:20:00+00:00",
-          "source": "The Straits Times",
-          "via": "Google News"
-        },
-        {
-          "title": "Haze causes drop in Johor hotel bookings",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWExOS255NnVKdXFtS3dBZDUwTWZKaUlIWVpOYURvXzdxVnFWZlBOMF9HM2JaaV9rcXZUZkx4eHBKNmkyVG9OdnlodVZZa0QxNFRzQkJsQkY3NEswSVZXS1E3WGhxVWhfZ3R2amlvazVyZDRxaVVoS3U2YU5Jd2lUNjFKbTBjRENsdkVxX0tB?oc=5",
-          "published": "2026-10-23T01:45:00+00:00",
           "source": "The Straits Times",
           "via": "Google News"
         }
