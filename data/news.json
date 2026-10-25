@@ -1,43 +1,64 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-25T03:27:39.712119+00:00",
+  "checkedAt": "2026-10-25T08:58:14.346755+00:00",
   "sources": [
     {
       "name": "CNA",
-      "fetchedAt": "2026-10-25T03:27:39.712119+00:00",
+      "fetchedAt": "2026-10-25T08:58:14.346755+00:00",
       "available": true,
       "items": [
         {
           "title": "Deep Dive - Making companies behind the haze pay: Can Singapore succeed?",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZU85MWFqckxtdUFReWVFelpGZGI0OEllR2VCUzdOTDhkMy1IYjJPZGdyc1FlT1dNOGw2djd3dFhYVURNcklBOFpEOWRaZU56NTFCM3gteG4wUjBkZnVaSnF6aW9jejdvVnphRUZCSkdtUkhLaDRsWHdRejdublF4NTlfTlc5bFJWU3RLRlVyYWZUX2FmTXpoVmc5Q1lIRFpVQS0yRnpObWJrT2dGamJDQg?oc=5",
-          "published": "2026-10-25T02:10:05+00:00",
+          "published": "2026-10-25T08:10:07+00:00",
           "source": "CNA",
           "via": "Google News"
         },
         {
           "title": "Deep Dive - Does air-con keep you safe from haze? What we might be getting wrong about haze safety",
           "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZlpTVTg5RGpkRlp6Qi14S210T3YwSllPRDQ5Q0FXaElDVU9lT0RaNE1qc05KaTBpUlV1VmQyaXpabm9zSTFEcE9jYkZ3cFVUNWUyc0R2cTY4d3RDQmlNYlUzWnVMcHVQTVhGci02ZlhSMDJobGN1MVVVTHhhRzZnakN1SEc1elR0MW9Tc2hJZ2FMM1p1V0RVS2ttazgwWjU3RFp4M0sxN19QWlhrem9oLU5MWWlrVWN2RUl5WFpGekMwRExaU3BodnJQUE5lZlUwSVB3?oc=5",
-          "published": "2026-10-25T02:10:02+00:00",
+          "published": "2026-10-25T08:10:02+00:00",
           "source": "CNA",
           "via": "Google News"
         },
         {
-          "title": "Singapore haze: Air quality remains unhealthy in most regions; PM2.5 readings normal across country",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQWNNTS01dFhIS2tOMlY2Tld6WXdDRnlpZUhYXzBvbDZ4M0FUc081OUtxZkZ4SWp6RGRRcnBzZU5TTlNjeG80dHdyYXNSWXFUOUgtdVByU3RHdFNjbUpwNk41VjNtLTREVWNyZkpmSndlMEFTNGVRSUxUWkpySXA4TnplbXI2a2NiVk1zaXNPenhfSFdLRGU1T1JobGoyWXZxRktlUnV0bUZmUUE2enZDQWZEX3M2dmEyTktYbXZPYnZ0aGQzZWVzSkc5NC1OTWs2bTMtQ2tPVHRhTWlhQ3RN?oc=5",
-          "published": "2026-10-25T02:06:26+00:00",
+          "title": "Singapore haze: Air quality improves as 24-hour PSI readings in two regions drop out of unhealthy band",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVkoyVXlIQjhhRHF3eERORGFvU3BrODMyRVlUMHk5TEJ6UmdUb3d3UGtqSHNncWdJcXZQMy1hYTJ1am5xSERyLWdnTXFoRkU0S19qVXlTOENxaVJFTUs4WFpZX3Y3VkpRSTAzampOMVZNRlFVVDFpa2E1LVhyTnpmYzdQS3otWjUxR1ZJUllBVG54Snl2S2FuQVJadjZhVmVsck5zN3ZpSmtMMHF0U3JBZ3hSTTM4YmhOX2hHbTVfNHVLUVdmRzVuU01TNHNvSlVfblUtS3lUTTNEZU9QbkE?oc=5",
+          "published": "2026-10-25T07:21:35+00:00",
           "source": "CNA",
           "via": "Google News"
         },
         {
           "title": "Singapore haze: Air quality remains unhealthy across country; PM2.5 readings normal in all regions",
           "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcXNReDI3UklVZ2swcTYweUdnblNMMnZSeElHaHYxZlQ2ZFNTR1lBc0FNOWEwVUp4VVpyekRIa1B0VzRoTFVkb3JqMjB6TEdOb3FxeW1jRmlSbkdpc0tWWnZhaG5LQVNTSkptZHktX1R3Tmw1YUN5d2s3QzVYdFlLdEtEaTBId1ZfalhtRUE5aHBtSTdJUG5YNTE5T0RCUGJKclp5X2J5c19HcHFNZUZiNTFod3FVMkhSSW1qNlZ3NkRFa0hsQjZIMERLb3BYeW9HLWNjU3lhS09Mc2MxNFE?oc=5",
+          "published": "2026-10-25T01:22:18+00:00",
+          "source": "CNA",
+          "via": "Google News"
+        },
+        {
+          "title": "Singapore haze: Air quality unhealthy, PM2.5 readings elevated across country",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPc2pleDYtT0lndGVYMmxpSWI1WmtyOWxBRUxnaWpybWJjeGg1RWdLTFhhNzVZWFQyUDZHTU1RZFhWekJMUVlfVmlmZDVxWmhpVXVqRUd4VUROMnVhWjc5RWJTQzRvSkwzYWNiblNSSm5feXNJRERWTkVyZ1Q1MHZlSWp6TmpkbXRDLWNkbDR5YVhPN05Vb19rQkd4Umplalo5MjVLbWlIbjNkQzdyRTR5b3h3QTlSdXk1TEJONzI0ZW1Edw?oc=5",
+          "published": "2026-10-24T22:59:54+00:00",
+          "source": "CNA",
+          "via": "Google News"
+        },
+        {
+          "title": "Singapore haze: Air quality improves as 24-hour PSI readings in two regions drop out of unhealthy band",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUzRQQXBTUFdaWS03TVFCaTV5QmJ2RHB3cDNvOGkteEVZREQxMnpNNHR4MFdWV1hISUNNNFhKcXlmcjBIdTBRMkl4UVZ3SWg3dWxJZm1zM0Z4cDB0RDdRaGtOT1NrWmFROG9KME9HbzZyZHg2VnFodmF3LVRlYXZQQnFnWnYtbWFOUVE?oc=5",
           "published": "2026-10-24T22:59:00+00:00",
           "source": "CNA",
           "via": "Google News"
         },
         {
-          "title": "Singapore haze: Air quality unhealthy across country; PM2.5 readings elevated in two regions",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQTRQdXI2ZE9qVVpBNWRHTkQ4TnVmQ18wdWxZYWZjU2R5Nk4xaWthdTR0R3dleGVwRm85LTBkNEVrbmVOSG9qR2Z3MTVEaGQ0QlJmcXZ0NEoxTWpkaFQ1Y3NYS0t2Tkk1QkNsQ05ndkZVTk0yZ0M4dUhYNE1la1o2QzlEYTNTamNnLVNFcjFHek9ubEE5MHJoc3FvcnNJWUd6T1F2Y0NVRkhOOUE0dmNtNTZlNU5qTVJRZ3Y0dEFGS3NwNTZCU2JGaHpkZXV5SW5RMG5NV2dB?oc=5",
+          "title": "Singapore haze: Air quality remains unhealthy in three regions; PM2.5 readings normal across country",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUGgtNjBpdjdCWms1TTMwa05VcTY0bDVQSk5ybFN0MVBzU0htWXJGRkVDaGhoTU5UQ0hfY1hqeHd4d0h3aWZhRWlGT01VM0dwYkZpUnF0dTdwLTFNd3JMd3EyUGVDcE1ockRDZ191NUdqMzh6RUJZLWI3elNsVHFzRmhGcUJMa2JDUUdNd3B1VVhxTElKLUtHanBUTDktY3ZFM0ROU04wMkl5Mk0tUTNLS1I4M1VGcWV3M2hUU29EQ2xWcUlXYnBpaHd0WjBWS1R6MEZSNDNxczF5ZUQwS3ZCMg?oc=5",
+          "published": "2026-10-24T22:59:00+00:00",
+          "source": "CNA",
+          "via": "Google News"
+        },
+        {
+          "title": "Singapore haze: Air quality remains unhealthy in most regions; PM2.5 readings normal across country",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQWNNTS01dFhIS2tOMlY2Tld6WXdDRnlpZUhYXzBvbDZ4M0FUc081OUtxZkZ4SWp6RGRRcnBzZU5TTlNjeG80dHdyYXNSWXFUOUgtdVByU3RHdFNjbUpwNk41VjNtLTREVWNyZkpmSndlMEFTNGVRSUxUWkpySXA4TnplbXI2a2NiVk1zaXNPenhfSFdLRGU1T1JobGoyWXZxRktlUnV0bUZmUUE2enZDQWZEX3M2dmEyTktYbXZPYnZ0aGQzZWVzSkc5NC1OTWs2bTMtQ2tPVHRhTWlhQ3RN?oc=5",
           "published": "2026-10-24T22:59:00+00:00",
           "source": "CNA",
           "via": "Google News"
@@ -55,37 +76,30 @@
           "published": "2026-10-24T14:39:37+00:00",
           "source": "CNA",
           "via": "Google News"
-        },
-        {
-          "title": "CNA938 Rewind - Explainer: How the Transboundary Haze Pollution Act works #SGToday",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPU1hDVHJmOWlCbHYyeTFqdVhlblE4bTFXY0d6NUQzeHhSVGxocjNHSmh4NVFBb2tNajlZTG5UZnN1bEdoSHh3NUoxVV9xTlZkLVExUGtWQlFsQU1wd2tQZWw1bEx2cEptT2kyTXhjY3BQU1NFbXpTNUZiSzEzTWZIUHBoVlJVV0FoQTNRSzRILUpjVTlUblpWTEl5a1VTc2cwbjQzMXA5cEpBektpZ1V6bXNBemdZQlc4Yy1NY0p3?oc=5",
-          "published": "2026-10-24T11:10:25+00:00",
-          "source": "CNA",
-          "via": "Google News"
-        },
-        {
-          "title": "Malaysia's Johor schools to reopen on Oct 26 after weeks of haze-related closures",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYmN1MEZCLUVvM01OSHZieDZFZllUNXBObnlSWE9udGg2YTIwN25DZVFBLXBLdExscDJrem1ieVFYWDYzdVhsXzJPazJOZE1ld0NkU2hvODUtNWdHb1JsUGhXS204NW9sSG50MDRWdnM0VzAwLUtRRWMxX2podFZLdDVadW1xVHEwcUUyY0d0QVJfVmxJU2o4MTdxZzlwZzJ6aTlZT09KclU3dlNnbmd3SDBpV0hIOVk?oc=5",
-          "published": "2026-10-24T11:10:19+00:00",
-          "source": "CNA",
-          "via": "Google News"
-        },
-        {
-          "title": "Indonesia is dropping dry ice to fight haze. But does it work?",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZl81U2F3b0xINWdkd2Y4ZTNnMF9LcTd6T3lkcFFiMkQtX0pvOW5qZ3E2QVNPTzZBUDVwRndNSGU4YUtkWC1CRllXZC0yZmszaDVfNGVWMmgxXzk1Y044UWo0X3ZUcUMzY3ZTNXM4SjVDYUhOeG1Rb1N0dlN0R19BbVYtbHl2R0NDTjZLRGtmaWZpVFlnUmxySzltSFkxUQ?oc=5",
-          "published": "2026-10-24T10:43:54+00:00",
-          "source": "CNA",
-          "via": "Google News"
         }
       ]
     },
     {
       "name": "The Straits Times",
-      "fetchedAt": "2026-10-25T03:27:39.712119+00:00",
+      "fetchedAt": "2026-10-25T08:58:14.346755+00:00",
       "available": true,
       "items": [
         {
-          "title": "Haze in Singapore: PM2.5 readings return to normal but PSI remains in unhealthy range in most regions",
+          "title": "Haze anger fuels calls in Malaysia to boycott products and pursue polluters",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQT2NocDQ2OVQ5M1ZYbEhVT1d1aEZkdlRlWEVyY1RCTjh6bHJWSEx0UmRKSG5CNHp5Nk9ydjlDZjdjcnZuRWFjdnJlLWRxU2RUSl9FOGNfZGw3d0xWTW1Uc2NodUJ6c090WUpKZ1cyOF9vX0dQMmR0aFBleXVBT3d5MkFxYUx0T1VMNDZLcGptUWw0RFNvMkNUckVXakllaldoTXc1ZjNma0ZINDhBcWk1UGxSYzFGTnRuVGxBSkE0X2pCQzFqTFNqdg?oc=5",
+          "published": "2026-10-25T04:00:00+00:00",
+          "source": "The Straits Times",
+          "via": "Google News"
+        },
+        {
+          "title": "Haze anger fuels calls in Malaysia to boycott products and pursue polluters",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOb2VReHIzU0RCY19qN24yS2dQd1FKakNnOTRLQWRYV19fMXp6MWNuTWQ4d0tlQWgwWVlGRllabGkzdmtHX01PbVNybWp6S1psakpZSWt4cnRHQTJxb29pdGE3S21pOG9MdWptYUhzLTZGRGdXVjFhMVdFT0pmTVY3QnBiUVdBSWFOc040alhvM3ZYYTV5bU44dFR3djM4eXkxdEVkWVZHcVg3TnY0d0RiakgxYndYZmVhbEw4di1FRHYyVnYzc0g2Q1lMSEhrbjNFeV9kQkJ4aERDMDRRdzByN3ZlSFc?oc=5",
+          "published": "2026-10-25T04:00:00+00:00",
+          "source": "The Straits Times",
+          "via": "Google News"
+        },
+        {
+          "title": "Haze in Singapore: PM2.5 readings return to normal but PSI still in unhealthy range in most regions",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOa2RqWW9MNmQwS1J6UFZBd2htQjQ5Z01mZ1NNSW5ZeTRWVV9BZE9xcVJVcFRrVkExczZiNVE1d1MzVl95Y1RlTXVYWnM1THBmNFB1RG1xdmZGVm9KbnhIVTNsZ3hMNlRGdlp4Q1ltYTl6X3hneUhsN1pwNHJqOWNaYnBoRklJRkdyOVpRTUN5NU55ZktWYk9YYUhTUUN5bVMwOVVva0pqeWpsVDNXQUZaeE9ob1lna0FBV3hvZjZBQXgyQnc?oc=5",
           "published": "2026-10-24T23:14:00+00:00",
           "source": "The Straits Times",
@@ -94,6 +108,13 @@
         {
           "title": "Who owns the 10 Singapore firms targeted by the haze law?",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSXRiQ0MxbXZFZWZ4OXk1WHVHWWVUV3ptMTE4N0VrMndOVmtkbUpMc3ZiZFRPRmdVVExGSEJKb051WHJCakVUdkUzaWRDeExxT3Myb0tMNEFQYUxNckJNNXZFUmdSSUNSejJiSnJuZ1cxaGkzZTZlQlJYTFNHazdvZE80RFJUb0RRYnBSeTB6RE5Wd1YzMWc?oc=5",
+          "published": "2026-10-24T15:57:00+00:00",
+          "source": "The Straits Times",
+          "via": "Google News"
+        },
+        {
+          "title": "Who owns the 10 S’pore firms targeted by the haze law?",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVU5NbFZtZXZaYjczc1czUS1pMkpmRmc1Q3RGX2k0NlhoQ1NIc3R2MGg2c1dSZ1FwanVJYXhzQVFtVHRYNUMxQ0tpN1JkQWNwZlVfQXhXR095ZUZjbkJjeGxMMFhhUkl4OTJfeE1Uc2V2NzV4SExWT0x4bUI5OFRhblNOMUo5MS14OEFGb1JxeFRsRkZ4eVBPR2lVZ2szdEZZNHBVM3VGb3RYNTRzcFh5aU1n?oc=5",
           "published": "2026-10-24T15:57:00+00:00",
           "source": "The Straits Times",
           "via": "Google News"
@@ -120,37 +141,16 @@
           "via": "Google News"
         },
         {
-          "title": "5 S’pore firms to cooperate with authorities after getting haze law notices",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTEkwZHI4T0pCaVI0SEdvaXlkRjBILUEtazE1V3RMeDRvQlREVC1udzJGOXdicC1Mc2k0QVVrei1uaGotTl9fZGxXZ1ZqeDJ5bmRnU3lvY1BWcHVGTXRFSEVLeEp3VjlaUU5GYWlNbW9ubVNDbEFCUXJlNE80MWNFR3cwN3pXZGlLNDZuU2ZwVXdTY2pvYVA1X3oydlFXdGRjVWdTZW1WUzJ0LWNkQ3ROcXBvVmJTQzBHaVhCTXdJTldLUQ?oc=5",
+          "title": "3 S’pore firms to cooperate with authorities after getting haze law notices",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYmR5dW5qdkdCUUNob2YtLXJpREhiUUNKMExCMEJXZ1FNaDhQaGZSY05DX3dJajBlUG1HaV81ZG1oVDlwNHZKdGNvVEw4c3ppRDNCMm50OGFRSkxHYmZ0bnI3M0lXOF8tZ3U0aUJiWUpVcVE2al9sYmJRWEgyZHRNRkE0alQ1eWNIY0NPc192VjZ0ZC1haUNOazBkU1hCcGlrMHlTLUJIbFFqUEt0V1E2bEtvT3FnYmd3WFNOQmpSVDk2NV9WVl9McU9IeXdwRGh0Qnc?oc=5",
           "published": "2026-10-24T08:28:00+00:00",
           "source": "The Straits Times",
           "via": "Google News"
         },
         {
-          "title": "Haze in Malaysia: All Johor schools to reopen on Oct 26 as conditions improve",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYkxvQkMxTUh0azExRy1JX0pfcFlsb0haLWRYS04zLXFKalJRN1A0d0lvMVBYdlczY3o4UzlScUtMNnc0RU9WUXdFQ0xmeF9uQ3VzOE1kWDRUV2NMb25aZWptb05tc0pSclJfOUxOTU9vQW42aDc5Q29UNE1UVGYtZmJUUWViRkFUMGpaeVIzWGV4TWdOalIwSXV5dXJQV2dTRzU1eVRaVnNVTnIyZGptRFptNTNEd1dwV2c?oc=5",
-          "published": "2026-10-24T08:20:00+00:00",
-          "source": "The Straits Times",
-          "via": "Google News"
-        },
-        {
-          "title": "‘How is it possible?’: Students in Kalimantan protest against Indonesian haze",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdE91M0lsTmRLbnpmamowSXFUdmFXVWxTN3h1OUVINVpJYlhpSWZzUU9zbm5KNktOUF93X3V1QkZpNEttM1o2TlRFUGJDVFlQcFJuUkVOcjRoWDBuTTctVlI2YldIaU4zd29wREkzdTZ5TWo1RTRNTmxnd3BJM2FHbDR6b1N3Zi05U0J5ZjNPbUEzZ196Ry1DdnFyb1dRUEJPTEdmbjJkeDQ4VTg?oc=5",
-          "published": "2026-10-24T05:35:00+00:00",
-          "source": "The Straits Times",
-          "via": "Google News"
-        },
-        {
-          "title": "Visitors mask up, change plans amid haze; some tour operators see dip in bookings",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPb0xQSUtMbm9MLThMVmZUY0ZwcklfbHRSWFQ2QkN0RGJlS2pGSm1PV2xCaERPcmtFa2pFYzVXdGJ4ODg4b19wT2dfUmIyMmFobnFWdHNDQ3dQN1B3TGF1TEtOM1FaMFRCWGdfVS1vcDlrRVI0a19Zb3RqM3d5bEk3ZEF4cU9ZMVgtU2t3NmlqZ1VSUkVIWEJNdTByeXpCVi0xUkE5U0pfZWlXRmVJN0VNVEhfYW5uLW80WTdxX0lBcw?oc=5",
-          "published": "2026-10-24T02:00:00+00:00",
-          "source": "The Straits Times",
-          "via": "Google News"
-        },
-        {
-          "title": "Haze in Singapore: Air quality back in the unhealthy range",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMzExQlZrYUZBQk01Wm5vNTBwYWhCUkdhZGVTWnIwUWRkRUtSOVdtY2Jxd19CcjRVVE1RaUpQOHlyYXJHNkRIcjlHT0lZRFhqWmtDT3EtOXpYSmhzdmVqRWp5ZEMxczJMZnlieWhjb3BqeVZkajFJRHp1ODZKUFYxbmRtRDAwWXMtNmlJSURyRG5YbWQ4cmFKcS03U1E?oc=5",
-          "published": "2026-10-23T23:11:00+00:00",
+          "title": "3 S’pore companies say they will cooperate with authorities after receiving notices under haze law",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNMkF3TnVaaFV6OFI4MTgxNU1lWW03Tk1ZNGZoVFdpYVFKYmt6M3ljUE5LR3hzTExReXFnckUzQjVkVTJjdC1aOVlmUXZnUnhOTWIzVjhDTVphaWNYUG03bmlJcW80Xzl6UFhiMVkwWDA1MnQ1dk5seGxPRGhNb19pNXBtVC1pbUFSb0RGaGxDdmVsdExBVVBjd3IwSmstUFItZk9qM1JyVmNEbVZmY2Q1dGtRY3o0Ymc4d19CdnBtTndSczFrNTBXbEx4Z2p0OXNfRzBacl9NNXU4UGZKTElPU1d6U21SMVdEY3Fzc3JR?oc=5",
+          "published": "2026-10-24T08:28:00+00:00",
           "source": "The Straits Times",
           "via": "Google News"
         }
