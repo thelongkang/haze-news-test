@@ -1,16 +1,58 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-27T03:55:57.377451+00:00",
+  "checkedAt": "2026-10-27T09:40:15.346963+00:00",
   "sources": [
     {
       "name": "CNA",
-      "fetchedAt": "2026-10-27T03:55:57.377451+00:00",
+      "fetchedAt": "2026-10-27T09:40:15.346963+00:00",
       "available": true,
       "items": [
         {
+          "title": "Istana open house to be held on Nov 1 ahead of Deepavali, subject to haze conditions",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUUFPQlhJOVo1YXZReE10VkJCaFIyVld3TlQzMTBXbEZJc3RlX182SEFpYm9MbE5JQzZ3TWtyWlNiOXJkSE5Zdk83Sk9jV2RRNUNCcF9PbmkwRjkxdnZHS0dyWEhCMUUtTlNkaFlMdE93LXFVb1hYakJsQnlWdWIzSGM4VE9feUltSy1uTVM2MW1xVmJBMVhB?oc=5",
+          "published": "2026-10-27T09:16:33+00:00",
+          "source": "CNA",
+          "via": "Google News"
+        },
+        {
+          "title": "1-hour PM2.5 level rises to elevated band in northern Singapore",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQR2U1aXRfUmpiOS13TV9DeHFCaTBiNVlHVVcwLUlZV21UcXdqTXYxbnpSdENzTXRDcW96aTZ6bGtGVV9lbzduaHd6Q0hLSEVEVXItVHpTYUEyT0VwNkRjeTVKV2NqdHlsMzJORm9FdGlkd1ZfbFU4U1NfQmtGQVJmRG1nbHNDV29fM0ZNYQ?oc=5",
+          "published": "2026-10-27T08:19:16+00:00",
+          "source": "CNA",
+          "via": "Google News"
+        },
+        {
           "title": "Deep Dive - Making companies behind the haze pay: Can Singapore succeed?",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZU85MWFqckxtdUFReWVFelpGZGI0OEllR2VCUzdOTDhkMy1IYjJPZGdyc1FlT1dNOGw2djd3dFhYVURNcklBOFpEOWRaZU56NTFCM3gteG4wUjBkZnVaSnF6aW9jejdvVnphRUZCSkdtUkhLaDRsWHdRejdublF4NTlfTlc5bFJWU3RLRlVyYWZUX2FmTXpoVmc5Q1lIRFpVQS0yRnpObWJrT2dGamJDQg?oc=5",
-          "published": "2026-10-27T03:47:37+00:00",
+          "published": "2026-10-27T08:17:37+00:00",
+          "source": "CNA",
+          "via": "Google News"
+        },
+        {
+          "title": "Deep Dive - Does air-con keep you safe from haze? What we might be getting wrong about haze safety",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZlpTVTg5RGpkRlp6Qi14S210T3YwSllPRDQ5Q0FXaElDVU9lT0RaNE1qc05KaTBpUlV1VmQyaXpabm9zSTFEcE9jYkZ3cFVUNWUyc0R2cTY4d3RDQmlNYlUzWnVMcHVQTVhGci02ZlhSMDJobGN1MVVVTHhhRzZnakN1SEc1elR0MW9Tc2hJZ2FMM1p1V0RVS2ttazgwWjU3RFp4M0sxN19QWlhrem9oLU5MWWlrVWN2RUl5WFpGekMwRExaU3BodnJQUE5lZlUwSVB3?oc=5",
+          "published": "2026-10-27T08:10:12+00:00",
+          "source": "CNA",
+          "via": "Google News"
+        },
+        {
+          "title": "Could everyday products be linked to haze? Why sustainable sourcing remains a challenge",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNGhpa3F6eXpSV3hIaHRZMWdTWHlWcGxjMkluTVdzQ2xNamptVDV0MmwtOFBBR1Vzbk1qSjY5b2pUNVJ3b3cxTVFha21nQ25kNGYzRXprRWcxa0FsTU1Ia0JpM0NSLXlWbFo3YUp1b08xam1YRDBfZWtpZDNfekhUamxzNmVQbDhZRzZlLWFUcV9MOGI2dDlZc3ZXV2FLeDl2RmhoVm5PNzVQQndqNjlxVWlXTWQ?oc=5",
+          "published": "2026-10-27T07:07:38+00:00",
+          "source": "CNA",
+          "via": "Google News"
+        },
+        {
+          "title": "Indonesia sends oxygen bus to aid residents choking on forest fire haze",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM1k2WkQ4QXFlVVdpYXRlWHdTVGdkcHVSbEl5WnVPd1o2Qi1iZFNJUV8tY1pqRG1JSTdoaTVCaHFnWlV4OTh6a3RfVnpXcDhxVGROMnJaQnR1aFlRbzctX0ZBdkowRFNxbk5WWHRmSkwtRUNZdUJWZHNxV0VzaGt3dkk0b3BkdWtzV1h6TjlHRkpIbXZHam1n?oc=5",
+          "published": "2026-10-27T07:06:58+00:00",
+          "source": "CNA",
+          "via": "Google News"
+        },
+        {
+          "title": "Singapore looking to strengthen haze law and address 'enforcement gaps': Grace Fu",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMlRzUW5JRkx6dkhWZUJKMlVRNlhMZTByeUtrRjhZN3VXU2tDbnhlRFNvdVNBS2NoVlFXVDkyWElfam1tTE83MG5kS0hsWFVEMEoxMEY0N21TcHVsSzNScVgwSjBkeXRTXzZoTVh1cVVlZEZzVFhOY09QSVJFNi1lUV83azlkU1dnZWI1aWpwRDZKOHBoVHVpUDEzMHdIU0cxRnJjNFVIRlNabUxVQWhPNkVqZlo0alhzRFMwNVlwSQ?oc=5",
+          "published": "2026-10-27T04:04:59+00:00",
           "source": "CNA",
           "via": "Google News"
         },
@@ -18,27 +60,6 @@
           "title": "Singapore looking to strengthen haze law, may make amendments to address enforcement gaps: Grace Fu",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZi1HcElWTzZsdENDMWdacTlMVnN2M0sxOHlxRS1ES01mRUhlTG83enl6UjFYeVZWcGRjY2dRaUJNUFVtWHRtekpCTzhQZTE2UnVFNlNHV0tBMElPeGs0ZFFqRTZwTTNiTmEydW1BVXJEM2NxX3hFV0ZLWnVDM1dGQ3dzbThKNzI0dEdNQ2pURWFUZFF2eXoxZXZ6NXhrYkxzLW9ZWkk1QVNub1k4YlE?oc=5",
           "published": "2026-10-27T03:41:00+00:00",
-          "source": "CNA",
-          "via": "Google News"
-        },
-        {
-          "title": "Deep Dive - Does air-con keep you safe from haze? What we might be getting wrong about haze safety",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZlpTVTg5RGpkRlp6Qi14S210T3YwSllPRDQ5Q0FXaElDVU9lT0RaNE1qc05KaTBpUlV1VmQyaXpabm9zSTFEcE9jYkZ3cFVUNWUyc0R2cTY4d3RDQmlNYlUzWnVMcHVQTVhGci02ZlhSMDJobGN1MVVVTHhhRzZnakN1SEc1elR0MW9Tc2hJZ2FMM1p1V0RVS2ttazgwWjU3RFp4M0sxN19QWlhrem9oLU5MWWlrVWN2RUl5WFpGekMwRExaU3BodnJQUE5lZlUwSVB3?oc=5",
-          "published": "2026-10-27T03:40:11+00:00",
-          "source": "CNA",
-          "via": "Google News"
-        },
-        {
-          "title": "We will do everything within our power to protect Singaporeans: PM Wong on haze",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeFBqeC0tOU8yTlEzRmV3Ti1hTFhFaVhWMWNpN3BkdVQ4YXF5LU5vc3pTSzJudEc1TFlBU1prcGZfa1lCSjdUdzlrQVlGcWdqRDNLYU54LTIwYi04U0JhNFRPaW1wNDNKeXZRdmZVWmFBMkdUMjBaRnF6NFB1ekxSeTRpQW8wQ3RaZzBvZ2NnSW9UczgyMDBQZGl2eW94RU12cnlFeEV1VnRXMk00VUktWGhsUnRvUG1QN05v?oc=5",
-          "published": "2026-10-27T00:28:48+00:00",
-          "source": "CNA",
-          "via": "Google News"
-        },
-        {
-          "title": "Air quality remains in good-to-moderate range; NEA says low likelihood of haze on Tuesday",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQR2U1aXRfUmpiOS13TV9DeHFCaTBiNVlHVVcwLUlZV21UcXdqTXYxbnpSdENzTXRDcW96aTZ6bGtGVV9lbzduaHd6Q0hLSEVEVXItVHpTYUEyT0VwNkRjeTVKV2NqdHlsMzJORm9FdGlkd1ZfbFU4U1NfQmtGQVJmRG1nbHNDV29fM0ZNYQ?oc=5",
-          "published": "2026-10-26T23:25:00+00:00",
           "source": "CNA",
           "via": "Google News"
         },
@@ -55,35 +76,21 @@
           "published": "2026-10-26T00:35:00+00:00",
           "source": "CNA",
           "via": "Google News"
-        },
-        {
-          "title": "Talking Point 2026/2027 - Haze: What Is It Doing To Us?",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNejk0cFR2NnpUWjVpOVRXa2lLcnhocWc2LU1CZWd5aW5tcnNfWURGSHpkM2pWSlQwZm5Yb2ZtWmlZcHVnZmZQcHhTbVVmdFZqTE1EQ0RSQ0Fha1ZDcV9KdGRJaDIxdDVYLXRwalFEUFNkTll5ZFZTdzNEV3pNVmJLeTlwQjh3ZldteE12WUpsRllBM2Ff?oc=5",
-          "published": "2026-10-25T15:00:00+00:00",
-          "source": "CNA",
-          "via": "Google News"
-        },
-        {
-          "title": "Southeast Asia haze: Indonesia steps up firefighting efforts at Way Kambas National Park in Sumatra",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYjhCTjFsamtEZ2ZhN293dG1wdHdCaV91cTJmaDhkbmVhbnVOWGZ4cnVmcWZTNVVXRzFWUWVqRG1hY3l5R1I3TkFSSDM5cjVMekNjc0hteEZjN1BlMWJjM0pLU0hfTV84aGFoU1l4SVRIM0JNVWxTbHBKSUpmb1p3eGpYcUd3cjQ0TnRESkEtVURiam9XcEVDRFVSTlZGZDdOdE5oZnNpMDU4bGVDVUlWSTJWZXhWWERVQlR5NE45SXVKY3JneDZKeFRVa2FhRkFTNVJiSmc5Q0s?oc=5",
-          "published": "2026-10-25T12:43:36+00:00",
-          "source": "CNA",
-          "via": "Google News"
-        },
-        {
-          "title": "Singapore haze: Air quality improves as 24-hour PSI readings in two regions drop out of unhealthy band",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVkoyVXlIQjhhRHF3eERORGFvU3BrODMyRVlUMHk5TEJ6UmdUb3d3UGtqSHNncWdJcXZQMy1hYTJ1am5xSERyLWdnTXFoRkU0S19qVXlTOENxaVJFTUs4WFpZX3Y3VkpRSTAzampOMVZNRlFVVDFpa2E1LVhyTnpmYzdQS3otWjUxR1ZJUllBVG54Snl2S2FuQVJadjZhVmVsck5zN3ZpSmtMMHF0U3JBZ3hSTTM4YmhOX2hHbTVfNHVLUVdmRzVuU01TNHNvSlVfblUtS3lUTTNEZU9QbkE?oc=5",
-          "published": "2026-10-25T07:21:35+00:00",
-          "source": "CNA",
-          "via": "Google News"
         }
       ]
     },
     {
       "name": "The Straits Times",
-      "fetchedAt": "2026-10-27T03:55:57.377451+00:00",
+      "fetchedAt": "2026-10-27T09:40:15.346963+00:00",
       "available": true,
       "items": [
+        {
+          "title": "Stronger haze law will tackle Singapore’s 2 main challenges for enforcement",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5oMnlmMHlERHVfMDZxV084aEhMTS1QRTdacHk3cERmemNhTnBJalRBZm50S1ZUZDRfNXRBeFcwTzhNRFZmcFhxSXRVdkpNUkQwbUhXVzg1cXZvbTR3aEE?oc=5",
+          "published": "2026-10-27T05:18:53+00:00",
+          "source": "The Straits Times",
+          "via": "Google News"
+        },
         {
           "title": "S’pore aims to tighten haze law amid hurdles in gathering evidence, securing cooperation: Grace Fu",
           "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbU96QnRLQTVKMmE4UXB3cUltc20tV1FSZVV3eFZ5Q0UzbVpaRmMyWllHWUZDWmhlN1gyZHM4enJwWm9JSXhZRUFDbjZhTHVFZUZpd01ZMDYybjVfQU1QVEU3MU9lbHhqbElieHluNnVHYUJTR3dEZkJEeEJZVW5TS0JKSFZ3NkhiaUwxUTBoZnlZa25xYkNiM1pBbW8yUTZUUXdpSU1FWU5RTTZwM29PVlJuZ3p5ajhmMnZJTGtFQVVmSVRKMDE3OHRiVUh2S0V2M2NCaF9TSnJjcmxIVldr?oc=5",
@@ -92,15 +99,15 @@
           "via": "Google News"
         },
         {
-          "title": "Haze in Singapore: Normal PM2.5 and good to moderate 24-hour PSI readings islandwide",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbER0eHZjQmRVQmh1YU0tZFhqaTlsa0ZONE5nN1Jfa0loV3ZRc2hXNWxhT2lUUk11RlJUSVNYZUx5UTQwMFhMTHV0dy1HQTVjTGdMYVJfdWVDTE1UWE1ZRnMwcGViTjhOV01MRXp5X1kwUnpsUmFOR2pld1hYOXlGRjg2YklrbFVJWVY4Y0dXQ1ZKMVc5alF5ck4xVlh3YkJFdlR1MlFzMHBnbWU3dFRzU2V4b05yWkZoU056bjFvalNpcjhVMG1kdjZnVGJOYjg?oc=5",
-          "published": "2026-10-26T22:15:00+00:00",
+          "title": "S’pore aims to tighten haze law amid hurdles in gathering evidence, securing cooperation: Grace Fu",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQNHlMaWZaMlZqcXFSazNVS2RfYVZodWJVUnBlcHpYUkp3NlY3Z3RqZjZoTF9jcU9OcUJfOEd5MVltN1FkQ0lwT2dkUlpEbE9pVlZ6WVlFTDhGUzZ0emNGR0o1ZllWTUNhNG9IdC1fR2N5N3RKbF9fcGlpMVZoUzlPZDlNd2I4TkFOZ2ptYVMzc05EZFFpcmtkUlNDX2drZlNObVBTSGY3Uk9LUVI0c2l5cFUzRWhpYXRXTElteThhd0lRa1Z4d1A1cnJPNTAtUTdaT29sX09pTTh1ZkRlcHdHdlJxUnMtZG1TZWtteWt3eEZHT0ZOMEI5VTM4VQ?oc=5",
+          "published": "2026-10-27T03:39:00+00:00",
           "source": "The Straits Times",
           "via": "Google News"
         },
         {
-          "title": "Haze in Singapore: Normal PM2.5 and good to moderate 24-hour PSI readings islandwide",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNb0FEX0VKc3hjNjJRUjdidG8tWjRDbEJKa0RsNGZodEZxZDY5RU0tZGM3QTAyX25sTGxfVlhtRGpNbjlIS0xGM1pMS2tMLWRQazZRTWNEWkdic0l6SXlmNFR2em1KNldGeGwycjBsUFhPNmljdmRTMWY1VEFob1pLY2E2dk1XOTgwcUpnU19LSnRFRlVIRzNqdE83Y0VqdWo5UGJaZ2JOR3cxdFBySkd5SEJHVWlud3hQREpmakd0NnZBTTJIdDFnTmlNcXI5Slplb2xGZnhHLTk5eXhzRXVkRl9HYUstM0tMSWNv?oc=5",
+          "title": "Haze in Singapore: Elevated PM2.5 in north region; good to moderate 24-hour PSI readings islandwide",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbER0eHZjQmRVQmh1YU0tZFhqaTlsa0ZONE5nN1Jfa0loV3ZRc2hXNWxhT2lUUk11RlJUSVNYZUx5UTQwMFhMTHV0dy1HQTVjTGdMYVJfdWVDTE1UWE1ZRnMwcGViTjhOV01MRXp5X1kwUnpsUmFOR2pld1hYOXlGRjg2YklrbFVJWVY4Y0dXQ1ZKMVc5alF5ck4xVlh3YkJFdlR1MlFzMHBnbWU3dFRzU2V4b05yWkZoU056bjFvalNpcjhVMG1kdjZnVGJOYjg?oc=5",
           "published": "2026-10-26T22:15:00+00:00",
           "source": "The Straits Times",
           "via": "Google News"
@@ -120,8 +127,22 @@
           "via": "Google News"
         },
         {
+          "title": "All 10 S’pore-based firms acknowledge NEA notices on haze law; majority say they will cooperate",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQcm01aHVPZVFINXNIcHhzbkU0OGQyTkRVVjFYNHBEd2gtbEd0UXZkNTJXM01PYkNZaEZUQUxkMjdZY2NkX1B0bnNBdThwRmxBMTctdjB1T2M4U3BZWDl2TnY1Zk55RktaT3ktQ2hDQnhaVHRkck4zS1Nnalg0Q2EyNHYzTHRXUTI0bmxVUXZOMUJsY0c1a2x4ZUR5MzNRYkIwTDBvNUpHZ1JURUhRZkpULUItb3d2ZkxONlRCUDNKRGNxY1VIa0dxVV9LeWxrQm9uVWJqRm9kTjlnSGJycWJLS0dJaVVIdEQ3?oc=5",
+          "published": "2026-10-26T06:34:00+00:00",
+          "source": "The Straits Times",
+          "via": "Google News"
+        },
+        {
           "title": "First Resources, Bumitama Agri shares fall after receiving NEA notices over haze",
           "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPX3NyNnVHeHJwTkwyWHZvdDJncE40cmthVkFxNHRuUmtyaERyRkVuQkFXUXREbVVzYjQ2UXRZLW1WRy1mV2hxZmNmaG1TSlFMcUppS2FBNG14bTZfc1gwYWVwVGhkc1JWZkYwaDd4ZEVhMy14bkdsc1pzWVp1cnBjYm1odlo0ZTBWQlA3cWpuUFFELTVUVjV1ckpuZXBWZlUwb0FBSk5RX0dFLXg2Q2ktWFN5RlUxVUVhS0kyczJkVzZtbHlMZmVvd3FMNjBlTDlX?oc=5",
+          "published": "2026-10-26T04:19:00+00:00",
+          "source": "The Straits Times",
+          "via": "Google News"
+        },
+        {
+          "title": "First Resources, Bumitama Agri shares fall after receiving NEA notices over haze",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWXdfSU1JTWdlYkd6ZjJpZ3hnbWNqdU9Ra2xMTThqZ0tpWHFhYVYxM3JSaGRhWWFCYkMzbWhZbHJhMTg4Q01JbGEwbkNXMUNEbmRJZnI3cWJwVk5QMzB4ZVVrZkpBNjhpT1ZpekRrd3d2T3VBVVhZR2VHX2o3cmo1UzNYT0kwQy1JS2dCVVhKSnVjWWc5a0d6WHZMVDFaTWJEXzhKVUxVRWo5VEZiOFRlaDlVWjNhV1pObGtVbVZIbVFhRVlIaG1MMjhTSGRKalQ1Z0lrLXlRNjB0Qjl6dno0?oc=5",
           "published": "2026-10-26T04:19:00+00:00",
           "source": "The Straits Times",
           "via": "Google News"
@@ -130,27 +151,6 @@
           "title": "Haze in Singapore: Normal PM2.5 readings and good to moderate 24-hour PSI islandwide",
           "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdzIxRlpiU1RfYjRNak1rdU5iOEZiaFhXaFlFaXp6R3AtLWtrUjAtbHJsUGJ5TmdzWFN3RGpiQjFkbjAyeTlzbXh4SzV2bXp2b1RKNFFUWEV2aUlFd1luZVVzd1pqMFJ6MnhBTHpHSTB6LWdEMzZVVEUxMWtLVXBqYWsxREg2TGx1YmlSTUJnazkyQlNHVGJYNzRaVmNNVHlHajBaRDVtaUs3bGpGaEZoQTdDRmQ1c2d6N3JPNTBzaW1iSVNkSHljTmo2UmM4ZXc?oc=5",
           "published": "2026-10-25T22:10:00+00:00",
-          "source": "The Straits Times",
-          "via": "Google News"
-        },
-        {
-          "title": "PSI forecast to be in ‘good to moderate’ range on Oct 26; showers over S’pore may reduce haze",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQN1RXMmRDRGJDWWRxYWVRX3RSNFdVdFhESHZHMXcxZjhxZ1hmdFF2cGxXRXJvcWFmcEw0dU5jQXRTNERsd2drcUFPY1I4aHJVNl8wRjFMeEg1VFVZOU5GR2RBb1o3Z3pCVWRFeE93NU9sSzI0VTJtT1RmNFZHUndudmlhYzNDRnBERFJEWTBvaWUtelZ5ZldMUzdsWDhWZVE2djFfQlB2R2Uxcm9Zd09OZWVXN0I5ZFJEdjBOa0xQV1V0b01QbWow?oc=5",
-          "published": "2026-10-25T12:03:00+00:00",
-          "source": "The Straits Times",
-          "via": "Google News"
-        },
-        {
-          "title": "Haze anger fuels calls in Malaysia to boycott products and pursue polluters",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQT2NocDQ2OVQ5M1ZYbEhVT1d1aEZkdlRlWEVyY1RCTjh6bHJWSEx0UmRKSG5CNHp5Nk9ydjlDZjdjcnZuRWFjdnJlLWRxU2RUSl9FOGNfZGw3d0xWTW1Uc2NodUJ6c090WUpKZ1cyOF9vX0dQMmR0aFBleXVBT3d5MkFxYUx0T1VMNDZLcGptUWw0RFNvMkNUckVXakllaldoTXc1ZjNma0ZINDhBcWk1UGxSYzFGTnRuVGxBSkE0X2pCQzFqTFNqdg?oc=5",
-          "published": "2026-10-25T04:00:00+00:00",
-          "source": "The Straits Times",
-          "via": "Google News"
-        },
-        {
-          "title": "Haze in Singapore: PM2.5 readings return to normal but PSI still in unhealthy range in most regions",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOa2RqWW9MNmQwS1J6UFZBd2htQjQ5Z01mZ1NNSW5ZeTRWVV9BZE9xcVJVcFRrVkExczZiNVE1d1MzVl95Y1RlTXVYWnM1THBmNFB1RG1xdmZGVm9KbnhIVTNsZ3hMNlRGdlp4Q1ltYTl6X3hneUhsN1pwNHJqOWNaYnBoRklJRkdyOVpRTUN5NU55ZktWYk9YYUhTUUN5bVMwOVVva0pqeWpsVDNXQUZaeE9ob1lna0FBV3hvZjZBQXgyQnc?oc=5",
-          "published": "2026-10-24T23:14:00+00:00",
           "source": "The Straits Times",
           "via": "Google News"
         }
