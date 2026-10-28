@@ -1,12 +1,26 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-27T15:45:16.282801+00:00",
+  "checkedAt": "2026-10-28T04:18:16.867898+00:00",
   "sources": [
     {
       "name": "CNA",
-      "fetchedAt": "2026-10-27T15:45:16.282801+00:00",
+      "fetchedAt": "2026-10-28T04:18:16.867898+00:00",
       "available": true,
       "items": [
+        {
+          "title": "Singapore sees continued respite from haze, with air quality remaining moderate",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSGVkWVVCVW52ZVM2M19ETVE4NnN1ZXlrOFhWNXVJYzJvSlFLOHpRclhPalFwWGkzNjJJVFZUakw3N0dXa1hEMDhsU2JEc0NFY21xYnVZX0R6VXdNbTJWVlR6WExNdlJJR01lTkNWcVZqMU9IQUN1LUFJd1hxVXBPS2xoQlJ4aFh5OUZSN1BiclI0WTVPd2YwV3QxNnBJemtxcGp2dzMtUQ?oc=5",
+          "published": "2026-10-28T03:56:25+00:00",
+          "source": "CNA",
+          "via": "Google News"
+        },
+        {
+          "title": "Health Matters - Haze, Eczema and JAK Inhibitors",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZXVFeEk5UmlTSm05SVJMUGM3UG8zSlZIa2lmUURmYXcyZHd5TXNiSk5CN0pBamFidENnTi1peDNKNW5FVlczMGJCYjkwWk5rSDNyMG9UNzRaZk9zdXZXYXNKVWJqV20zWjlLeTAxejAwMS1WZi1HRUU0OFkzbHBESXFfenFib2RjVG9tV1hveHhySmZteHVn?oc=5",
+          "published": "2026-10-27T20:24:51+00:00",
+          "source": "CNA",
+          "via": "Google News"
+        },
         {
           "title": "Haze in Singapore: Country looks to strengthen laws, hold companies accountable - Grace Fu",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMWRqWEJQZ3NHVFZrZkdWaEYyOEkwaDBJeUlpMHZkVVllRzBUYzROQ2NpWXdxR1ZQZ29Xd1N4OEZPMHNrSVhIQndQM3pFaDNYdlU5MVRJdWpWcWk4QmFsQ2F2eGI0T0s2VkYxTVNnc3hEU3RDTGFKRWIxOVR6R1dVZU54WEg2SndubmQzZFpIRk5QdXdZMXhkdWkyTUlrQW5qMUNvdUh3OGlDMzFfaktmSkNkaFVPOE96azhObmVqZ01pc0hYanFRMg?oc=5",
@@ -62,28 +76,21 @@
           "published": "2026-10-27T04:04:59+00:00",
           "source": "CNA",
           "via": "Google News"
-        },
-        {
-          "title": "Singapore looking to strengthen haze law, may make amendments to address enforcement gaps: Grace Fu",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZi1HcElWTzZsdENDMWdacTlMVnN2M0sxOHlxRS1ES01mRUhlTG83enl6UjFYeVZWcGRjY2dRaUJNUFVtWHRtekpCTzhQZTE2UnVFNlNHV0tBMElPeGs0ZFFqRTZwTTNiTmEydW1BVXJEM2NxX3hFV0ZLWnVDM1dGQ3dzbThKNzI0dEdNQ2pURWFUZFF2eXoxZXZ6NXhrYkxzLW9ZWkk1QVNub1k4YlE?oc=5",
-          "published": "2026-10-27T03:41:00+00:00",
-          "source": "CNA",
-          "via": "Google News"
-        },
-        {
-          "title": "Singapore haze: Moderate air quality expected in Singapore on Wednesday",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQR2U1aXRfUmpiOS13TV9DeHFCaTBiNVlHVVcwLUlZV21UcXdqTXYxbnpSdENzTXRDcW96aTZ6bGtGVV9lbzduaHd6Q0hLSEVEVXItVHpTYUEyT0VwNkRjeTVKV2NqdHlsMzJORm9FdGlkd1ZfbFU4U1NfQmtGQVJmRG1nbHNDV29fM0ZNYQ?oc=5",
-          "published": "2026-10-26T23:25:00+00:00",
-          "source": "CNA",
-          "via": "Google News"
         }
       ]
     },
     {
       "name": "The Straits Times",
-      "fetchedAt": "2026-10-27T15:45:16.282801+00:00",
+      "fetchedAt": "2026-10-28T04:18:16.867898+00:00",
       "available": true,
       "items": [
+        {
+          "title": "Air quality continues to improve across Singapore",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZzBUZkFseENQYU1lRlIxaUxtQVdOcWhpQVlCRkUwRGE0VF8zMEE0WnhHenN0T1hmRW5iZkxQQUtiV3BaenJlM3hsa24wWk5CUlJiZjFaWDA1WnQ0RVZKNlJ0dWRIN3I2SHY0eC00Q1pNblQtSTJ1TEJFYXl2bnpIQy1XMWVhZnBFRjlwUkRObG1qQjZzRjEybVZCVHhHTjNWNEE?oc=5",
+          "published": "2026-10-27T22:06:00+00:00",
+          "source": "The Straits Times",
+          "via": "Google News"
+        },
         {
           "title": "Unmasking the haze’s toxic cocktail",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWHotOVlYbVpqUnp6QnZ0c1NkUU1wV2ZfVW5rOWVSMl9PQW41UGhnVEhPeF9yYmZ6cVVtaF9CUGxkMXMxZUdsT1owZFZkNFZXeE5WQndTSzJhQXpVa3RodjNEbWJkY2NoV0U1NTdCMG5rYXY3S3E4UEo2ZlM3ZDMyZEt3?oc=5",
@@ -144,13 +151,6 @@
           "title": "First Resources, Bumitama Agri shares fall after receiving NEA notices over haze",
           "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWXdfSU1JTWdlYkd6ZjJpZ3hnbWNqdU9Ra2xMTThqZ0tpWHFhYVYxM3JSaGRhWWFCYkMzbWhZbHJhMTg4Q01JbGEwbkNXMUNEbmRJZnI3cWJwVk5QMzB4ZVVrZkpBNjhpT1ZpekRrd3d2T3VBVVhZR2VHX2o3cmo1UzNYT0kwQy1JS2dCVVhKSnVjWWc5a0d6WHZMVDFaTWJEXzhKVUxVRWo5VEZiOFRlaDlVWjNhV1pObGtVbVZIbVFhRVlIaG1MMjhTSGRKalQ1Z0lrLXlRNjB0Qjl6dno0?oc=5",
           "published": "2026-10-26T04:19:00+00:00",
-          "source": "The Straits Times",
-          "via": "Google News"
-        },
-        {
-          "title": "Haze in Singapore: Normal PM2.5 readings and good to moderate 24-hour PSI islandwide",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdzIxRlpiU1RfYjRNak1rdU5iOEZiaFhXaFlFaXp6R3AtLWtrUjAtbHJsUGJ5TmdzWFN3RGpiQjFkbjAyeTlzbXh4SzV2bXp2b1RKNFFUWEV2aUlFd1luZVVzd1pqMFJ6MnhBTHpHSTB6LWdEMzZVVEUxMWtLVXBqYWsxREg2TGx1YmlSTUJnazkyQlNHVGJYNzRaVmNNVHlHajBaRDVtaUs3bGpGaEZoQTdDRmQ1c2d6N3JPNTBzaW1iSVNkSHljTmo2UmM4ZXc?oc=5",
-          "published": "2026-10-25T22:10:00+00:00",
           "source": "The Straits Times",
           "via": "Google News"
         }
