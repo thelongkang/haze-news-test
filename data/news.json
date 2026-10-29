@@ -1,12 +1,19 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-29T04:38:40.205357+00:00",
+  "checkedAt": "2026-10-29T11:19:10.716404+00:00",
   "sources": [
     {
       "name": "CNA",
-      "fetchedAt": "2026-10-29T04:38:40.205357+00:00",
+      "fetchedAt": "2026-10-29T11:19:10.716404+00:00",
       "available": true,
       "items": [
+        {
+          "title": "Haze situation in Singapore expected to improve as inter-monsoon period sets in: Met Service",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRGMtQjJPYTVEUklqU0FZTWpwSWJ5ZXg4eURQSTZYUzZYNFNLWG9oTVh6QnRNd1B3SDFYV2s4dkhiOUp4VEowUkZCSHN2Q21KZjRmVFhOaFRwb3dvTHpaTktnWkJHWjcxWVJIWkxuaWRFMmhrU0ZXM3pJUVgwdTRDcWN6U2RUMmZHU3ZTdWZZY1ZjMFVh?oc=5",
+          "published": "2026-10-29T10:11:00+00:00",
+          "source": "CNA",
+          "via": "Google News"
+        },
         {
           "title": "Singapore haze: PM2.5 reading briefly enters elevated in west region; air quality moderate",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZTRPVUVieXBzLVR3Z19keEFKRHBUbndLOUkzbFpxUTVvUTloYkVFYkxxdFhtYk1IbTgtcWNnRTNmZFI1Z1FTeXRJaktjVEh1bWFRaEYwS1Y2T210TlU3emFneVRLZEJjWWxMR09XQ25reTFyYjdYR1N4ay1sSUtEeFJTOFBGX3BSSTJIVFRPbFIwdmc4a1JB?oc=5",
@@ -69,24 +76,38 @@
           "published": "2026-10-27T23:42:00+00:00",
           "source": "CNA",
           "via": "Google News"
-        },
-        {
-          "title": "Health Matters - Haze, Eczema and JAK Inhibitors",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZXVFeEk5UmlTSm05SVJMUGM3UG8zSlZIa2lmUURmYXcyZHd5TXNiSk5CN0pBamFidENnTi1peDNKNW5FVlczMGJCYjkwWk5rSDNyMG9UNzRaZk9zdXZXYXNKVWJqV20zWjlLeTAxejAwMS1WZi1HRUU0OFkzbHBESXFfenFib2RjVG9tV1hveHhySmZteHVn?oc=5",
-          "published": "2026-10-27T20:24:51+00:00",
-          "source": "CNA",
-          "via": "Google News"
         }
       ]
     },
     {
       "name": "The Straits Times",
-      "fetchedAt": "2026-10-29T04:38:40.205357+00:00",
+      "fetchedAt": "2026-10-29T11:19:10.716404+00:00",
       "available": true,
       "items": [
         {
-          "title": "Haze in S'pore: PM2.5 reading in elevated zone for 1st time since Oct 27, at 57 in the west",
+          "title": "Lower risk of transboundary haze affecting Singapore due to onset of inter-monsoon: NEA",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSktza2JvMDMtY3Eyd0l3cWtKTXpGZ2ZkTm9TQzh5UU5xNFVXNTdhdzZfcWRJM256T1FiZnM1VHgwMWZCcTh2Nm1QbllOTWlIelhJcFBQVzFoSFo0TWNWcnhvR2w1WEt1UXFWUnBvU1VNLXNqa1gyUXVhdW9QTGU4R2JydWg3RlhfSGI4dnJCc0tVT09WVzRsWk96Q05rckE4YlhtNVlyTXlrbXRxdEtObU4wLUF5M0l3cHd1a2NTa3ktMkJ5cllGNkppQ3ZnSWdlZlhr?oc=5",
+          "published": "2026-10-29T10:46:00+00:00",
+          "source": "The Straits Times",
+          "via": "Google News"
+        },
+        {
+          "title": "Haze exposes gaps in Malaysia’s workplace protections for outdoor workers",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLWZHRW1aanU1YTJpTkhTSE9FX0FtbmJqYjU2cG85WWNDZlk4b2hLTzRTbTA0MDlrUnVvd3pTS1Fhd3l2ZXNJa3VWZFBYQnNyT3kxQXJMYjRucklnY045VVo3eTFnazRTUDM1TU9LVlR2aVVWOTVsR3VfYkVSVmtydmFfemdtN1RuQlFZak9MTG9TWTBobm5DY0JWZWU1ZzdOQTM3NGVwbTdpY3VEbUVhMERzUFE?oc=5",
+          "published": "2026-10-29T06:45:00+00:00",
+          "source": "The Straits Times",
+          "via": "Google News"
+        },
+        {
+          "title": "Haze in S’pore: PM2.5 reading in the west returns to normal zone after entering elevated range",
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWDg4bkZRalF3RjFpa19MNWtkNTVnT0dxQTViWl9wUVhkRVdHZXpNUnVoTGZad2xPNzFNZmh2dGxSSXdWSFUwS1U1MWFXY3VrNGJIRGhwcUMyMTlrZTRTTUF4aWlybkNyQTF1ZE9HSm1pdVJadkJWLU9pQkpFajNYbHV0d1dPT0YwR2JwX09FMXhiWU1sOUZNNU85ZzdJU1FSQ3lwYlpkVFpRNWY3VU0yRVVRTXktMWtPNG9fLXZhQnZvM09mWnc?oc=5",
+          "published": "2026-10-29T03:27:00+00:00",
+          "source": "The Straits Times",
+          "via": "Google News"
+        },
+        {
+          "title": "Haze in S'pore: PM2.5 reading in elevated zone for 1st time since Oct 27, at 57 in the west",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTFBZNUg2N09TZkU3WXZTNEtnamZUbG9NaFNTNjRZeGEySFBLdjFjR0hyaWVEek1hRGt5dTc2SkdaVmVBZWM5QmkwZTJ6Q0ZTeWdoV1ZvLVNxRG4yTHVITU5jcThyWm1xSzJfN2d4ZnZGUFJUWkdnQ3NPVVRScHhQOXJqR3Iydm5XWXNYZE5NR0M0d2piVUNPRjBhaF9kdTJGaXRLYWx1c3dxQy1iOGphZFhNLXpRSFhXVjU1bFplNGVJSjhMakJCcW03VVNpWTRXRlExVw?oc=5",
           "published": "2026-10-29T03:27:00+00:00",
           "source": "The Straits Times",
           "via": "Google News"
@@ -130,27 +151,6 @@
           "title": "Haze in Malaysia: All schools in Selangor to open on Oct 29; use of face masks encouraged",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMFlRU1JzVXBEYTZMMEFUbXNSa0x4U2N1RTc1Y0ZFX2R0VWdiZzJ1V1NyZWJTQWYwd29lVU9CbXdkWUJsMDh4V0ViNWV5RWxYNnNMeW5fYXVteU5ibmk2YzR3SENvZE1lTFFiY2hUMlpST29NZVVXc0NNeUdJM09mRzNickE2blRhNnZiQU1JcEpma1NySV83OXdCV3d2NFF2SVlJaGEzdnNLNGJzOS01VjNTSTgzV3UtUVBKMmNVenlzRHNNQnVUcw?oc=5",
           "published": "2026-10-28T10:53:00+00:00",
-          "source": "The Straits Times",
-          "via": "Google News"
-        },
-        {
-          "title": "Leaders of firms probed for haze links summoned to meet S’pore ministers, warned to cooperate",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOUNZUWpwOUxxYXBEVnRiNmZ4aVNZVE1uY2hFUDJxX2MyUjJHd0ZDU1ctWkYwZ3NKal9KVXhuSnB0S1pGemQxUnpKM0JUUl92ZEpYamJKa1RBLWNiLVlxSzM2NzRxeW5vLXVlbVFEdm1Pd0lqbFRNSElmbi1wSC13TFJYMENjR0JhUkNoRHVEdE9qb1V2Qi1vcXlOLXRFLU5ZeXVJbkNVYVBScHdYUHY1QlpyYXlfcUg5dXpkd0ItY25UMUtLOXUxQ1FKZjJYZ3paTURyaDBtdVZ1ai1aVU5Wck9Ibw?oc=5",
-          "published": "2026-10-28T10:09:00+00:00",
-          "source": "The Straits Times",
-          "via": "Google News"
-        },
-        {
-          "title": "Banks should review financing ties with firms linked to haze: MAS",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPU1hud2k4RktiVWdSM2VtMzZ5YkNOMjhXLU5wUWR3X0FBR2c0SHJQcl9ZZmJ1YjB3UE04RGtNNzV5OXFxQzZDSWNDbktyMWJRSFhlRW1fWmIzSlNmc3JWOEN0WGVXNVZxTUhORDhVcUY4TnBrRGRmM0VLMnRTQ3hTMmhPREFPU0ZfOW02OHd1UUN0Y09FS3FNYnpFZ2JUd0htU25pXw?oc=5",
-          "published": "2026-10-28T10:02:00+00:00",
-          "source": "The Straits Times",
-          "via": "Google News"
-        },
-        {
-          "title": "Banks should review financing ties with firms linked to haze: MAS",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcXpjQ0RJcE16a0h0ZDd1enJaWWtJV0hkX3k5SXA5NkNDd0xRT0E5UXkzaDJEN01pcTkyR3BDNmltZzExWDc5SnRRQ0JMWjd5N0gwSUJfTTVEM3BfdGlLVmEzemlDdVJsN19naVZkamsxWk1fdFJTZlZmQTB1dWN3b1pZMFV5em54empvRkRFWlJmS3JsWmJWaDY3eFhJekxhTVg1ZkJlUEUyRkUyMFJHeWRFVQ?oc=5",
-          "published": "2026-10-28T10:02:00+00:00",
           "source": "The Straits Times",
           "via": "Google News"
         }
