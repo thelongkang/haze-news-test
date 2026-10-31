@@ -1,12 +1,26 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-30T11:11:49.217756+00:00",
+  "checkedAt": "2026-10-31T04:22:15.530668+00:00",
   "sources": [
     {
       "name": "CNA",
-      "fetchedAt": "2026-10-30T11:11:49.217756+00:00",
+      "fetchedAt": "2026-10-31T04:22:15.530668+00:00",
       "available": true,
       "items": [
+        {
+          "title": "Singapore's air quality remains in good-to-moderate range as haze eases",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLXA4N0V2WExSR2JlZ1BKaVJGSFJMQnlXaHhESkZib2hYUjFPVTFVOTJmYVN4Qm41SEdKX1JIWFdFMjN6OTFxdDR6OE1JV2NRSmN4THJ5SVViMmVmNGI5LVg3emZaellwRXl2YUs3UktCTWJNRWR4TDlBZnluT1lIMHlDSmZITEd6SnVweQ?oc=5",
+          "published": "2026-10-30T23:45:42+00:00",
+          "source": "CNA",
+          "via": "Google News"
+        },
+        {
+          "title": "Haze crisis shows importance of cooperation and preparedness: Vivian Balakrishnan",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYzBRbEtuakpIbktlbkV4aUVSc3laNFVrNlR3cXhvOVE2RVktNkpoSF9WaHpjRkJiazktcDJZSEp4Y0FFOGhSSEpnWmtkSGlFTmxOZlYtMnZoZHE5MHFlWnB2bDFBRS1fOHlLd2UtWlc0UDlsN1E0NDdIWUdHZC14a0VheXg0VUUwOVJzRW1RTjVqRks0R0F5Tl9UUkRHaE5yVXZWaFpXMFN4MVkyaHF6SXNuVlN1aFdQXzQ2N3ZvVURIdw?oc=5",
+          "published": "2026-10-30T07:55:54+00:00",
+          "source": "CNA",
+          "via": "Google News"
+        },
         {
           "title": "Strengthening Singapore’s haze law and going beyond prosecutions – how errant firms can be held to account",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPb25nV3JZcnVDbU9odHNhUUoxdFlFLWptYlpCYTU0Q09Gd29VRFVkZHVkUEhfMnRkNUtqa01ndGtkXzc2N0RUVnJXa3g4RUxCcmFlN3JGb0ZScHZLVnY4TkItSVVlWTZNLTkwVmttNmZWVHNsd1hFN2ZaZHlFQ29vZnZaMk5aNi1JWTR0M2d3R3pIbWRqMVhTN2hIQWNtYzg?oc=5",
@@ -62,30 +76,16 @@
           "published": "2026-10-28T12:38:35+00:00",
           "source": "CNA",
           "via": "Google News"
-        },
-        {
-          "title": "PM Wong, Prabowo committed to ‘do what is necessary’ to tackle bilateral issues, including haze: Vivian Balakrishnan",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOekl1QkZYYWdTS2tvM0l2NHFXeTVKd3pTQ05wdExXTWRodTVseFB3UGluS2RzMXVjcUdjbV81WUt1TnZGOTVIR2R0RnNYR1dSRnNSSEpfUWM5bnJ1WHotaEE5WHpxdkJQWldTeEs4VmNaSUJ4UWpFRnVrdUtZbnJXWnhILXBBNVdiU0d4ek9SUVFLenhwcXVPVWpWNlN2eEh5X1llQktNNXF2ckU3SzlERjFB?oc=5",
-          "published": "2026-10-28T11:53:00+00:00",
-          "source": "CNA",
-          "via": "Google News"
-        },
-        {
-          "title": "Haze crisis shows importance of cooperation and preparedness: Vivian Balakrishnan",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYzBRbEtuakpIbktlbkV4aUVSc3laNFVrNlR3cXhvOVE2RVktNkpoSF9WaHpjRkJiazktcDJZSEp4Y0FFOGhSSEpnWmtkSGlFTmxOZlYtMnZoZHE5MHFlWnB2bDFBRS1fOHlLd2UtWlc0UDlsN1E0NDdIWUdHZC14a0VheXg0VUUwOVJzRW1RTjVqRks0R0F5Tl9UUkRHaE5yVXZWaFpXMFN4MVkyaHF6SXNuVlN1aFdQXzQ2N3ZvVURIdw?oc=5",
-          "published": "2026-10-28T11:38:35+00:00",
-          "source": "CNA",
-          "via": "Google News"
         }
       ]
     },
     {
       "name": "The Straits Times",
-      "fetchedAt": "2026-10-30T11:11:49.217756+00:00",
+      "fetchedAt": "2026-10-31T04:22:15.530668+00:00",
       "available": true,
       "items": [
         {
-          "title": "6 firms, one lawyer appointed to specialist panel tasked with probing 10 S’pore companies’ links to haze",
+          "title": "6 firms, 1 lawyer appointed to specialist panel tasked with probing 10 S’pore companies’ links to haze",
           "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObUJiUVJMb3RVNEU5REVPNl8teW1CSVlTblgtSTdFUzRROXduSnpJaGZOblp5N0xLQldkejRVcTVnVkZKaTNWMDl6LWRCX0VxUF81OWF3bkpXNEg0LTBWNVR3ZlJDeFN1VDdRZWlGTlFJSmx4Z2Q4b1pYTERlTUZrZ3pjeWtJYTQ0Qkg0RzhMaUVqOWJ5RXhxRjhhYUlrY2hEcVcxeXNtdS01RW8xbmluQ1FxTHFENHdPczJHSnV5bWFSZnUybEVLbTUzZXl0NDdKWmc?oc=5",
           "published": "2026-10-30T01:00:00+00:00",
           "source": "The Straits Times",
@@ -127,6 +127,13 @@
           "via": "Google News"
         },
         {
+          "title": "Lower risk of transboundary haze affecting Singapore due to onset of inter-monsoon: NEA",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNekg4SVM4NVFrMVkzcjRfSlJENDhJMzhPblVrSmh5WGZQbExlY0hFbzVjN194RFI2ZnhlU1B0RUdKN0tyTWw0VmJaMWhLWGJRRGp4VTlkQnZDNmpCS0pXWC00UEJBQzRGOVIyd25HY2h6YUxXREYwUS1uOXdGWlVyRGFQUVowaDlwZFVJVjVXV0xnekQtRE9VV3cyQlF3NGh1aVhiOTYyX3JaY0Nqd0dNX0hmelYtNmNyWDVhOGhMUFl2a0VSOTlqTFdXUXhJc2dGRERpdmlWMnVBSWt1MEp0YnlnYUc?oc=5",
+          "published": "2026-10-29T10:46:00+00:00",
+          "source": "The Straits Times",
+          "via": "Google News"
+        },
+        {
           "title": "Haze exposes gaps in Malaysia’s workplace protection for outdoor workers",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLWZHRW1aanU1YTJpTkhTSE9FX0FtbmJqYjU2cG85WWNDZlk4b2hLTzRTbTA0MDlrUnVvd3pTS1Fhd3l2ZXNJa3VWZFBYQnNyT3kxQXJMYjRucklnY045VVo3eTFnazRTUDM1TU9LVlR2aVVWOTVsR3VfYkVSVmtydmFfemdtN1RuQlFZak9MTG9TWTBobm5DY0JWZWU1ZzdOQTM3NGVwbTdpY3VEbUVhMERzUFE?oc=5",
           "published": "2026-10-29T06:45:00+00:00",
@@ -143,13 +150,6 @@
         {
           "title": "Haze in S’pore: PM2.5 reading in the west returns to normal zone after entering elevated range",
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWDg4bkZRalF3RjFpa19MNWtkNTVnT0dxQTViWl9wUVhkRVdHZXpNUnVoTGZad2xPNzFNZmh2dGxSSXdWSFUwS1U1MWFXY3VrNGJIRGhwcUMyMTlrZTRTTUF4aWlybkNyQTF1ZE9HSm1pdVJadkJWLU9pQkpFajNYbHV0d1dPT0YwR2JwX09FMXhiWU1sOUZNNU85ZzdJU1FSQ3lwYlpkVFpRNWY3VU0yRVVRTXktMWtPNG9fLXZhQnZvM09mWnc?oc=5",
-          "published": "2026-10-29T03:27:00+00:00",
-          "source": "The Straits Times",
-          "via": "Google News"
-        },
-        {
-          "title": "Haze in S'pore: PM2.5 reading in elevated zone for 1st time since Oct 27, at 57 in the west",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTFBZNUg2N09TZkU3WXZTNEtnamZUbG9NaFNTNjRZeGEySFBLdjFjR0hyaWVEek1hRGt5dTc2SkdaVmVBZWM5QmkwZTJ6Q0ZTeWdoV1ZvLVNxRG4yTHVITU5jcThyWm1xSzJfN2d4ZnZGUFJUWkdnQ3NPVVRScHhQOXJqR3Iydm5XWXNYZE5NR0M0d2piVUNPRjBhaF9kdTJGaXRLYWx1c3dxQy1iOGphZFhNLXpRSFhXVjU1bFplNGVJSjhMakJCcW03VVNpWTRXRlExVw?oc=5",
           "published": "2026-10-29T03:27:00+00:00",
           "source": "The Straits Times",
           "via": "Google News"
