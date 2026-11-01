@@ -1,23 +1,23 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-01T04:41:34.334436+00:00",
+  "checkedAt": "2026-11-01T11:41:46.331299+00:00",
   "sources": [
     {
       "name": "CNA",
-      "fetchedAt": "2026-11-01T04:41:34.334436+00:00",
+      "fetchedAt": "2026-11-01T11:41:46.331299+00:00",
       "available": true,
       "items": [
         {
-          "title": "Haze probe: Five Singapore-registered companies agree to engage assessors",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdll5UGlyV3VFUjAxNk5MNl9EVlhqaGJUQndrRG9uT0tneDVadlhLaE55NnFhaUVwb0xIamUwTEZ5MDR3RDU5MEtILTc1SnNfd1JXNVNreDVRWFIxVzFPWHd3a25nQmY5Xy1DNXVFdXVfQVU1VUp2dE9kanUtYVNWSlA4RnBFV1VhQkY3dXlkQjNTX1Y5MlBuVg?oc=5",
-          "published": "2026-11-01T03:29:16+00:00",
+          "title": "Singapore haze: PM2.5 readings remain in normal range across all regions",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE51am4yUjdtaXBpTnYxQ05TZnprVkNxa0hLc1JPOTdTaFBIRndtdWxtRWNsZHRyRmE2Vk5HYXIyYlh1YUtzMzJMdmhmQ25WRHQtYTAwTnZYNEtuZDVta01xOFIydkVNaWRCMFBEMVI3VVZOT3dCVGNxUQ?oc=5",
+          "published": "2026-10-31T23:34:00+00:00",
           "source": "CNA",
           "via": "Google News"
         },
         {
-          "title": "Singapore haze: PM2.5 readings back to normal islandwide after west briefly enters elevated band",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE51am4yUjdtaXBpTnYxQ05TZnprVkNxa0hLc1JPOTdTaFBIRndtdWxtRWNsZHRyRmE2Vk5HYXIyYlh1YUtzMzJMdmhmQ25WRHQtYTAwTnZYNEtuZDVta01xOFIydkVNaWRCMFBEMVI3VVZOT3dCVGNxUQ?oc=5",
-          "published": "2026-10-31T23:34:00+00:00",
+          "title": "Haze probe: Five Singapore-registered companies agree to engage assessors",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdll5UGlyV3VFUjAxNk5MNl9EVlhqaGJUQndrRG9uT0tneDVadlhLaE55NnFhaUVwb0xIamUwTEZ5MDR3RDU5MEtILTc1SnNfd1JXNVNreDVRWFIxVzFPWHd3a25nQmY5Xy1DNXVFdXVfQVU1VUp2dE9kanUtYVNWSlA4RnBFV1VhQkY3dXlkQjNTX1Y5MlBuVg?oc=5",
+          "published": "2026-10-31T14:27:00+00:00",
           "source": "CNA",
           "via": "Google News"
         },
@@ -32,13 +32,6 @@
           "title": "Singapore's air quality remains in good-to-moderate range as haze eases",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLXA4N0V2WExSR2JlZ1BKaVJGSFJMQnlXaHhESkZib2hYUjFPVTFVOTJmYVN4Qm41SEdKX1JIWFdFMjN6OTFxdDR6OE1JV2NRSmN4THJ5SVViMmVmNGI5LVg3emZaellwRXl2YUs3UktCTWJNRWR4TDlBZnluT1lIMHlDSmZITEd6SnVweQ?oc=5",
           "published": "2026-10-30T23:45:00+00:00",
-          "source": "CNA",
-          "via": "Google News"
-        },
-        {
-          "title": "Haze crisis shows importance of cooperation and preparedness: Vivian Balakrishnan",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYzBRbEtuakpIbktlbkV4aUVSc3laNFVrNlR3cXhvOVE2RVktNkpoSF9WaHpjRkJiazktcDJZSEp4Y0FFOGhSSEpnWmtkSGlFTmxOZlYtMnZoZHE5MHFlWnB2bDFBRS1fOHlLd2UtWlc0UDlsN1E0NDdIWUdHZC14a0VheXg0VUUwOVJzRW1RTjVqRks0R0F5Tl9UUkRHaE5yVXZWaFpXMFN4MVkyaHF6SXNuVlN1aFdQXzQ2N3ZvVURIdw?oc=5",
-          "published": "2026-10-30T07:55:54+00:00",
           "source": "CNA",
           "via": "Google News"
         },
@@ -76,12 +69,19 @@
           "published": "2026-10-29T03:27:00+00:00",
           "source": "CNA",
           "via": "Google News"
+        },
+        {
+          "title": "Commentary: Staying indoors during haze can come at a cost to comfort",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeUx1ZE11VXpTNUNidlR1eTd0SjVVb1RISW13dHRnZ29vSHBfY3E2VnRtcmEzYkZwWTBCeGJJeF82ZHo2OHBqV3JLY2pkUGktVDRET2ZOOXBrSFQ1RkNROW9LMnJoSnBXZ191Qk9IMUhxdmM2YktkNXdOSThKOWdQZ3RvS2J4WkxOdXBzOFVaYXBuQQ?oc=5",
+          "published": "2026-10-28T22:00:00+00:00",
+          "source": "CNA",
+          "via": "Google News"
         }
       ]
     },
     {
       "name": "The Straits Times",
-      "fetchedAt": "2026-11-01T04:41:34.334436+00:00",
+      "fetchedAt": "2026-11-01T11:41:46.331299+00:00",
       "available": true,
       "items": [
         {
