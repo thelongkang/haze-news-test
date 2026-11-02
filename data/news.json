@@ -1,12 +1,26 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-02T04:43:15.830828+00:00",
+  "checkedAt": "2026-11-02T13:09:27.406775+00:00",
   "sources": [
     {
       "name": "CNA",
-      "fetchedAt": "2026-11-02T04:43:15.830828+00:00",
+      "fetchedAt": "2026-11-02T13:09:27.406775+00:00",
       "available": true,
       "items": [
+        {
+          "title": "Delhi introduces anti-pollution measures as air quality worsens",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNmxwejBNdU11TkJHS1UycFg0RlZxNXZHQWpDMzN4RG53V2dGYzR2SDRZRmxfanVfb1FnOEJ6NnI4ZENHak8wYl9jUHR3aWxEZDZVdTFFR1N6V2d2bkdRdF9SZUZnanQyOUJEX1pkc1NJZ1ZWVmlUcDVRY25QX2FVVDVJQktDSFJoRk1lLWdRa0dTTngzal93ZUlrck1qbk41NjNoMUZnVUtKdFE?oc=5",
+          "published": "2026-11-02T11:12:45+00:00",
+          "source": "CNA",
+          "via": "Google News"
+        },
+        {
+          "title": "Parliament to discuss haze, proposed COE changes and public healthcare disruptions",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOc3dZeFRLYXpyazBHTnJVQlpRRXZadV83TXljT0lpNXVGNDRJUkZNekdoOXdBb3kzMDdqUUpBUE13dVAwR0FSU3Z1d3BYcHh4TFgzR3lpTFJvOFNvU2FlX1dxbkczVkQtY1lYMlJsMzhBaGFFaXdwbXIyMDF0UGFzLW1XRmQxTlRHXzZYeUdIUzZhRTFlS0JaVkQyNVI3V05qQURSTk8tMFRKZw?oc=5",
+          "published": "2026-11-02T06:17:00+00:00",
+          "source": "CNA",
+          "via": "Google News"
+        },
         {
           "title": "CNA938 Rewind - Singapore haze crisis: What worked, what fell short and what’s next?",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdk1HMGF5Z29kLXJ1bVc1anNiazJjRTRpd2FON1gxbTY4cG9FOGNfT0ZyQ0JRWjRFbDk4Vk9fNHlSeXhqQkJVaS1HcEs2WkxlQW9TRFh1cFR2cDVUa2ZYVzM0VUtabXdkN3NWd3JsNzlRMVlHRUFBNTQ2UEFGOC1teUpZaUNsajVkT0M4eERHMXdpR05vM2Q3aW1jd3hTWHp5TnA1MWFfdTRxcnVHSlljWmNRYkw4THVWWnZlMnNoOHFUcnc?oc=5",
@@ -62,28 +76,28 @@
           "published": "2026-10-30T01:00:00+00:00",
           "source": "CNA",
           "via": "Google News"
-        },
-        {
-          "title": "Singapore continues to see relief from haze as PM2.5 readings remain normal",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZGg5dG9CTUwtSW5odF93bG51RXhnclZkanhKOGQ0c1VGRmhyQVdwTTkyZzd6Rm5CLXhNd2dCZ0xvTmtGY0wyUmY2U1BHQTdlQ1c3VTdQUEVJUktrMEl1WHpfUnR2WkNUaU9oVzEtbXlFWEdzZ0F6eHpKSGo1bll1QzdSSVBxZHFxTnhtWQ?oc=5",
-          "published": "2026-10-29T23:55:00+00:00",
-          "source": "CNA",
-          "via": "Google News"
-        },
-        {
-          "title": "Haze situation in Singapore expected to improve as inter-monsoon period sets in: Met Service",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRGMtQjJPYTVEUklqU0FZTWpwSWJ5ZXg4eURQSTZYUzZYNFNLWG9oTVh6QnRNd1B3SDFYV2s4dkhiOUp4VEowUkZCSHN2Q21KZjRmVFhOaFRwb3dvTHpaTktnWkJHWjcxWVJIWkxuaWRFMmhrU0ZXM3pJUVgwdTRDcWN6U2RUMmZHU3ZTdWZZY1ZjMFVh?oc=5",
-          "published": "2026-10-29T10:11:00+00:00",
-          "source": "CNA",
-          "via": "Google News"
         }
       ]
     },
     {
       "name": "The Straits Times",
-      "fetchedAt": "2026-11-02T04:43:15.830828+00:00",
+      "fetchedAt": "2026-11-02T13:09:27.406775+00:00",
       "available": true,
       "items": [
+        {
+          "title": "Singapore haze law: Amendments will be made at next Parliament sitting",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1mYWNkaDU3aGd6b2tySXJCVFpucXV0TnpPLXRnU2p2RUxqVHI3RVVhNXp4aG1iYktGR2ZObElQTWtvNnhfV1dvOERxeGg3M2VVS1FNU0lPd3lRUDBRX0E?oc=5",
+          "published": "2026-11-02T07:33:29+00:00",
+          "source": "The Straits Times",
+          "via": "Google News"
+        },
+        {
+          "title": "Parliament to discuss haze law changes, MPs ask about impact on outdoor workers, vulnerable groups",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdkM5d1RacTRTRWNJRWpvZjNjVU5PalIyaUZ5cnN1SmZNd0k0QUo1RjY0MnZaTWpnMktOa2ROYi1RV29NSVVjT092eVRoOEdrVzVTWjNuOXcyRlR4Vm5ENWdrZ3RWWDRaOWtKdDN6TV9sS3RuY1loTFJPb2V3TWstYlRfYV81ZjNDQUt4QUJzZFVpVnhSWG52Q3REMXVBQVNsUkFXMFl3cVh5b1JzcFNtVWtfUWZwRXZNOW4tcVJKWFl3YjZJSTBjWEx0ZkxvMlVNYTJnUWV0Zmw5d3haS1N3?oc=5",
+          "published": "2026-11-02T07:30:00+00:00",
+          "source": "The Straits Times",
+          "via": "Google News"
+        },
         {
           "title": "Haze probe: Three more S’pore-registered companies agree to engage assessors",
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaXdWMUlybkkwMXhfLUNwcHBPYjg3aHg4TWk0aFF1RnJxbU54X2xjM1B0R1N6dU9yek1VOG9tcTBkMnZTbXBQZkpDME9SaTdtX0g5YnBDNlJsZVJjYmQ3bXpXU0trSjlKOHhlZU41WjZlSWh4c3NJeGFoQmhxRll1ZmlqQUV0eGtOWi1mbUxreUdZUkJsWmF2UUJBT2Zxb2FSRFpzQjFpVXZuNjVsTXAzeDZaTUlDRkQ2anBJUUlmVTNuc1ZmVl9MTmJB?oc=5",
@@ -102,13 +116,6 @@
           "title": "Crypto shaken after Binance hack; Wilmar discloses sales to firms in haze probe: Markets this week",
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ0s2SEdjODZ6VjhNQmtoUmxyeEpwVmM1T1hNdE9wN2gyZjRBV0Y3bWdJcFU0amlKLTRxUl9yd2JGME9DOHhXY1pYTDRpZm9HUDRyYWZ3OElWMjVHSld5eGFBWWhxUm1feHh3Y0VHdFlDTEthcUZ4SzBNcU1OSHgxZXh6SXpzc1NTN0h4V2RBclVtWHhuMWRYOE1VZkFNeU1CYXpWNGVHdUJfdjJHdXljZ1ZxTEZnaWJsdEd3eVdVSExXSU8ydVE?oc=5",
           "published": "2026-11-01T03:00:00+00:00",
-          "source": "The Straits Times",
-          "via": "Google News"
-        },
-        {
-          "title": "Singapore haze law: Amendments will be made at next Parliament sitting",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1mYWNkaDU3aGd6b2tySXJCVFpucXV0TnpPLXRnU2p2RUxqVHI3RVVhNXp4aG1iYktGR2ZObElQTWtvNnhfV1dvOERxeGg3M2VVS1FNU0lPd3lRUDBRX0E?oc=5",
-          "published": "2026-10-31T23:27:01+00:00",
           "source": "The Straits Times",
           "via": "Google News"
         },
@@ -144,13 +151,6 @@
           "title": "Trust but diversify: Lessons for Singapore from the haze-related friction with Indonesia",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWC1ISWVOejZEUEQxTktqUE8zYWlwdDBWNGdyZlk4dHdPZ0tFQXBGLTNRYzVkS0o3OXRDeV94T1F0LVRlTkEzZ0RtOGpxSWVJazFGeUREUGk1aXctYzlmS2Zmd1pQOWZqc3JmcjY0cTM4eFBlNjYzbFNaZ0M1RUxKeUNVWmVqSUpqOVJaUktxNVB3ZXFmR2I4ZWNVRHRqdC1DVTBwYTZ5YWJsak9hbFlFVXZEY0VOSWJ0dDhjcy1CTkpTUQ?oc=5",
           "published": "2026-10-29T22:55:00+00:00",
-          "source": "The Straits Times",
-          "via": "Google News"
-        },
-        {
-          "title": "Indonesia names 20 companies as forest fire suspects in crackdown on haze culprits",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNa2dSVnVSdHFLUGZfM0FZbXRwN041LXpmQ0RncW84UTRKaFU4UkF5Qnd3TTZkUUtUaU5ZMkZxZ2lGQll3RmJSN2JfczNHVm5DLWEtRDVKSEhtb05xZ3V4aTR1a291OTk3ZWMxVHowSGx6dUVDTTlvMW9HYW1uRmVnSEJtWks1WkxMdEVJY1I0ZW90Y2tDcUlMbUlXWHMycTZaQjlId01OeElZakxaOEdIUjdBalVNeDBGQTlmc29WZXFCQQ?oc=5",
-          "published": "2026-10-29T11:43:00+00:00",
           "source": "The Straits Times",
           "via": "Google News"
         }
