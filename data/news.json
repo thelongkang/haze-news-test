@@ -1,12 +1,26 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-01T11:41:46.331299+00:00",
+  "checkedAt": "2026-11-02T04:43:15.830828+00:00",
   "sources": [
     {
       "name": "CNA",
-      "fetchedAt": "2026-11-01T11:41:46.331299+00:00",
+      "fetchedAt": "2026-11-02T04:43:15.830828+00:00",
       "available": true,
       "items": [
+        {
+          "title": "CNA938 Rewind - Singapore haze crisis: What worked, what fell short and what’s next?",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdk1HMGF5Z29kLXJ1bVc1anNiazJjRTRpd2FON1gxbTY4cG9FOGNfT0ZyQ0JRWjRFbDk4Vk9fNHlSeXhqQkJVaS1HcEs2WkxlQW9TRFh1cFR2cDVUa2ZYVzM0VUtabXdkN3NWd3JsNzlRMVlHRUFBNTQ2UEFGOC1teUpZaUNsajVkT0M4eERHMXdpR05vM2Q3aW1jd3hTWHp5TnA1MWFfdTRxcnVHSlljWmNRYkw4THVWWnZlMnNoOHFUcnc?oc=5",
+          "published": "2026-11-02T01:50:30+00:00",
+          "source": "CNA",
+          "via": "Google News"
+        },
+        {
+          "title": "Singapore haze: 24-hr PSI readings in good-to-moderate range islandwide",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNd3I3TXZ2cHA2R2Ezc0FyRDkxczZuSE1nMnZBT29rQ3BDYlFnNWxfemJ0NzlNT2E0eVBXOVV3aTFFUWRvZVRkcThTeG11QmFlcTVOOVZMeG13X2tHcUlIdGJMNUE4QnluXzBrekpnazV0SXZaUXkxXzdmR2cxODI1MWotWGNkUQ?oc=5",
+          "published": "2026-11-02T00:08:00+00:00",
+          "source": "CNA",
+          "via": "Google News"
+        },
         {
           "title": "Singapore haze: PM2.5 readings remain in normal range across all regions",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE51am4yUjdtaXBpTnYxQ05TZnprVkNxa0hLc1JPOTdTaFBIRndtdWxtRWNsZHRyRmE2Vk5HYXIyYlh1YUtzMzJMdmhmQ25WRHQtYTAwTnZYNEtuZDVta01xOFIydkVNaWRCMFBEMVI3VVZOT3dCVGNxUQ?oc=5",
@@ -62,28 +76,21 @@
           "published": "2026-10-29T10:11:00+00:00",
           "source": "CNA",
           "via": "Google News"
-        },
-        {
-          "title": "Singapore haze: PM2.5 reading briefly enters elevated in west region; air quality moderate",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZTRPVUVieXBzLVR3Z19keEFKRHBUbndLOUkzbFpxUTVvUTloYkVFYkxxdFhtYk1IbTgtcWNnRTNmZFI1Z1FTeXRJaktjVEh1bWFRaEYwS1Y2T210TlU3emFneVRLZEJjWWxMR09XQ25reTFyYjdYR1N4ay1sSUtEeFJTOFBGX3BSSTJIVFRPbFIwdmc4a1JB?oc=5",
-          "published": "2026-10-29T03:27:00+00:00",
-          "source": "CNA",
-          "via": "Google News"
-        },
-        {
-          "title": "Commentary: Staying indoors during haze can come at a cost to comfort",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeUx1ZE11VXpTNUNidlR1eTd0SjVVb1RISW13dHRnZ29vSHBfY3E2VnRtcmEzYkZwWTBCeGJJeF82ZHo2OHBqV3JLY2pkUGktVDRET2ZOOXBrSFQ1RkNROW9LMnJoSnBXZ191Qk9IMUhxdmM2YktkNXdOSThKOWdQZ3RvS2J4WkxOdXBzOFVaYXBuQQ?oc=5",
-          "published": "2026-10-28T22:00:00+00:00",
-          "source": "CNA",
-          "via": "Google News"
         }
       ]
     },
     {
       "name": "The Straits Times",
-      "fetchedAt": "2026-11-01T11:41:46.331299+00:00",
+      "fetchedAt": "2026-11-02T04:43:15.830828+00:00",
       "available": true,
       "items": [
+        {
+          "title": "Haze probe: Three more S’pore-registered companies agree to engage assessors",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaXdWMUlybkkwMXhfLUNwcHBPYjg3aHg4TWk0aFF1RnJxbU54X2xjM1B0R1N6dU9yek1VOG9tcTBkMnZTbXBQZkpDME9SaTdtX0g5YnBDNlJsZVJjYmQ3bXpXU0trSjlKOHhlZU41WjZlSWh4c3NJeGFoQmhxRll1ZmlqQUV0eGtOWi1mbUxreUdZUkJsWmF2UUJBT2Zxb2FSRFpzQjFpVXZuNjVsTXAzeDZaTUlDRkQ2anBJUUlmVTNuc1ZmVl9MTmJB?oc=5",
+          "published": "2026-11-02T02:50:00+00:00",
+          "source": "The Straits Times",
+          "via": "Google News"
+        },
         {
           "title": "An ASEAN Haze Fund could discourage deforestation",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNb1lhM29EVExRSmRidnhicVlTRk4yaldkcWo1U2VWYzBDYTByT29HOF9sVXd0anc5MDlOcEZEdGZ3S19jUGhRMnJ6RHZlSGFuaWsySE51M0libzU2RkpQSGV4Q050ZDFPQkpva1E3TG1lb0RxYmo2bG8xOGQzTWlLS2E2X0tnNlBKdkthbTU1SQ?oc=5",
@@ -144,13 +151,6 @@
           "title": "Indonesia names 20 companies as forest fire suspects in crackdown on haze culprits",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNa2dSVnVSdHFLUGZfM0FZbXRwN041LXpmQ0RncW84UTRKaFU4UkF5Qnd3TTZkUUtUaU5ZMkZxZ2lGQll3RmJSN2JfczNHVm5DLWEtRDVKSEhtb05xZ3V4aTR1a291OTk3ZWMxVHowSGx6dUVDTTlvMW9HYW1uRmVnSEJtWks1WkxMdEVJY1I0ZW90Y2tDcUlMbUlXWHMycTZaQjlId01OeElZakxaOEdIUjdBalVNeDBGQTlmc29WZXFCQQ?oc=5",
           "published": "2026-10-29T11:43:00+00:00",
-          "source": "The Straits Times",
-          "via": "Google News"
-        },
-        {
-          "title": "Lower risk of transboundary haze affecting Singapore due to onset of inter-monsoon: NEA",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSktza2JvMDMtY3Eyd0l3cWtKTXpGZ2ZkTm9TQzh5UU5xNFVXNTdhdzZfcWRJM256T1FiZnM1VHgwMWZCcTh2Nm1QbllOTWlIelhJcFBQVzFoSFo0TWNWcnhvR2w1WEt1UXFWUnBvU1VNLXNqa1gyUXVhdW9QTGU4R2JydWg3RlhfSGI4dnJCc0tVT09WVzRsWk96Q05rckE4YlhtNVlyTXlrbXRxdEtObU4wLUF5M0l3cHd1a2NTa3ktMkJ5cllGNkppQ3ZnSWdlZlhr?oc=5",
-          "published": "2026-10-29T10:46:00+00:00",
           "source": "The Straits Times",
           "via": "Google News"
         }
