@@ -1,16 +1,58 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-04T13:51:40.725359+00:00",
+  "checkedAt": "2026-11-05T05:25:24.060628+00:00",
   "sources": [
     {
       "name": "CNA",
-      "fetchedAt": "2026-11-04T13:51:40.725359+00:00",
+      "fetchedAt": "2026-11-05T05:25:24.060628+00:00",
       "available": true,
       "items": [
         {
+          "title": "Saktiandi Supaat on Transboundary Haze Pollution (Amendment) Bill",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMWFZT0Zwa01zWm1ScEZ5NDJvV0tyU3Byekhjay1na1BmTHBOcElyVHpldWVBS1ViMDFueDM3dWFIbFVvejh0VFItdkxlVjFIcno1R3AwaFBHWmVWWi1ucHh0Qmw4Vl9BSXVUZUZmOWUtVV90eWcwWnhVM2VpeVN0bl8zaUZ0ZFh4cWY1RUYwbC0zc210ZG5MY0pHbHpsWGROdFA0YWs2cmxCZw?oc=5",
+          "published": "2026-11-04T15:29:53+00:00",
+          "source": "CNA",
+          "via": "Google News"
+        },
+        {
+          "title": "New haze law: MPs raise questions on effectiveness of tougher penalties, overseas enforcement",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPR1ZhWFk4WV9GNElna2I4SVNUbkExRDQ5T3Y4aFliTzJzbVZvakJMbUx1UEtnbG9TV1FaWjU0VlJubnc2a2pPWlpvbkZGRjhPWnBLWkFqOE54VTdVLXBVRXROYjlJSEpFUmhnby1uNUtMUmJ3QmJuZVlvOTBsQTFqRzdTMXB6TlNVSjg2U0phdnpHTHlvZEdVSWtyMmxXaDJwZ095SVBLRk5LWjBuOFZMVnd3S3l4dkE3WlJ4TE11QW1sTjRQcmdXUWtQRQ?oc=5",
+          "published": "2026-11-04T15:16:37+00:00",
+          "source": "CNA",
+          "via": "Google News"
+        },
+        {
+          "title": "Singapore proposes raising maximum haze penalty from S$2 million to S$20 million",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVENzTXhRX29jV2xLT2REd3BMX3ZscF9GS0dOSjVGSUxuVlo0NlVfRHpRaEJsZzBBdGRaSkROMmlBUWhNS3MtZkxaSzVHLWVLX2ZzcEh2bUxOTXZWT2dYNjI2MjAycVBETm45MkFxMGQ1MExoeXhkSlVKdWlnOW55Y0FIM2g3VVItODVlSnZJcWJ6SHNrZlludlh5Z1pqRzl1UU1KQk1teDNjYnE2Q3pTS3QxZFpiZ1k?oc=5",
+          "published": "2026-11-04T15:03:48+00:00",
+          "source": "CNA",
+          "via": "Google News"
+        },
+        {
+          "title": "Singapore strengthens haze laws, passing amendments to Transboundary Haze Pollution Act",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUm90NmF4TnFtbTd1MmxQTWswZ05Mc2I3RXZQMjNnZ3RQcDBzbHpOclpkMVd6SHZ1N2kxT1BSdTFmZUpBOUtnamFURDJYb0FyVmJQbDhvOE5DT21vQWFFbVJydHNBMFJUQWthekN3UnkxZzFkMUF6S095aUhiUUp6OUtMZ0QxLUYzVjUtSS1CNUxPemo2WDU0MjdTZmNxMUVNRXVyWW00MHR4SlRwUTVBNmMtUURXa21LRVVmMllqZ2dfYm1wanlETF9R?oc=5",
+          "published": "2026-11-04T15:03:21+00:00",
+          "source": "CNA",
+          "via": "Google News"
+        },
+        {
+          "title": "Singapore passes tougher haze law, raises maximum fine to S$20 million from S$2 million",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSVhPZDQtWDE3Z0ZXVUZBMUZ1RDV2d1RpYng3UmRmZ2VBNEtUVHhkbWJYX0NPN3hEUlFDZVZoaURsX0ZHMXVzMXJkbGJyUy13N29fdkpwdkN0dEN1YmY3NUxLNEtzZi1GOE1uOVlPbk9ybEVTOG1Cc0VUNGcybkZQQl9OU0FUalpkRmtweHJRczVXTTA4OFR0bUJWa3k0V0Faemd4akRNbGdmaDU4MzhlVmtJMDlJakNGek9QTnprRQ?oc=5",
+          "published": "2026-11-04T15:03:00+00:00",
+          "source": "CNA",
+          "via": "Google News"
+        },
+        {
           "title": "Enhanced haze law 'not a silver bullet', international cooperation remains crucial: Grace Fu",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcDd1QS1xakhmQm9nQjVQWjVZdU5VYldpRjhGQzdpN18wZGdLcGVuNXR3dzZrY3F4aEVWYWFFRHdwOTJiN1NXcF83OE1uSURac0lmOHd2eWgtclBmQjRLcGNtRkJOSExwcVNxYmZKNEZZOHJNZ2xKSkg2VDVKMnJzUkRFd0JZX0FjZmIwWkFBVkFpVVNFVzFRTXc1UQ?oc=5",
-          "published": "2026-11-04T13:44:52+00:00",
+          "published": "2026-11-04T13:44:00+00:00",
+          "source": "CNA",
+          "via": "Google News"
+        },
+        {
+          "title": "Sharael Taha on Transboundary Haze Pollution (Amendment) Bill",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUFBYVlRWWUh6MGh1WF91RWgxY2M0dks3TmJBSXpYVHpGelRiY0lRX3BmV1owT3JTWUxfRjNPZk1ESUNhbThycDRvX0MyUE8xZUE5ZEVKVl91U3JoajQ2ZF9yMHFKRjBWdUwwLUNrUTQ0c2ZBanBzN1laYVF3ejZrWUhPSDJucC1BZnJRTUpnUGYxdDF0Z0Z1T2FHOEYzTW9qeEc3Qg?oc=5",
+          "published": "2026-11-04T13:31:53+00:00",
           "source": "CNA",
           "via": "Google News"
         },
@@ -29,51 +71,9 @@
           "via": "Google News"
         },
         {
-          "title": "David Hoe on Transboundary Haze Pollution (Amendment) Bill",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdXVyZ0ZtdTBjdWxyUkkydnVZbnlhYnR4U2RpOU9OSWliTk1GWmphb1lTMGRuZ2NKeW1ENnFkMUVpa0RVcUh6WmpZNDVNU3dtUy1KQXdBcjItSnpOb1NZM2IweGs1ajdpbDRDSDhKbFBxUm9fNTlVWmlhckpJOVV1TGg5SEsyWE1pR1p5Y05jQVJURGp3V1YyaUt5RUJ4bGpn?oc=5",
-          "published": "2026-11-04T13:07:43+00:00",
-          "source": "CNA",
-          "via": "Google News"
-        },
-        {
-          "title": "Sharael Taha on Transboundary Haze Pollution (Amendment) Bill",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUFBYVlRWWUh6MGh1WF91RWgxY2M0dks3TmJBSXpYVHpGelRiY0lRX3BmV1owT3JTWUxfRjNPZk1ESUNhbThycDRvX0MyUE8xZUE5ZEVKVl91U3JoajQ2ZF9yMHFKRjBWdUwwLUNrUTQ0c2ZBanBzN1laYVF3ejZrWUhPSDJucC1BZnJRTUpnUGYxdDF0Z0Z1T2FHOEYzTW9qeEc3Qg?oc=5",
-          "published": "2026-11-04T12:53:16+00:00",
-          "source": "CNA",
-          "via": "Google News"
-        },
-        {
-          "title": "Azhar Othman on Transboundary Haze Pollution (Amendment) Bill",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVm9JRGhrZXg4aUZnTmc5ajlVbkx6cWR1Q0FrRHg0ekN5ei1ySy01WjJQZW03NHFiMEZ2dV9hUkRpWEI3U3Y4WnN6WERJejgwM1c4anlRWll1VzduTGZpWTJUZnIwZ0laWFZ0RndIanJGMHVlUTNOVy11bFVON0J4WjRDZjBkM2VYX1RnY0g3RU5zaENQdm9WNHBudU5OOXhXTHE0YQ?oc=5",
-          "published": "2026-11-04T12:25:35+00:00",
-          "source": "CNA",
-          "via": "Google News"
-        },
-        {
-          "title": "Hany Soh on Transboundary Haze Pollution (Amendment) Bill",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOThqNWx6dlFOblFoRFZ4Q2lNVV9FbmowY0M3SzhaZjZ1OG53NjJuV2xEdEdLbTYwTmRFbEdVVnd5dHZKSlJka2hWTlJKUklyQTgtMGdPa1E0WW9sTVVFVjk1STdYLXNNc2tkcVpWUnJZS3BJZEJiMFdHMzhvZVhPUkVlalhBdTNfX1hOdWxYTUhheVNXOXRrSi1xdFJwbUk?oc=5",
-          "published": "2026-11-04T12:13:06+00:00",
-          "source": "CNA",
-          "via": "Google News"
-        },
-        {
-          "title": "Jamus Lim on Transboundary Haze Pollution (Amendment) Bill",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNkVBRTBaOWhGZ2tVVHlUTzRuWktwNC1EVUMwRF9vSHZtaEw4Q0txZEt2anlIVjF1Q0kwcHlicFBBbDJXdFJmZlhjOUlrQXhnZHMzX0RodDVXM2JPZklETDhVZmlYUlZRQzF6bUpoNXhab1pobGRmcmhoY2QwTUhhVDBVRGVFbXliZGV4NkEzelBjb3hhQVI0M1ZiWUxmd1pY?oc=5",
-          "published": "2026-11-04T12:06:52+00:00",
-          "source": "CNA",
-          "via": "Google News"
-        },
-        {
-          "title": "Kenneth Goh on Transboundary Haze Pollution (Amendment) Bill",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOczlYRU1vbVYxLS15SVk5YlF1blJ4Q1JvSzlWZ2lBblhiYVVRdkoyVjVMT0JXQ1NXcEJpT0ptUy01cXVMN1hCbmV2SFJadmJuY2gyZm1PeXhHam15R2RuUTZEVG50UjZqS2VrZEtSbzBDUUtUZ3pfSGpUV2U2d2tLcHRHVG5iY3dnR0ZYWDZYbFY3N0pvOXJ6OEhtV2EtUTV6WHY0?oc=5",
-          "published": "2026-11-04T12:05:04+00:00",
-          "source": "CNA",
-          "via": "Google News"
-        },
-        {
           "title": "Kuah Boon Theng on Transboundary Haze Pollution (Amendment) Bill",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaTZWQU9BMGgzTlllamZESmZpZ2pyd2FzeWRpbmtuaE5PS19DR1NldHNUbzB4SnFYR040WmVWNlR1eEhqeXBLT2kzV3JUdExXS0hsQXluMjU4MFJYMHFUUXhFMUZyY0t3MFVkb0pldEhiZExkR0RVOVRxQ1VHX2I0WjNVUzluc3lsRzFTUGRGVnNnUFYwWnlIQWRXVmxCMGFwVTdNQWtwYTE?oc=5",
-          "published": "2026-11-04T12:02:03+00:00",
+          "published": "2026-11-04T13:16:52+00:00",
           "source": "CNA",
           "via": "Google News"
         }
@@ -81,9 +81,16 @@
     },
     {
       "name": "The Straits Times",
-      "fetchedAt": "2026-11-04T13:51:40.725359+00:00",
+      "fetchedAt": "2026-11-05T05:25:24.060628+00:00",
       "available": true,
       "items": [
+        {
+          "title": "MPs raise questions on $20m fine, delay in strengthening haze law, in six-hour debate",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOX00xQ0dMRnZUcmpWUlFZbTFFdXFYR3NMeFJ3NldWSzNiamo3azdTYU1SSW1VRm9idklPT3pGbktpNlY3OHpfX3FDcGFHNEJRaGlmc0cwZmcxaTJJQkJVVUpXTW8tMmtCUllQRmRiY0dGSjJEQ0syU1JUdXg4MTVySnZjS2NIRUtZemxERjZyc3FITXA1S2k5czFYWVhnRmp3YWVZMDFzd1kxN2hFbDhNNmJqT2pmRVJhM3pfclVyWmhldDh6UU5LMlBn?oc=5",
+          "published": "2026-11-04T14:45:00+00:00",
+          "source": "The Straits Times",
+          "via": "Google News"
+        },
         {
           "title": "Workers’ Party’s Jamus Lim draws comparison between the approach to resolving haze fires in Indonesia to negotiating space on a plane when reclining seats",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HT1pVMEU5ZUI1bTV3WDNmSVJZd1RGdE9VZE5NRjRHbjNMelBidkxuUE5IOEZpQ3BNbnFzSUZhRVB5Z0pWMzJfTDc4WVZUYnl2ZHBZUUVHZDZrSHVQRnc?oc=5",
@@ -93,7 +100,7 @@
         },
         {
           "title": "Longer-term health risks of haze need greater attention",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN0lST2VJbWUzTXlRYjNPRTRaWFE1dExBYVpLZEx5X3hfZVp3bUppd0NuQ0o1VGN6bEt3Y1huWGpXVjZhcmdCblRjR2JJc3hFSGhOaW9Jek9ST0VYblBGZnYyYVdOaDFVVWNFSHV3b18tLXNXWmtybWo4cEwxX01DZkNLSE9FSHo0NVRMd2JMV3kxWXF0Z3BIaWQ5VlpmeXdjTnJlZmJSUzQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYk9Ga0YyMWJIWHZIdDJjSGZvSGlJajJXeHhtZG5qRFJxSUlrMFQtX1FTUGNuUGdsa2hvS1dqNTdjZHpnNEhJbnNCOVY1QkNKZFhrRVo0RVVBNWhxa0dxMldQdmh6WWVCZlQ4QjNHR1l1NksyaWtldkRUODZkT3VqSlFDc3ZQOHV0V1lrem1INUNCcEZPcGY0?oc=5",
           "published": "2026-11-04T09:00:00+00:00",
           "source": "The Straits Times",
           "via": "Google News"
@@ -123,13 +130,6 @@
           "title": "Errant firms face $20m fine, blocked financial services under proposed changes to S’pore haze law",
           "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOU3p3SDc1WUEtd3ZpRnE1VEo1OV9KWGxFeE9HUnVyWHNES2lwak5vc2NDRUxNTUJTQnNQbDdkbWctdjR6Uk9LZExVX0NkRGppZlI1UnY1YklKdUhDZV9GM3ktcG1yeUZETUF5RzRhSEdDRl9GVWM5ODB2amlrS3dmbnRaQmlZTTJEWm9kTVhCM0tXN3dTRjE1NHR3Zmo5Q0xGc2d3Ukk0cUZKZ05yeEFMX1Bqc0gzeFdvX3JzNDcwQUFUN0lIcENmR2lqbWV5QUFVX3hNRzJORk10SUZNWXVqa09jTUNhajNNT2tNQWhvN1ZMMzlvbEE?oc=5",
           "published": "2026-11-04T06:50:00+00:00",
-          "source": "The Straits Times",
-          "via": "Google News"
-        },
-        {
-          "title": "Singapore to strengthen regional framework on haze when it’s ASEAN chair in 2027",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPWVBXSVY3emdXYmlWWG82UDVpdEpEMi1TWGJtdlE4aWZDeDFLM1h3anJ0NGd4NXpsWXE2TEdrc3NEVl8tSW1ObHdfX093d3BxTGZRbE1LOWRQX3BvNWc?oc=5",
-          "published": "2026-11-04T03:48:40+00:00",
           "source": "The Straits Times",
           "via": "Google News"
         },
