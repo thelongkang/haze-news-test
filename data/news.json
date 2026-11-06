@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-06T05:24:38.780657+00:00",
+  "checkedAt": "2026-11-06T13:48:58.609809+00:00",
   "sources": [
     {
       "name": "CNA",
-      "fetchedAt": "2026-11-06T05:24:38.780657+00:00",
+      "fetchedAt": "2026-11-06T13:48:58.609809+00:00",
       "available": true,
       "items": [
         {
@@ -81,13 +81,20 @@
     },
     {
       "name": "The Straits Times",
-      "fetchedAt": "2026-11-06T05:24:38.780657+00:00",
+      "fetchedAt": "2026-11-06T13:48:58.609809+00:00",
       "available": true,
       "items": [
         {
+          "title": "Singapore’s stronger haze law could make non-compliant companies ‘corporate pariahs’",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWEYtMHE2MzF6ZTBJdmwzOGtCWl9LWlVwYnhSby1KTVBzN0xpbE5mTHcwNTFseTR4Y1NYSnZpdTJLdUkwaHdKOEpBZU1ZTVpHcnZ1NkFCWVRMMzVDSHZSbjdqR1VwTmswekZiZjFvNWFJdE1pVEFMSG14aE9DVEN4bFB4cThucjdndWR4UEV0MkZoeDBHOWluaGpGVGFZXzQ2bDZwOGRZN2Nvbm9vUzh3WjJuV281cWt2QTdrbE1HdUFNM1Z3Mm9jS3Btdlk?oc=5",
+          "published": "2026-11-06T08:41:00+00:00",
+          "source": "The Straits Times",
+          "via": "Google News"
+        },
+        {
           "title": "Workers’ Party’s Jamus Lim draws comparison between the approach to resolving haze fires in Indonesia to negotiating space on a plane when reclining seats",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HT1pVMEU5ZUI1bTV3WDNmSVJZd1RGdE9VZE5NRjRHbjNMelBidkxuUE5IOEZpQ3BNbnFzSUZhRVB5Z0pWMzJfTDc4WVZUYnl2ZHBZUUVHZDZrSHVQRnc?oc=5",
-          "published": "2026-11-06T01:03:42+00:00",
+          "published": "2026-11-06T07:23:07+00:00",
           "source": "The Straits Times",
           "via": "Google News"
         },
@@ -144,13 +151,6 @@
           "title": "At least 20% more visits to hospitals and polyclinics from start of haze in Sept to mid-October",
           "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSm1TbDhKZGpuM1huandYOTBMVi1JWDdoTW00aFNFR29lUzBISzRTdjFMemZpNTlQSWQxV2pOWlJITHFzWUpQbVJaQ2M2c2xQNkpZMlpnOEVaLWZ6MU5GNjBQOVB2NlVmaEotTTZtR0pCeF9DRDBtcDhyc2RVcVEyTHYzM1ZrYjRWckpKVldoTmszaEdkR1g1cXJYbHhhNmJCd2pTUjl2OEdtS3JqcFZBdWthUFJ1N2VEdGV6bXVyZlhxODdyNjZaaU1jUW5PVlBzRTluWjdrUFMyQQ?oc=5",
           "published": "2026-11-03T12:56:00+00:00",
-          "source": "The Straits Times",
-          "via": "Google News"
-        },
-        {
-          "title": "Over 9 in 10 pre-schools have air-con, but air purifiers needed during haze: Goh Pei Ming",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQzVGcTBnTXdHOXJLamVCb1p1NUNTLXR4YThPLVdzdHo5RlMtWUw5eXZ6S1FMS3J2ZmFaUTNwUWd6TlkyV2F1aU1NdEJRVk01WFpXeTFwRGJwQWg3Vndjb21abk9GZ0l4UXdqQWFWTjR4RVhjVllCa3FwVTE0WlRkVHVZazlNYlc5MjRxVlB1WXFJenpmeU5uSXI0aVQxS0VVTkVmYTlWSnFYQkp0ZHluUXlXcnN4azlqdkVEN3Y2bGZ5NXkxX0pWUGt6TUdPRHRj?oc=5",
-          "published": "2026-11-03T07:50:00+00:00",
           "source": "The Straits Times",
           "via": "Google News"
         }
