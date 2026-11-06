@@ -1,12 +1,26 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-05T14:05:40.737530+00:00",
+  "checkedAt": "2026-11-06T05:24:38.780657+00:00",
   "sources": [
     {
       "name": "CNA",
-      "fetchedAt": "2026-11-05T14:05:40.737530+00:00",
+      "fetchedAt": "2026-11-06T05:24:38.780657+00:00",
       "available": true,
       "items": [
+        {
+          "title": "Singapore's stronger haze law: How it might work and what it may not fix",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOHM1MUl6NUMwcEd4THNaN20yN3JUUXYxb1JPRW1pWnBHelJZS2VfSkthdU8tNHJFamU4SzRKamdmR3RVVDBEZTBFNE5pT056UDdEYnlOaHctQkVTMlJDeG45blpFX0lmRDFrcWRrS2JDMl9zVzRXWHF5VGxxWElDTGxiTVQySTc2MWhuQnRxVHNLRENIYzdhbi05Tnc?oc=5",
+          "published": "2026-11-06T03:55:16+00:00",
+          "source": "CNA",
+          "via": "Google News"
+        },
+        {
+          "title": "Commentary: Singapore’s haze law gets sharper teeth. Will it finally bite?",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPM0NlQWxlT2JVYUlWSXd1YUxWUm9ITkl5TWU4Tm12cWtXMEQ0WDAwNWVDOWF2N2dIOHJMdWhDam84UkhOZFdZWFctaC0wMWRUb29lc21pRlUtelF3Mkd4UkF3bDBqS0xHV2Rxb2RpMkN1MlBlMnZ5SHVrMlBiWGlYeDFCUGVVQnZnS1NzTnVNREJWZHdrYWZ5dWFSaFBTTE0?oc=5",
+          "published": "2026-11-05T22:00:00+00:00",
+          "source": "CNA",
+          "via": "Google News"
+        },
         {
           "title": "Singapore to end N95 mask distribution on Saturday as haze abates",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVElaRUdkclpWdFFOZ2h1VXM4em9tT0xyQ0lHeng0SGs2VEltemlNR2pQejlaaUJKRmRkZU1FUVUwRGtMbFBUSWxTaGFlYkpmV0QyeW05Q2RDZ2xEejFlRWI0ajN0ZG82TGpZRmtLS29rbm9vb3ZyVVRIajlZYnZmNUt3?oc=5",
@@ -62,28 +76,21 @@
           "published": "2026-11-04T13:31:53+00:00",
           "source": "CNA",
           "via": "Google News"
-        },
-        {
-          "title": "Grace Fu and K Shanmugam respond to clarifications sought on Transboundary Haze Pollution (Amendment) Bill",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWldSNnBrb2lHeC1UcUNRTzVhc0VXQWNkV1ZBQWU2akJLdHF2TU9YekMyOXh3blpkYXhpNV9RS2MyTnRlLUdfSTlVZnRTd2hibWwyWnFEQ05pNnF3TkNkQzR5TElfaUhDU0RjZnpCemNtZ2t0ajZBby13cS1qMUR0djVQOERXWHpxVWdVNV9CSVE0VWZSSXd4WE5yd0hWdzRTeDBxODhjdWIxU1RxQ2dfR0Zpai1icUd6bjl5U2ZvNTYyN3EyLWJRcjJaZXNRUVJtbzZ3c3V4T2xPR1Bw?oc=5",
-          "published": "2026-11-04T13:28:37+00:00",
-          "source": "CNA",
-          "via": "Google News"
-        },
-        {
-          "title": "Yip Hon Weng on Transboundary Haze Pollution (Amendment) Bill",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNV0NkU3RJTHN3MEo3UjFIcGdJODZDN3VEYWNwSkIwUUhkWVVkMkpQSURkOFhPREFiVEc4X2F5NHNpdlZBWkd6cmJEMkhlM25rMFVoQWg5QmpIQUV4UHJXVThMRWtjaWdjUXhrT3dFa1FfMFZLd3BFZHFsVHU3dXFxdlRvZFl6Q2p6SEx6X0FNdzdHXzVkdFlWS2xqOWdzZWxNT1ZlVA?oc=5",
-          "published": "2026-11-04T13:28:23+00:00",
-          "source": "CNA",
-          "via": "Google News"
         }
       ]
     },
     {
       "name": "The Straits Times",
-      "fetchedAt": "2026-11-05T14:05:40.737530+00:00",
+      "fetchedAt": "2026-11-06T05:24:38.780657+00:00",
       "available": true,
       "items": [
+        {
+          "title": "Workers’ Party’s Jamus Lim draws comparison between the approach to resolving haze fires in Indonesia to negotiating space on a plane when reclining seats",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HT1pVMEU5ZUI1bTV3WDNmSVJZd1RGdE9VZE5NRjRHbjNMelBidkxuUE5IOEZpQ3BNbnFzSUZhRVB5Z0pWMzJfTDc4WVZUYnl2ZHBZUUVHZDZrSHVQRnc?oc=5",
+          "published": "2026-11-06T01:03:42+00:00",
+          "source": "The Straits Times",
+          "via": "Google News"
+        },
         {
           "title": "Mask distribution, haze shelters to cease by Nov 7; haze subsidy scheme to end from Nov 12",
           "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONFVBdW1hcE5zNEE0QWtRTV82aTZ6TDBmUlF4V252QWxmNjNvT2ttV3IwNUJJQmdrV05KNk1vS3kwRjR2V0JlMldWZ1Z2RjZ0UFNGekhMZjVocnpVVXVDOHM1M2tvc21lRXk4V2lYSVU4ZjhYQkJSZVl1YWxXaUhNWHF5MjdGWkZfSG56dVhVS2g4Q0h2bzBKMGlkRF9mUEtZVFF5V1lPOTk2d0E1cHp4Y0NCSERLVVFvZkFpdmJPVDVJNUdXcm9Xc0RYR2hpaUF4NlJrZXhn?oc=5",
@@ -95,13 +102,6 @@
           "title": "MPs raise questions on $20m fine, delay in strengthening haze law, in six-hour debate",
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOX00xQ0dMRnZUcmpWUlFZbTFFdXFYR3NMeFJ3NldWSzNiamo3azdTYU1SSW1VRm9idklPT3pGbktpNlY3OHpfX3FDcGFHNEJRaGlmc0cwZmcxaTJJQkJVVUpXTW8tMmtCUllQRmRiY0dGSjJEQ0syU1JUdXg4MTVySnZjS2NIRUtZemxERjZyc3FITXA1S2k5czFYWVhnRmp3YWVZMDFzd1kxN2hFbDhNNmJqT2pmRVJhM3pfclVyWmhldDh6UU5LMlBn?oc=5",
           "published": "2026-11-04T14:45:00+00:00",
-          "source": "The Straits Times",
-          "via": "Google News"
-        },
-        {
-          "title": "Workers’ Party’s Jamus Lim draws comparison between the approach to resolving haze fires in Indonesia to negotiating space on a plane when reclining seats",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HT1pVMEU5ZUI1bTV3WDNmSVJZd1RGdE9VZE5NRjRHbjNMelBidkxuUE5IOEZpQ3BNbnFzSUZhRVB5Z0pWMzJfTDc4WVZUYnl2ZHBZUUVHZDZrSHVQRnc?oc=5",
-          "published": "2026-11-04T11:46:37+00:00",
           "source": "The Straits Times",
           "via": "Google News"
         },
