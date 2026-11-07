@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-07T04:52:39.435369+00:00",
+  "checkedAt": "2026-11-07T11:31:26.413940+00:00",
   "sources": [
     {
       "name": "CNA",
-      "fetchedAt": "2026-11-07T04:52:39.435369+00:00",
+      "fetchedAt": "2026-11-07T11:31:26.413940+00:00",
       "available": true,
       "items": [
         {
@@ -81,20 +81,13 @@
     },
     {
       "name": "The Straits Times",
-      "fetchedAt": "2026-11-07T04:52:39.435369+00:00",
+      "fetchedAt": "2026-11-07T11:31:26.413940+00:00",
       "available": true,
       "items": [
         {
           "title": "Singapore’s stronger haze law could make non-compliant companies ‘corporate pariahs’",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWEYtMHE2MzF6ZTBJdmwzOGtCWl9LWlVwYnhSby1KTVBzN0xpbE5mTHcwNTFseTR4Y1NYSnZpdTJLdUkwaHdKOEpBZU1ZTVpHcnZ1NkFCWVRMMzVDSHZSbjdqR1VwTmswekZiZjFvNWFJdE1pVEFMSG14aE9DVEN4bFB4cThucjdndWR4UEV0MkZoeDBHOWluaGpGVGFZXzQ2bDZwOGRZN2Nvbm9vUzh3WjJuV281cWt2QTdrbE1HdUFNM1Z3Mm9jS3Btdlk?oc=5",
           "published": "2026-11-06T08:41:00+00:00",
-          "source": "The Straits Times",
-          "via": "Google News"
-        },
-        {
-          "title": "Workers’ Party’s Jamus Lim draws comparison between the approach to resolving haze fires in Indonesia to negotiating space on a plane when reclining seats",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HT1pVMEU5ZUI1bTV3WDNmSVJZd1RGdE9VZE5NRjRHbjNMelBidkxuUE5IOEZpQ3BNbnFzSUZhRVB5Z0pWMzJfTDc4WVZUYnl2ZHBZUUVHZDZrSHVQRnc?oc=5",
-          "published": "2026-11-06T07:23:07+00:00",
           "source": "The Straits Times",
           "via": "Google News"
         },
@@ -109,6 +102,13 @@
           "title": "MPs raise questions on $20m fine, delay in strengthening haze law, in six-hour debate",
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOX00xQ0dMRnZUcmpWUlFZbTFFdXFYR3NMeFJ3NldWSzNiamo3azdTYU1SSW1VRm9idklPT3pGbktpNlY3OHpfX3FDcGFHNEJRaGlmc0cwZmcxaTJJQkJVVUpXTW8tMmtCUllQRmRiY0dGSjJEQ0syU1JUdXg4MTVySnZjS2NIRUtZemxERjZyc3FITXA1S2k5czFYWVhnRmp3YWVZMDFzd1kxN2hFbDhNNmJqT2pmRVJhM3pfclVyWmhldDh6UU5LMlBn?oc=5",
           "published": "2026-11-04T14:45:00+00:00",
+          "source": "The Straits Times",
+          "via": "Google News"
+        },
+        {
+          "title": "Workers’ Party’s Jamus Lim draws comparison between the approach to resolving haze fires in Indonesia to negotiating space on a plane when reclining seats",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HT1pVMEU5ZUI1bTV3WDNmSVJZd1RGdE9VZE5NRjRHbjNMelBidkxuUE5IOEZpQ3BNbnFzSUZhRVB5Z0pWMzJfTDc4WVZUYnl2ZHBZUUVHZDZrSHVQRnc?oc=5",
+          "published": "2026-11-04T11:53:27+00:00",
           "source": "The Straits Times",
           "via": "Google News"
         },
