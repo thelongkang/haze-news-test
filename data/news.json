@@ -1,12 +1,19 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-06T13:48:58.609809+00:00",
+  "checkedAt": "2026-11-07T04:52:39.435369+00:00",
   "sources": [
     {
       "name": "CNA",
-      "fetchedAt": "2026-11-06T13:48:58.609809+00:00",
+      "fetchedAt": "2026-11-07T04:52:39.435369+00:00",
       "available": true,
       "items": [
+        {
+          "title": "Singapore’s worst haze since 2015: What went right, and what are the lessons?",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeGtzdEFCam1HcXVYTW9KX2U2bXc0N2NNZWljZm1Ua3UyWGpMMkpLcWtaME5NbTA0SzRQcnR5Z0RhUHJoRTBtbERid3B2dUZCR1RhMlJtcEN4NFA0TTlNaWEzUUNqUXlSZFRmWFZkSWluajkzNVc2QS1RMW9mT240Q01nXzRsUlZsSkNCemNNT3JQaFg5dUUxRkM4QjFoTFJfOFBF?oc=5",
+          "published": "2026-11-06T22:00:00+00:00",
+          "source": "CNA",
+          "via": "Google News"
+        },
         {
           "title": "Singapore's stronger haze law: How it might work and what it may not fix",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOHM1MUl6NUMwcEd4THNaN20yN3JUUXYxb1JPRW1pWnBHelJZS2VfSkthdU8tNHJFamU4SzRKamdmR3RVVDBEZTBFNE5pT056UDdEYnlOaHctQkVTMlJDeG45blpFX0lmRDFrcWRrS2JDMl9zVzRXWHF5VGxxWElDTGxiTVQySTc2MWhuQnRxVHNLRENIYzdhbi05Tnc?oc=5",
@@ -44,8 +51,8 @@
         },
         {
           "title": "Singapore proposes raising maximum haze penalty from S$2 million to S$20 million",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVENzTXhRX29jV2xLT2REd3BMX3ZscF9GS0dOSjVGSUxuVlo0NlVfRHpRaEJsZzBBdGRaSkROMmlBUWhNS3MtZkxaSzVHLWVLX2ZzcEh2bUxOTXZWT2dYNjI2MjAycVBETm45MkFxMGQ1MExoeXhkSlVKdWlnOW55Y0FIM2g3VVItODVlSnZJcWJ6SHNrZlludlh5Z1pqRzl1UU1KQk1teDNjYnE2Q3pTS3QxZFpiZ1k?oc=5",
-          "published": "2026-11-04T15:03:48+00:00",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYWRQZUpPRFVWX1hBbEtfRE1kUk4tMHNQZmVYWHF2VVZTYVpUS3NRSXcwS0dXS1lVVzN6cGM4SXd5UGIxRThxVUZ6Z1EtRWNab05ma05ZRmJiMVpiajVDSkFMQnVxMGM4RFZub2JKUmpqejNIcURqdmxVdU5uNC1YRlZpSURXOEJBWWNsMg?oc=5",
+          "published": "2026-11-04T15:03:47+00:00",
           "source": "CNA",
           "via": "Google News"
         },
@@ -69,19 +76,12 @@
           "published": "2026-11-04T13:44:00+00:00",
           "source": "CNA",
           "via": "Google News"
-        },
-        {
-          "title": "Sharael Taha on Transboundary Haze Pollution (Amendment) Bill",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUFBYVlRWWUh6MGh1WF91RWgxY2M0dks3TmJBSXpYVHpGelRiY0lRX3BmV1owT3JTWUxfRjNPZk1ESUNhbThycDRvX0MyUE8xZUE5ZEVKVl91U3JoajQ2ZF9yMHFKRjBWdUwwLUNrUTQ0c2ZBanBzN1laYVF3ejZrWUhPSDJucC1BZnJRTUpnUGYxdDF0Z0Z1T2FHOEYzTW9qeEc3Qg?oc=5",
-          "published": "2026-11-04T13:31:53+00:00",
-          "source": "CNA",
-          "via": "Google News"
         }
       ]
     },
     {
       "name": "The Straits Times",
-      "fetchedAt": "2026-11-06T13:48:58.609809+00:00",
+      "fetchedAt": "2026-11-07T04:52:39.435369+00:00",
       "available": true,
       "items": [
         {
@@ -141,9 +141,9 @@
           "via": "Google News"
         },
         {
-          "title": "Errant firms face $20m fine, blocked financial services under proposed changes to S’pore haze law",
-          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOU3p3SDc1WUEtd3ZpRnE1VEo1OV9KWGxFeE9HUnVyWHNES2lwak5vc2NDRUxNTUJTQnNQbDdkbWctdjR6Uk9LZExVX0NkRGppZlI1UnY1YklKdUhDZV9GM3ktcG1yeUZETUF5RzRhSEdDRl9GVWM5ODB2amlrS3dmbnRaQmlZTTJEWm9kTVhCM0tXN3dTRjE1NHR3Zmo5Q0xGc2d3Ukk0cUZKZ05yeEFMX1Bqc0gzeFdvX3JzNDcwQUFUN0lIcENmR2lqbWV5QUFVX3hNRzJORk10SUZNWXVqa09jTUNhajNNT2tNQWhvN1ZMMzlvbEE?oc=5",
-          "published": "2026-11-04T06:50:00+00:00",
+          "title": "Singapore to strengthen regional framework on haze when it’s ASEAN chair in 2027",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPWVBXSVY3emdXYmlWWG82UDVpdEpEMi1TWGJtdlE4aWZDeDFLM1h3anJ0NGd4NXpsWXE2TEdrc3NEVl8tSW1ObHdfX093d3BxTGZRbE1LOWRQX3BvNWc?oc=5",
+          "published": "2026-11-04T03:48:40+00:00",
           "source": "The Straits Times",
           "via": "Google News"
         },
