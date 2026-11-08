@@ -1,12 +1,26 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-07T11:31:26.413940+00:00",
+  "checkedAt": "2026-11-08T04:45:08.047054+00:00",
   "sources": [
     {
       "name": "CNA",
-      "fetchedAt": "2026-11-07T11:31:26.413940+00:00",
+      "fetchedAt": "2026-11-08T04:45:08.047054+00:00",
       "available": true,
       "items": [
+        {
+          "title": "CNA Explains: How Singapore athletes are catching up on training after weeks of haze",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTDBBMzBmSzVkWS1mUHRSaDdpOHZ3LXFzRGVmX2p5RTVWQVlQVzRwSTdRX0wwS3NpVEVuVjRmbnVZdjZrNV9tdTN3bUx1c1puU1dhQVhqM3FEY3RSZExlSTB0OGRDNTFKcWZ2WkJ2SjR0NVlpMC0tbEFtZHhSWkxuSjlxUm4xV2ZWWVlIbXNFOVFvcjVpMkFSTWFhMExyZllYQVRFS3Y2Z2RvTDZTSURlVnBaMzV2aEc4WTY4RlRYRVc?oc=5",
+          "published": "2026-11-07T15:52:08+00:00",
+          "source": "CNA",
+          "via": "Google News"
+        },
+        {
+          "title": "Deepavali bazaar welcomes last-minute shoppers after sluggish sales amid weeks of haze",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdVMwbnN1aHJjb2ZPU0dJRHZQVnUwcFBxaTNPcW5SMktEcWJqbDhjOGlVbi1IZzd3M2VEYjZuS3c1TGczNWh1ZlM5NlFFRi1XODFoWmJaaTVTRUY5NTM0MW5WaHVIYU1Yd1hZbTNmSFBReUczU2dOeXp0WVR5cC1NNkJNZG9nWGVlZ3EwMl82bENNc3YwclF1SkFneDI0dHpKUUFmN056U1FHb0ctWS04ZjZYMDV3X1pKaGJZaGppRmlwNkNxeld1Ng?oc=5",
+          "published": "2026-11-07T15:34:02+00:00",
+          "source": "CNA",
+          "via": "Google News"
+        },
         {
           "title": "Singapore’s worst haze since 2015: What went right, and what are the lessons?",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeGtzdEFCam1HcXVYTW9KX2U2bXc0N2NNZWljZm1Ua3UyWGpMMkpLcWtaME5NbTA0SzRQcnR5Z0RhUHJoRTBtbERid3B2dUZCR1RhMlJtcEN4NFA0TTlNaWEzUUNqUXlSZFRmWFZkSWluajkzNVc2QS1RMW9mT240Q01nXzRsUlZsSkNCemNNT3JQaFg5dUUxRkM4QjFoTFJfOFBF?oc=5",
@@ -50,13 +64,6 @@
           "via": "Google News"
         },
         {
-          "title": "Singapore proposes raising maximum haze penalty from S$2 million to S$20 million",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYWRQZUpPRFVWX1hBbEtfRE1kUk4tMHNQZmVYWHF2VVZTYVpUS3NRSXcwS0dXS1lVVzN6cGM4SXd5UGIxRThxVUZ6Z1EtRWNab05ma05ZRmJiMVpiajVDSkFMQnVxMGM4RFZub2JKUmpqejNIcURqdmxVdU5uNC1YRlZpSURXOEJBWWNsMg?oc=5",
-          "published": "2026-11-04T15:03:47+00:00",
-          "source": "CNA",
-          "via": "Google News"
-        },
-        {
           "title": "Singapore strengthens haze laws, passing amendments to Transboundary Haze Pollution Act",
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUm90NmF4TnFtbTd1MmxQTWswZ05Mc2I3RXZQMjNnZ3RQcDBzbHpOclpkMVd6SHZ1N2kxT1BSdTFmZUpBOUtnamFURDJYb0FyVmJQbDhvOE5DT21vQWFFbVJydHNBMFJUQWthekN3UnkxZzFkMUF6S095aUhiUUp6OUtMZ0QxLUYzVjUtSS1CNUxPemo2WDU0MjdTZmNxMUVNRXVyWW00MHR4SlRwUTVBNmMtUURXa21LRVVmMllqZ2dfYm1wanlETF9R?oc=5",
           "published": "2026-11-04T15:03:21+00:00",
@@ -69,19 +76,12 @@
           "published": "2026-11-04T15:03:00+00:00",
           "source": "CNA",
           "via": "Google News"
-        },
-        {
-          "title": "Enhanced haze law 'not a silver bullet', international cooperation remains crucial: Grace Fu",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcDd1QS1xakhmQm9nQjVQWjVZdU5VYldpRjhGQzdpN18wZGdLcGVuNXR3dzZrY3F4aEVWYWFFRHdwOTJiN1NXcF83OE1uSURac0lmOHd2eWgtclBmQjRLcGNtRkJOSExwcVNxYmZKNEZZOHJNZ2xKSkg2VDVKMnJzUkRFd0JZX0FjZmIwWkFBVkFpVVNFVzFRTXc1UQ?oc=5",
-          "published": "2026-11-04T13:44:00+00:00",
-          "source": "CNA",
-          "via": "Google News"
         }
       ]
     },
     {
       "name": "The Straits Times",
-      "fetchedAt": "2026-11-07T11:31:26.413940+00:00",
+      "fetchedAt": "2026-11-08T04:45:08.047054+00:00",
       "available": true,
       "items": [
         {
@@ -108,7 +108,7 @@
         {
           "title": "Workers’ Party’s Jamus Lim draws comparison between the approach to resolving haze fires in Indonesia to negotiating space on a plane when reclining seats",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HT1pVMEU5ZUI1bTV3WDNmSVJZd1RGdE9VZE5NRjRHbjNMelBidkxuUE5IOEZpQ3BNbnFzSUZhRVB5Z0pWMzJfTDc4WVZUYnl2ZHBZUUVHZDZrSHVQRnc?oc=5",
-          "published": "2026-11-04T11:53:27+00:00",
+          "published": "2026-11-04T11:46:37+00:00",
           "source": "The Straits Times",
           "via": "Google News"
         },
@@ -141,16 +141,16 @@
           "via": "Google News"
         },
         {
-          "title": "Singapore to strengthen regional framework on haze when it’s ASEAN chair in 2027",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPWVBXSVY3emdXYmlWWG82UDVpdEpEMi1TWGJtdlE4aWZDeDFLM1h3anJ0NGd4NXpsWXE2TEdrc3NEVl8tSW1ObHdfX093d3BxTGZRbE1LOWRQX3BvNWc?oc=5",
-          "published": "2026-11-04T03:48:40+00:00",
+          "title": "At least 20% more visits to hospitals and polyclinics from start of haze in Sept to mid-October",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSm1TbDhKZGpuM1huandYOTBMVi1JWDdoTW00aFNFR29lUzBISzRTdjFMemZpNTlQSWQxV2pOWlJITHFzWUpQbVJaQ2M2c2xQNkpZMlpnOEVaLWZ6MU5GNjBQOVB2NlVmaEotTTZtR0pCeF9DRDBtcDhyc2RVcVEyTHYzM1ZrYjRWckpKVldoTmszaEdkR1g1cXJYbHhhNmJCd2pTUjl2OEdtS3JqcFZBdWthUFJ1N2VEdGV6bXVyZlhxODdyNjZaaU1jUW5PVlBzRTluWjdrUFMyQQ?oc=5",
+          "published": "2026-11-03T12:56:00+00:00",
           "source": "The Straits Times",
           "via": "Google News"
         },
         {
-          "title": "At least 20% more visits to hospitals and polyclinics from start of haze in Sept to mid-October",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSm1TbDhKZGpuM1huandYOTBMVi1JWDdoTW00aFNFR29lUzBISzRTdjFMemZpNTlQSWQxV2pOWlJITHFzWUpQbVJaQ2M2c2xQNkpZMlpnOEVaLWZ6MU5GNjBQOVB2NlVmaEotTTZtR0pCeF9DRDBtcDhyc2RVcVEyTHYzM1ZrYjRWckpKVldoTmszaEdkR1g1cXJYbHhhNmJCd2pTUjl2OEdtS3JqcFZBdWthUFJ1N2VEdGV6bXVyZlhxODdyNjZaaU1jUW5PVlBzRTluWjdrUFMyQQ?oc=5",
-          "published": "2026-11-03T12:56:00+00:00",
+          "title": "Over 9 in 10 pre-schools have air-con, but air purifiers needed during haze: Goh Pei Ming",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQzVGcTBnTXdHOXJLamVCb1p1NUNTLXR4YThPLVdzdHo5RlMtWUw5eXZ6S1FMS3J2ZmFaUTNwUWd6TlkyV2F1aU1NdEJRVk01WFpXeTFwRGJwQWg3Vndjb21abk9GZ0l4UXdqQWFWTjR4RVhjVllCa3FwVTE0WlRkVHVZazlNYlc5MjRxVlB1WXFJenpmeU5uSXI0aVQxS0VVTkVmYTlWSnFYQkp0ZHluUXlXcnN4azlqdkVEN3Y2bGZ5NXkxX0pWUGt6TUdPRHRj?oc=5",
+          "published": "2026-11-03T07:50:00+00:00",
           "source": "The Straits Times",
           "via": "Google News"
         }
