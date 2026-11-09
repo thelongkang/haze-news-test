@@ -1,12 +1,19 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-08T11:43:41.805920+00:00",
+  "checkedAt": "2026-11-09T04:54:03.204661+00:00",
   "sources": [
     {
       "name": "CNA",
-      "fetchedAt": "2026-11-08T11:43:41.805920+00:00",
+      "fetchedAt": "2026-11-09T04:54:03.204661+00:00",
       "available": true,
       "items": [
+        {
+          "title": "CNA Up Close: The meteorologist behind Singapore's haze and weather forecasts",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMXUwV3IzdTFpZ251Y3k2VnJqVEhmUlY5S1VrU293aS04Zm1lNE9HU3NMekx3aFNkN1pZd1p6bVVRYUJudWhGSXh3WUkwbjNKa3l5LUhPdDhDM2hsUFNPWEZ5WW1RVWwtaTdUeHVtcWN2VVZhMWUzaGVqa1ZEejhLSVh5UnNNcWMtejVfOC16b0FRbDJ3TXV5YkJnOWFtR2wtcTdLVzVxTEFWdXZGZkswZzBMTVcteFFC?oc=5",
+          "published": "2026-11-08T15:26:09+00:00",
+          "source": "CNA",
+          "via": "Google News"
+        },
         {
           "title": "CNA Explains: How Singapore athletes are catching up on training after weeks of haze",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTDBBMzBmSzVkWS1mUHRSaDdpOHZ3LXFzRGVmX2p5RTVWQVlQVzRwSTdRX0wwS3NpVEVuVjRmbnVZdjZrNV9tdTN3bUx1c1puU1dhQVhqM3FEY3RSZExlSTB0OGRDNTFKcWZ2WkJ2SjR0NVlpMC0tbEFtZHhSWkxuSjlxUm4xV2ZWWVlIbXNFOVFvcjVpMkFSTWFhMExyZllYQVRFS3Y2Z2RvTDZTSURlVnBaMzV2aEc4WTY4RlRYRVc?oc=5",
@@ -69,21 +76,21 @@
           "published": "2026-11-04T15:03:21+00:00",
           "source": "CNA",
           "via": "Google News"
-        },
-        {
-          "title": "Singapore passes tougher haze law, raises maximum fine to S$20 million from S$2 million",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSVhPZDQtWDE3Z0ZXVUZBMUZ1RDV2d1RpYng3UmRmZ2VBNEtUVHhkbWJYX0NPN3hEUlFDZVZoaURsX0ZHMXVzMXJkbGJyUy13N29fdkpwdkN0dEN1YmY3NUxLNEtzZi1GOE1uOVlPbk9ybEVTOG1Cc0VUNGcybkZQQl9OU0FUalpkRmtweHJRczVXTTA4OFR0bUJWa3k0V0Faemd4akRNbGdmaDU4MzhlVmtJMDlJakNGek9QTnprRQ?oc=5",
-          "published": "2026-11-04T15:03:00+00:00",
-          "source": "CNA",
-          "via": "Google News"
         }
       ]
     },
     {
       "name": "The Straits Times",
-      "fetchedAt": "2026-11-08T11:43:41.805920+00:00",
+      "fetchedAt": "2026-11-09T04:54:03.204661+00:00",
       "available": true,
       "items": [
+        {
+          "title": "S’pore can designate errant entities or individuals under proposed amendments to haze law",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCU2prLUlmeHd5eVA2UVdUSW9hNi1hZHhJNkI1VGkzM1hiblZKZFNzNGZqaDR2REZENVJaN1d0blMtRzZDNXhaTy1BeWJ0RHNZREEzM2d6ZDBqTldmUHc?oc=5",
+          "published": "2026-11-08T12:22:36+00:00",
+          "source": "The Straits Times",
+          "via": "Google News"
+        },
         {
           "title": "Haze in 2026 estimated to cost Singapore $2.32 billion, up 4% from 2015: Experts",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdTZ3YWZDalBVdUU5N2tocmswSkNycUNOZWo5TjN4NVdVQUVLLVVtdUs4dTdaRGkyOVVyNE5nblZPQzVwajB1QXZtZERNdE00clpwSjNxbmVTZzlzTFE2Ykw1aU9vTEVPUV81bF9TTmNkSjVUVWJUcHZRRWlSMUFCY3plQnFYSTJvNVBURld0OGloYWZwbzVzZVZrZWtpbmRVZHNxLTNnRmNuNVhHanRxZm5sTi1jQQ?oc=5",
@@ -123,13 +130,6 @@
           "title": "Longer-term health risks of haze need greater attention",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYk9Ga0YyMWJIWHZIdDJjSGZvSGlJajJXeHhtZG5qRFJxSUlrMFQtX1FTUGNuUGdsa2hvS1dqNTdjZHpnNEhJbnNCOVY1QkNKZFhrRVo0RVVBNWhxa0dxMldQdmh6WWVCZlQ4QjNHR1l1NksyaWtldkRUODZkT3VqSlFDc3ZQOHV0V1lrem1INUNCcEZPcGY0?oc=5",
           "published": "2026-11-04T09:00:00+00:00",
-          "source": "The Straits Times",
-          "via": "Google News"
-        },
-        {
-          "title": "S’pore can designate errant entities or individuals under proposed amendments to haze law",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCU2prLUlmeHd5eVA2UVdUSW9hNi1hZHhJNkI1VGkzM1hiblZKZFNzNGZqaDR2REZENVJaN1d0blMtRzZDNXhaTy1BeWJ0RHNZREEzM2d6ZDBqTldmUHc?oc=5",
-          "published": "2026-11-04T08:59:32+00:00",
           "source": "The Straits Times",
           "via": "Google News"
         },
