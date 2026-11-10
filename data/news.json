@@ -1,16 +1,37 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-10T06:10:03.870888+00:00",
+  "checkedAt": "2026-11-10T15:25:57.894965+00:00",
   "sources": [
     {
       "name": "CNA",
-      "fetchedAt": "2026-11-10T06:10:03.870888+00:00",
+      "fetchedAt": "2026-11-10T15:25:57.894965+00:00",
       "available": true,
       "items": [
+        {
+          "title": "Lost race training days to the haze? Don't rush to catch up, say experts",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNXdmZ1BOTTJsNlVtSGVYY3NIZndCQ1RDTHZoZDJ0VThfemJTRTQ3TmJNMFZZNWtQQnRFOExqSWh1YnVvUURpdXViM3BkSE5wam9PeEZUVkZxRjBvdEdxbXp2VnJEVVQxcHY1V0F0VGE2dFlmODJOc1VCdVJiQ1ZQSkxJcXQyWVhBWlRELW5wTDRLZUdGUXE1dWFMU2RYZTB6ZmpMY2RqWDM0SXZGT2lj?oc=5",
+          "published": "2026-11-10T07:48:20+00:00",
+          "source": "CNA",
+          "via": "Google News"
+        },
+        {
+          "title": "CNA938 Rewind - The Wellness Hour - Can the haze affect your blood sugar? What people with diabetes should know",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSDZLZ29GeU9FWlVoQ3J1TlEwRWozWXZQa1NreHFTb0Z4TWNjU29IMkNTellnMWRIU0xjcDFfM19WN0dBR0Q2Q1JxSlRubDdSZTZMMFBEWDM0WHVFcnd6RjRMaWdNN0tfcmJqLUU2VDRXRzQ3WExzNlVzakNXT21sMmxJekZTalBnaHhWb1ppWXJTYXZ1S0tiaThBVGZJczVJZ3c4X1NnZWRnRU9KTXRkeG9hampwQzZWMlBvVGVlaWlkcDYyWnhtZjZUaEZpT1kyR0tkekMyUQ?oc=5",
+          "published": "2026-11-10T07:09:59+00:00",
+          "source": "CNA",
+          "via": "Google News"
+        },
         {
           "title": "South Asia smog: Air quality in New Delhi worsens after Diwali celebrations",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZXFTLWY3djV6MHJfS0huV3RvTExkUGxIOHFXVmpvLUplSm80NXB0ZFl6c0pVbUhhWllnbFlxcHFyUEh0OVhWZm83LTJMWDdTNmNaa1htUzk0Nm1XOVJ2RU8xQzlMV3FiYmRfMlMwN2tGV0ZVQlhhYlgyRXVaLV9LV3d1VlRnNU1DMnRBN0NabVo0S0d5VVNKdG5Gb0tNdFlRWE9Vam5aUTBJM2p2VHVQNGpNbzJNZFotOGFVSg?oc=5",
           "published": "2026-11-09T13:30:54+00:00",
+          "source": "CNA",
+          "via": "Google News"
+        },
+        {
+          "title": "CNA938 Rewind - A different kind of haze? Closer hotspots & favourable winds",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNVk1cU1CdWtVbmxCdXRZNS1zQWhYQ2NLaWVFWUFZdDlLdG55bHcybkRZdUdpSHBYMUduRV9pNGdWVzlBLU8yM21YVjRBNFFDeE9DUlhzSHluaTBvZ2ZfOFREdlhDS3dzSUlDZTE0MUdmZjZLTVM4NTdMY1pySnZLVFMxVXRrZjByOXFqM21LQjZGbUtXYlh6Z3h5WURSVUY3amhUNlppMm15MXEtbHRncjd4dUlvakd3MWhPUXJ4ME52Y2lnSHFDQUVQSVRGckJxN3VUcTRnWG9rczhZMUlR?oc=5",
+          "published": "2026-11-09T03:58:31+00:00",
           "source": "CNA",
           "via": "Google News"
         },
@@ -22,6 +43,13 @@
           "via": "Google News"
         },
         {
+          "title": "CNA938 Rewind - Explainer: How the Transboundary Haze Pollution Act works #SGToday",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOS0ZmdF95Xzg5bE54bGdNVE5icFJYemNrcVhQSF9ObG5mVV9TU3lLUUMzVEoxaEJpSGZOSS10OEdCSE1iaUNZUDNja2lXem1naV92LWE1cDQwTHIwMVh0dHE5MGdHaUVqaW9RdUNrd2xEeHdPd1ZnZGFNdHFrWFVOeHFGY05IQ1J4Rlk3cEw2amJRS3QyTGxyazJQSWxWeF9Ba1JyVExXY3c5ZDA3RE1pcU9icGFKUUxRQXZLLTR2cVJteXVDeXV4cjJWZmhUMnZpSGE5UXNHS3huRzV0V0YwRS0zTVFPamxHOUE?oc=5",
+          "published": "2026-11-08T14:30:42+00:00",
+          "source": "CNA",
+          "via": "Google News"
+        },
+        {
           "title": "Deep Dive - Making companies behind the haze pay: Can Singapore succeed?",
           "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNa3pHZGhiaGJXTDVmNlY1YUQ5eGUtRXZvbzBVZFVxNW9wOGhFRjczOHJIRWNKWUZBMEY3cDBCenVXMGd5UFh6cmx2Y29xNU1ENDRRRWdQc21OOEFUV2lfakxLWXZBODRVbEV6XzVNUDc4VkRDM1kzREpNWW5YZFIxOUtmS0YzeTVsNWF6TXliVHltSVdRM1VBdU4wZ2ZoNUZ0R1ZpeXF5TVc4TTI5MnFibVd5aklpRHhSSGFwMHZhNEhCVVJCOHJXd1p4YUdTVEczR2wxTEh2dzJaZkRL?oc=5",
           "published": "2026-11-08T13:51:57+00:00",
@@ -29,51 +57,23 @@
           "via": "Google News"
         },
         {
-          "title": "CNA Explains: How Singapore athletes are catching up on training after weeks of haze",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTDBBMzBmSzVkWS1mUHRSaDdpOHZ3LXFzRGVmX2p5RTVWQVlQVzRwSTdRX0wwS3NpVEVuVjRmbnVZdjZrNV9tdTN3bUx1c1puU1dhQVhqM3FEY3RSZExlSTB0OGRDNTFKcWZ2WkJ2SjR0NVlpMC0tbEFtZHhSWkxuSjlxUm4xV2ZWWVlIbXNFOVFvcjVpMkFSTWFhMExyZllYQVRFS3Y2Z2RvTDZTSURlVnBaMzV2aEc4WTY4RlRYRVc?oc=5",
-          "published": "2026-11-07T15:52:08+00:00",
+          "title": "CNA938 Rewind - Is haze costing Singaporeans more than they think?",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWXBWOEtVSGNQZWdTWVlUZGU0bllsU2hyaGlHUlVBVEFHbUpXT1N5TEk2Tkp1eEExaFlvT3ZCZWFIX05kdW02WWxDNENZc1NzQXd0ZFBPVTRVQVFqZEREd0pUYTllR2VTZE1fTG8xRGcwTkN2NElyZXhGbHlLNG54VXMycXNHM0hzZ0RpM3dWT2Qwd21zLUt5bjNmSTRUOWtDRF9yMUo1cDdVanhUNVowX1VTeU9DSl9HTmRZSDl6WXIyRUdreHJOaHlhUVpETXRx?oc=5",
+          "published": "2026-11-08T12:15:41+00:00",
           "source": "CNA",
           "via": "Google News"
         },
         {
-          "title": "Singapore’s worst haze since 2015: What went right, and what are the lessons?",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeGtzdEFCam1HcXVYTW9KX2U2bXc0N2NNZWljZm1Ua3UyWGpMMkpLcWtaME5NbTA0SzRQcnR5Z0RhUHJoRTBtbERid3B2dUZCR1RhMlJtcEN4NFA0TTlNaWEzUUNqUXlSZFRmWFZkSWluajkzNVc2QS1RMW9mT240Q01nXzRsUlZsSkNCemNNT3JQaFg5dUUxRkM4QjFoTFJfOFBF?oc=5",
-          "published": "2026-11-06T22:00:00+00:00",
+          "title": "CNA938 Rewind - Singapore haze: Why are people still going outdoors despite poor air quality?",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQVHpQUFJPVHJOTy1XZ2p2czFSVHh6UUM2dUdQRWx1R2dxUkFLMEg4QnRCOHE3cE9wWEl2U3BIejZJSDRNYmt1VG1paFNDcl9Xc3NhSmkxd3ZPNnY3YkdPZ3dUV21KamxmZGJwNDBZclVSUktUWmJ5dHZ5RV9kcXZzbG1MWjF6dFNlMFhvNlZFckJZTHBZN2VKY0NDaWRoZEFhVE1zeU4yT09IbGdEbE44UzBiUVZkMXJfdU1hRTZ4MVNSTEJzVXJTTlNmcDVFWEFhZkRHaUE1MnBQYThSVzRjaUtZMHFLcVE0Ri1JMmNDdEF0RXRaUllGQUhoQkR2QQ?oc=5",
+          "published": "2026-11-08T11:07:10+00:00",
           "source": "CNA",
           "via": "Google News"
         },
         {
-          "title": "Singapore's stronger haze law: How it might work and what it may not fix",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOHM1MUl6NUMwcEd4THNaN20yN3JUUXYxb1JPRW1pWnBHelJZS2VfSkthdU8tNHJFamU4SzRKamdmR3RVVDBEZTBFNE5pT056UDdEYnlOaHctQkVTMlJDeG45blpFX0lmRDFrcWRrS2JDMl9zVzRXWHF5VGxxWElDTGxiTVQySTc2MWhuQnRxVHNLRENIYzdhbi05Tnc?oc=5",
-          "published": "2026-11-06T03:55:16+00:00",
-          "source": "CNA",
-          "via": "Google News"
-        },
-        {
-          "title": "Commentary: Singapore’s haze law gets sharper teeth. Will it finally bite?",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPM0NlQWxlT2JVYUlWSXd1YUxWUm9ITkl5TWU4Tm12cWtXMEQ0WDAwNWVDOWF2N2dIOHJMdWhDam84UkhOZFdZWFctaC0wMWRUb29lc21pRlUtelF3Mkd4UkF3bDBqS0xHV2Rxb2RpMkN1MlBlMnZ5SHVrMlBiWGlYeDFCUGVVQnZnS1NzTnVNREJWZHdrYWZ5dWFSaFBTTE0?oc=5",
-          "published": "2026-11-05T22:00:00+00:00",
-          "source": "CNA",
-          "via": "Google News"
-        },
-        {
-          "title": "Singapore to end N95 mask distribution on Saturday as haze abates",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVElaRUdkclpWdFFOZ2h1VXM4em9tT0xyQ0lHeng0SGs2VEltemlNR2pQejlaaUJKRmRkZU1FUVUwRGtMbFBUSWxTaGFlYkpmV0QyeW05Q2RDZ2xEejFlRWI0ajN0ZG82TGpZRmtLS29rbm9vb3ZyVVRIajlZYnZmNUt3?oc=5",
-          "published": "2026-11-05T11:22:00+00:00",
-          "source": "CNA",
-          "via": "Google News"
-        },
-        {
-          "title": "Saktiandi Supaat on Transboundary Haze Pollution (Amendment) Bill",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMWFZT0Zwa01zWm1ScEZ5NDJvV0tyU3Byekhjay1na1BmTHBOcElyVHpldWVBS1ViMDFueDM3dWFIbFVvejh0VFItdkxlVjFIcno1R3AwaFBHWmVWWi1ucHh0Qmw4Vl9BSXVUZUZmOWUtVV90eWcwWnhVM2VpeVN0bl8zaUZ0ZFh4cWY1RUYwbC0zc210ZG5MY0pHbHpsWGROdFA0YWs2cmxCZw?oc=5",
-          "published": "2026-11-04T15:29:53+00:00",
-          "source": "CNA",
-          "via": "Google News"
-        },
-        {
-          "title": "New haze law: MPs raise questions on effectiveness of tougher penalties, overseas enforcement",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPR1ZhWFk4WV9GNElna2I4SVNUbkExRDQ5T3Y4aFliTzJzbVZvakJMbUx1UEtnbG9TV1FaWjU0VlJubnc2a2pPWlpvbkZGRjhPWnBLWkFqOE54VTdVLXBVRXROYjlJSEpFUmhnby1uNUtMUmJ3QmJuZVlvOTBsQTFqRzdTMXB6TlNVSjg2U0phdnpHTHlvZEdVSWtyMmxXaDJwZ095SVBLRk5LWjBuOFZMVnd3S3l4dkE3WlJ4TE11QW1sTjRQcmdXUWtQRQ?oc=5",
-          "published": "2026-11-04T15:16:37+00:00",
+          "title": "Deep Dive - Does air-con keep you safe from haze? What we might be getting wrong about haze safety",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPS3RIcGk2UWVxbVhZVHBpR2VBZDl0OUliNHdhMmhwYS1iajdVMVMyXzY3aUZpWmdaOWZBNkxKUDlHUXp5eFRrbnVVYWg2ZkJUMHVTdkhKWmhicjdGd3lFazk0UGtUdElPb1RERU9OVktaTDNIdTJYYUtqTWhXQlBxUEdCOWYwWFFnMGJvcVpOVWpaZkJuY19xbUdiNDdabmlPU0kyQXJ4R2d3S2ZFWTFWSGRGWmlGX1FUQTlnT2Y4Mm83d3V3b0NxLTRCYVJtVzZUU0JqbHhRa2l5ckNpa2h2cnZGd091V3pmaWFTNXpZNWtvTGU1LTdncGlJRTZuTkE?oc=5",
+          "published": "2026-11-08T07:22:00+00:00",
           "source": "CNA",
           "via": "Google News"
         }
@@ -81,7 +81,7 @@
     },
     {
       "name": "The Straits Times",
-      "fetchedAt": "2026-11-10T06:10:03.870888+00:00",
+      "fetchedAt": "2026-11-10T15:25:57.894965+00:00",
       "available": true,
       "items": [
         {
@@ -134,23 +134,16 @@
           "via": "Google News"
         },
         {
+          "title": "Proposed changes to haze law includes new ways of establishing liability for haze-causing fires",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9WRkRjbjNhWVBoR2R2LTNUOUx0a0ZOYUVNbkRuNU5fTUx5WXNRWXJQLTlyMzdwZTFJQTBNQ0xvVklJdUJCaEVDM1FTeVRRdXZTNVBlbTVXWTVmYTVOTWc?oc=5",
+          "published": "2026-11-04T07:56:56+00:00",
+          "source": "The Straits Times",
+          "via": "Google News"
+        },
+        {
           "title": "Errant firms face $20m fine, blocked financial services under changes to S’pore haze law",
           "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxON1F0X0NTdEY3cXQ3NG0xR0FzQXpDS0s3V3lvQTZ3blg0WjlfbXczdjgteHdiQTcwaDhna2w1X2FVYkNsenV6aU5XekZXby1ET3UwSlA5MWM3Q2w3UXhWNFdYUEJTR29DMm13djRrX1ZvM3d6Z0M0NkZLWjlUTXM4Y1Q3ZVQ5SjA3cXlQNkRwOE1wdU15ck1VYWVwdnc5ZzJsV3hmdlNwUWdxdmJMTUNFT1gxZDkzekt5ZzUzbjgzWGZqOG1nMHpLSDJzeDZTNmo4cnVsZmVGLXFFZw?oc=5",
           "published": "2026-11-04T06:50:00+00:00",
-          "source": "The Straits Times",
-          "via": "Google News"
-        },
-        {
-          "title": "At least 20% more visits to hospitals and polyclinics from start of haze in Sept to mid-October",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSm1TbDhKZGpuM1huandYOTBMVi1JWDdoTW00aFNFR29lUzBISzRTdjFMemZpNTlQSWQxV2pOWlJITHFzWUpQbVJaQ2M2c2xQNkpZMlpnOEVaLWZ6MU5GNjBQOVB2NlVmaEotTTZtR0pCeF9DRDBtcDhyc2RVcVEyTHYzM1ZrYjRWckpKVldoTmszaEdkR1g1cXJYbHhhNmJCd2pTUjl2OEdtS3JqcFZBdWthUFJ1N2VEdGV6bXVyZlhxODdyNjZaaU1jUW5PVlBzRTluWjdrUFMyQQ?oc=5",
-          "published": "2026-11-03T12:56:00+00:00",
-          "source": "The Straits Times",
-          "via": "Google News"
-        },
-        {
-          "title": "Over 9 in 10 pre-schools have air-con, but air purifiers needed during haze: Goh Pei Ming",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQzVGcTBnTXdHOXJLamVCb1p1NUNTLXR4YThPLVdzdHo5RlMtWUw5eXZ6S1FMS3J2ZmFaUTNwUWd6TlkyV2F1aU1NdEJRVk01WFpXeTFwRGJwQWg3Vndjb21abk9GZ0l4UXdqQWFWTjR4RVhjVllCa3FwVTE0WlRkVHVZazlNYlc5MjRxVlB1WXFJenpmeU5uSXI0aVQxS0VVTkVmYTlWSnFYQkp0ZHluUXlXcnN4azlqdkVEN3Y2bGZ5NXkxX0pWUGt6TUdPRHRj?oc=5",
-          "published": "2026-11-03T07:50:00+00:00",
           "source": "The Straits Times",
           "via": "Google News"
         }
