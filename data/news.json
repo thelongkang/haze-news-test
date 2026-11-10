@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-09T13:38:36.389961+00:00",
+  "checkedAt": "2026-11-10T06:10:03.870888+00:00",
   "sources": [
     {
       "name": "CNA",
-      "fetchedAt": "2026-11-09T13:38:36.389961+00:00",
+      "fetchedAt": "2026-11-10T06:10:03.870888+00:00",
       "available": true,
       "items": [
         {
@@ -32,13 +32,6 @@
           "title": "CNA Explains: How Singapore athletes are catching up on training after weeks of haze",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTDBBMzBmSzVkWS1mUHRSaDdpOHZ3LXFzRGVmX2p5RTVWQVlQVzRwSTdRX0wwS3NpVEVuVjRmbnVZdjZrNV9tdTN3bUx1c1puU1dhQVhqM3FEY3RSZExlSTB0OGRDNTFKcWZ2WkJ2SjR0NVlpMC0tbEFtZHhSWkxuSjlxUm4xV2ZWWVlIbXNFOVFvcjVpMkFSTWFhMExyZllYQVRFS3Y2Z2RvTDZTSURlVnBaMzV2aEc4WTY4RlRYRVc?oc=5",
           "published": "2026-11-07T15:52:08+00:00",
-          "source": "CNA",
-          "via": "Google News"
-        },
-        {
-          "title": "Deepavali bazaar welcomes last-minute shoppers after sluggish sales amid weeks of haze",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdVMwbnN1aHJjb2ZPU0dJRHZQVnUwcFBxaTNPcW5SMktEcWJqbDhjOGlVbi1IZzd3M2VEYjZuS3c1TGczNWh1ZlM5NlFFRi1XODFoWmJaaTVTRUY5NTM0MW5WaHVIYU1Yd1hZbTNmSFBReUczU2dOeXp0WVR5cC1NNkJNZG9nWGVlZ3EwMl82bENNc3YwclF1SkFneDI0dHpKUUFmN056U1FHb0ctWS04ZjZYMDV3X1pKaGJZaGppRmlwNkNxeld1Ng?oc=5",
-          "published": "2026-11-07T15:34:02+00:00",
           "source": "CNA",
           "via": "Google News"
         },
@@ -76,12 +69,19 @@
           "published": "2026-11-04T15:29:53+00:00",
           "source": "CNA",
           "via": "Google News"
+        },
+        {
+          "title": "New haze law: MPs raise questions on effectiveness of tougher penalties, overseas enforcement",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPR1ZhWFk4WV9GNElna2I4SVNUbkExRDQ5T3Y4aFliTzJzbVZvakJMbUx1UEtnbG9TV1FaWjU0VlJubnc2a2pPWlpvbkZGRjhPWnBLWkFqOE54VTdVLXBVRXROYjlJSEpFUmhnby1uNUtMUmJ3QmJuZVlvOTBsQTFqRzdTMXB6TlNVSjg2U0phdnpHTHlvZEdVSWtyMmxXaDJwZ095SVBLRk5LWjBuOFZMVnd3S3l4dkE3WlJ4TE11QW1sTjRQcmdXUWtQRQ?oc=5",
+          "published": "2026-11-04T15:16:37+00:00",
+          "source": "CNA",
+          "via": "Google News"
         }
       ]
     },
     {
       "name": "The Straits Times",
-      "fetchedAt": "2026-11-09T13:38:36.389961+00:00",
+      "fetchedAt": "2026-11-10T06:10:03.870888+00:00",
       "available": true,
       "items": [
         {
@@ -134,13 +134,6 @@
           "via": "Google News"
         },
         {
-          "title": "Proposed changes to haze law includes new ways of establishing liability for haze-causing fires",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9WRkRjbjNhWVBoR2R2LTNUOUx0a0ZOYUVNbkRuNU5fTUx5WXNRWXJQLTlyMzdwZTFJQTBNQ0xvVklJdUJCaEVDM1FTeVRRdXZTNVBlbTVXWTVmYTVOTWc?oc=5",
-          "published": "2026-11-04T07:56:56+00:00",
-          "source": "The Straits Times",
-          "via": "Google News"
-        },
-        {
           "title": "Errant firms face $20m fine, blocked financial services under changes to S’pore haze law",
           "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxON1F0X0NTdEY3cXQ3NG0xR0FzQXpDS0s3V3lvQTZ3blg0WjlfbXczdjgteHdiQTcwaDhna2w1X2FVYkNsenV6aU5XekZXby1ET3UwSlA5MWM3Q2w3UXhWNFdYUEJTR29DMm13djRrX1ZvM3d6Z0M0NkZLWjlUTXM4Y1Q3ZVQ5SjA3cXlQNkRwOE1wdU15ck1VYWVwdnc5ZzJsV3hmdlNwUWdxdmJMTUNFT1gxZDkzekt5ZzUzbjgzWGZqOG1nMHpLSDJzeDZTNmo4cnVsZmVGLXFFZw?oc=5",
           "published": "2026-11-04T06:50:00+00:00",
@@ -151,6 +144,13 @@
           "title": "At least 20% more visits to hospitals and polyclinics from start of haze in Sept to mid-October",
           "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSm1TbDhKZGpuM1huandYOTBMVi1JWDdoTW00aFNFR29lUzBISzRTdjFMemZpNTlQSWQxV2pOWlJITHFzWUpQbVJaQ2M2c2xQNkpZMlpnOEVaLWZ6MU5GNjBQOVB2NlVmaEotTTZtR0pCeF9DRDBtcDhyc2RVcVEyTHYzM1ZrYjRWckpKVldoTmszaEdkR1g1cXJYbHhhNmJCd2pTUjl2OEdtS3JqcFZBdWthUFJ1N2VEdGV6bXVyZlhxODdyNjZaaU1jUW5PVlBzRTluWjdrUFMyQQ?oc=5",
           "published": "2026-11-03T12:56:00+00:00",
+          "source": "The Straits Times",
+          "via": "Google News"
+        },
+        {
+          "title": "Over 9 in 10 pre-schools have air-con, but air purifiers needed during haze: Goh Pei Ming",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQzVGcTBnTXdHOXJLamVCb1p1NUNTLXR4YThPLVdzdHo5RlMtWUw5eXZ6S1FMS3J2ZmFaUTNwUWd6TlkyV2F1aU1NdEJRVk01WFpXeTFwRGJwQWg3Vndjb21abk9GZ0l4UXdqQWFWTjR4RVhjVllCa3FwVTE0WlRkVHVZazlNYlc5MjRxVlB1WXFJenpmeU5uSXI0aVQxS0VVTkVmYTlWSnFYQkp0ZHluUXlXcnN4azlqdkVEN3Y2bGZ5NXkxX0pWUGt6TUdPRHRj?oc=5",
+          "published": "2026-11-03T07:50:00+00:00",
           "source": "The Straits Times",
           "via": "Google News"
         }
