@@ -1,23 +1,16 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-11T04:56:17.926482+00:00",
+  "checkedAt": "2026-11-11T12:30:51.609676+00:00",
   "sources": [
     {
       "name": "CNA",
-      "fetchedAt": "2026-11-11T04:56:17.926482+00:00",
+      "fetchedAt": "2026-11-11T12:30:51.609676+00:00",
       "available": true,
       "items": [
         {
-          "title": "CNA938 Rewind - Singapore's haze law: Can companies behind Indonesia's fires be held accountable?",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNX0VHX0g5TkkweEJVOEVGeVNOUnNhWkhZMElGdllwanV1Z1dWR2NDcUVyeWJwd1FfbmZ4TUExcUJlS2Ffa3VDY2lkd0FYOXpVbHA2SEwxMU5BemdOUk5WdzRJWlZvbWI0M3didnEtS1dmZ3pCS2h0U1lkUDQyejU1WlVZdVF5Q0tJcGZsb1NhNGIzVnZsUjFXbGg1ZnpxWU1DVmwweVRoYXBHTjhsNFBpeUtPMDhreWx4dlNEQm5IcnY0eXBHNmRRM1A5NlNOOFVEYTN6X1dJUzNOb3g3TEE?oc=5",
-          "published": "2026-11-11T00:58:17+00:00",
-          "source": "CNA",
-          "via": "Google News"
-        },
-        {
           "title": "haze latest news & coverage",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBBRkN2eVdfWHkweFBrM1hXZFJpOUlZYThXdVhScTMxV2tPRmJ1Z2hjbzVVS01CZW5rbXp2bGhpbElJYm5vYXhjWG5lekNJNTBPNEpPaw?oc=5",
-          "published": "2026-11-10T10:36:42+00:00",
+          "published": "2026-11-10T18:25:30+00:00",
           "source": "CNA",
           "via": "Google News"
         },
@@ -50,6 +43,20 @@
           "via": "Google News"
         },
         {
+          "title": "CNA938 Rewind - Is haze costing Singaporeans more than they think?",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQaUlncS1zT1NMTDdINzRxUjVsUVFOUGNUc0JXUjVBRFB1aGVZX0s0Y2YxUlpjUXByamQxOWQ0TGpQZE9kSHN2UDNVSTFzcXgyd3FKZmQwYlZCT2xLbzdpRGlMWWhmV0NzTWd6ZHBOQlB3QnFOQ1BnT21jTUpqczdOcm83RlNIdlM5Y1lMdUZqeWlOOWFid3lQLUhsXzVxQUlpbDVXRUMwVUNXZlVhME9nVjRMbVE0WVNrbGZ6Ym1qZk8zNXJZZ1A0Q1htYnpONm10?oc=5",
+          "published": "2026-11-08T17:36:38+00:00",
+          "source": "CNA",
+          "via": "Google News"
+        },
+        {
+          "title": "CNA938 Rewind - #HazeHealth: Rainy days may seem to result in \"cleaner\" air, but it's not a haze silver bullet",
+          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQeE5CZVJINFNPSUo0MW1qMEphX2ltREdjNjdlZ0Rfck5Rdllvcnp6OWNGakhaa0ZGM3hFNDhsRG9RcE9wRzFVSUdWbEFXeEdlamZBWHRxSlJHWUJpRU8zLTdfMjRid1VIVkF6RmJ3OHZ3R2lfNDlVSW4zYWZuWjloREo1OGxJNWtmcFhTbDBoSXRPaml3LWN3SldPWUhoMll1VUNlQ3VrM25UM3dCc201UnIwLWEtUmRpalNtMlc2YXJTc2h6ZWVEdTl2YjdBZFZNNDQ2SFJhcmxSaEdvVWFETlVHMnd1M2lpMWJOcVhPMlNaNzg0Q09PRnlmdjNWd19uY1ZyeA?oc=5",
+          "published": "2026-11-08T16:56:59+00:00",
+          "source": "CNA",
+          "via": "Google News"
+        },
+        {
           "title": "CNA938 Rewind - #HazeHealth: How could the haze worsen or improve? What are the signs to look out for? #SGToday",
           "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMy1GVzNuVDN6Vkg2dks4VlcyNTNEbFAySS00WlNxMnRFU2pibkJ4ZTUzZnRxREdHbHZ0ckZEUTdfWjJkS2RfUUtydEVTT1N1cmRtRk5qbEV5UldJNDBQR0J2Rk9TRXRXTUVGcDBmandmRWVnQk1jNG5WVmQ5cjBRNUVoNE9SbXo1b3h3SEVadnhpbUk4d0cyV2tvM1FRZmljQlZmeDJtc0xRRXg2X3luY0JGU1g2QlJ5anZ4TkVlcnVEOVYtRUtlei1wZlA2YmJBcUE?oc=5",
           "published": "2026-11-08T16:27:43+00:00",
@@ -69,19 +76,12 @@
           "published": "2026-11-08T13:51:57+00:00",
           "source": "CNA",
           "via": "Google News"
-        },
-        {
-          "title": "CNA938 Rewind - Is haze costing Singaporeans more than they think?",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWXBWOEtVSGNQZWdTWVlUZGU0bllsU2hyaGlHUlVBVEFHbUpXT1N5TEk2Tkp1eEExaFlvT3ZCZWFIX05kdW02WWxDNENZc1NzQXd0ZFBPVTRVQVFqZEREd0pUYTllR2VTZE1fTG8xRGcwTkN2NElyZXhGbHlLNG54VXMycXNHM0hzZ0RpM3dWT2Qwd21zLUt5bjNmSTRUOWtDRF9yMUo1cDdVanhUNVowX1VTeU9DSl9HTmRZSDl6WXIyRUdreHJOaHlhUVpETXRx?oc=5",
-          "published": "2026-11-08T12:15:41+00:00",
-          "source": "CNA",
-          "via": "Google News"
         }
       ]
     },
     {
       "name": "The Straits Times",
-      "fetchedAt": "2026-11-11T04:56:17.926482+00:00",
+      "fetchedAt": "2026-11-11T12:30:51.609676+00:00",
       "available": true,
       "items": [
         {
@@ -120,13 +120,6 @@
           "via": "Google News"
         },
         {
-          "title": "NEA to investigate companies responsible for transboundary haze in S’pore: Grace Fu",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9heGFKUTdma0ZKQmQtMWpsMjMtWVEta0dSOUlYQ2M4N1NyOHQ0Vnd6NUlLTTlvanJyZUJqc1lBcnV1RmlCNkt5a01IXzFQR3Bta1lKVXc4d1FrTmdVZ0E?oc=5",
-          "published": "2026-11-05T09:02:59+00:00",
-          "source": "The Straits Times",
-          "via": "Google News"
-        },
-        {
           "title": "World Cup final stadium blanketed in haze from Canada wildfires",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8yX3JUdmlEbzhpMkc5OEREUHNPZFdGREdFUkkzRGN6SjRTSjEtMUhTNnJUTms4QVFpeTdZTzVwSkh0R3dvZ0sxOU1qQkVOTkpxSmZpWENydVJnTTFwWmc?oc=5",
           "published": "2026-11-05T07:30:52+00:00",
@@ -141,16 +134,16 @@
           "via": "Google News"
         },
         {
-          "title": "Workers’ Party’s Jamus Lim draws comparison between the approach to resolving haze fires in Indonesia to negotiating space on a plane when reclining seats",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HT1pVMEU5ZUI1bTV3WDNmSVJZd1RGdE9VZE5NRjRHbjNMelBidkxuUE5IOEZpQ3BNbnFzSUZhRVB5Z0pWMzJfTDc4WVZUYnl2ZHBZUUVHZDZrSHVQRnc?oc=5",
-          "published": "2026-11-04T11:46:37+00:00",
+          "title": "Stronger haze law will tackle Singapore’s 2 main challenges for enforcement",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5oMnlmMHlERHVfMDZxV084aEhMTS1QRTdacHk3cERmemNhTnBJalRBZm50S1ZUZDRfNXRBeFcwTzhNRFZmcFhxSXRVdkpNUkQwbUhXVzg1cXZvbTR3aEE?oc=5",
+          "published": "2026-10-27T05:35:53+00:00",
           "source": "The Straits Times",
           "via": "Google News"
         },
         {
-          "title": "Longer-term health risks of haze need greater attention",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYk9Ga0YyMWJIWHZIdDJjSGZvSGlJajJXeHhtZG5qRFJxSUlrMFQtX1FTUGNuUGdsa2hvS1dqNTdjZHpnNEhJbnNCOVY1QkNKZFhrRVo0RVVBNWhxa0dxMldQdmh6WWVCZlQ4QjNHR1l1NksyaWtldkRUODZkT3VqSlFDc3ZQOHV0V1lrem1INUNCcEZPcGY0?oc=5",
-          "published": "2026-11-04T09:00:00+00:00",
+          "title": "Why this year’s haze in Singapore could be as bad as 2015",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBsX2l1MDV6LU5lbWJYbW96WXdkV3o3eUczNldUZ3BFeHJXWmR4dUJtbG9Yc3NWTmUtWVJhSklSQTBKVlZGdGlPYjVoU04zaXNPaGI1UHpTZWRiT2pYQlE?oc=5",
+          "published": "2026-08-26T10:50:02+00:00",
           "source": "The Straits Times",
           "via": "Google News"
         }
