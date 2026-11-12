@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-11T12:30:51.609676+00:00",
+  "checkedAt": "2026-11-12T05:58:04.243381+00:00",
   "sources": [
     {
       "name": "CNA",
-      "fetchedAt": "2026-11-11T12:30:51.609676+00:00",
+      "fetchedAt": "2026-11-12T05:58:04.243381+00:00",
       "available": true,
       "items": [
         {
-          "title": "haze latest news & coverage",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBBRkN2eVdfWHkweFBrM1hXZFJpOUlZYThXdVhScTMxV2tPRmJ1Z2hjbzVVS01CZW5rbXp2bGhpbElJYm5vYXhjWG5lekNJNTBPNEpPaw?oc=5",
-          "published": "2026-11-10T18:25:30+00:00",
+          "title": "CNA938 Rewind - Singapore's haze law: Can companies behind Indonesia's fires be held accountable?",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNX0VHX0g5TkkweEJVOEVGeVNOUnNhWkhZMElGdllwanV1Z1dWR2NDcUVyeWJwd1FfbmZ4TUExcUJlS2Ffa3VDY2lkd0FYOXpVbHA2SEwxMU5BemdOUk5WdzRJWlZvbWI0M3didnEtS1dmZ3pCS2h0U1lkUDQyejU1WlVZdVF5Q0tJcGZsb1NhNGIzVnZsUjFXbGg1ZnpxWU1DVmwweVRoYXBHTjhsNFBpeUtPMDhreWx4dlNEQm5IcnY0eXBHNmRRM1A5NlNOOFVEYTN6X1dJUzNOb3g3TEE?oc=5",
+          "published": "2026-11-11T00:58:17+00:00",
           "source": "CNA",
           "via": "Google News"
         },
@@ -25,6 +25,13 @@
           "title": "CNA938 Rewind - The Wellness Hour - Can the haze affect your blood sugar? What people with diabetes should know",
           "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSDZLZ29GeU9FWlVoQ3J1TlEwRWozWXZQa1NreHFTb0Z4TWNjU29IMkNTellnMWRIU0xjcDFfM19WN0dBR0Q2Q1JxSlRubDdSZTZMMFBEWDM0WHVFcnd6RjRMaWdNN0tfcmJqLUU2VDRXRzQ3WExzNlVzakNXT21sMmxJekZTalBnaHhWb1ppWXJTYXZ1S0tiaThBVGZJczVJZ3c4X1NnZWRnRU9KTXRkeG9hampwQzZWMlBvVGVlaWlkcDYyWnhtZjZUaEZpT1kyR0tkekMyUQ?oc=5",
           "published": "2026-11-10T07:09:59+00:00",
+          "source": "CNA",
+          "via": "Google News"
+        },
+        {
+          "title": "haze latest news & coverage",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBBRkN2eVdfWHkweFBrM1hXZFJpOUlZYThXdVhScTMxV2tPRmJ1Z2hjbzVVS01CZW5rbXp2bGhpbElJYm5vYXhjWG5lekNJNTBPNEpPaw?oc=5",
+          "published": "2026-11-10T05:05:09+00:00",
           "source": "CNA",
           "via": "Google News"
         },
@@ -69,21 +76,28 @@
           "published": "2026-11-08T15:26:09+00:00",
           "source": "CNA",
           "via": "Google News"
-        },
-        {
-          "title": "Deep Dive - Making companies behind the haze pay: Can Singapore succeed?",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNa3pHZGhiaGJXTDVmNlY1YUQ5eGUtRXZvbzBVZFVxNW9wOGhFRjczOHJIRWNKWUZBMEY3cDBCenVXMGd5UFh6cmx2Y29xNU1ENDRRRWdQc21OOEFUV2lfakxLWXZBODRVbEV6XzVNUDc4VkRDM1kzREpNWW5YZFIxOUtmS0YzeTVsNWF6TXliVHltSVdRM1VBdU4wZ2ZoNUZ0R1ZpeXF5TVc4TTI5MnFibVd5aklpRHhSSGFwMHZhNEhCVVJCOHJXd1p4YUdTVEczR2wxTEh2dzJaZkRL?oc=5",
-          "published": "2026-11-08T13:51:57+00:00",
-          "source": "CNA",
-          "via": "Google News"
         }
       ]
     },
     {
       "name": "The Straits Times",
-      "fetchedAt": "2026-11-11T12:30:51.609676+00:00",
+      "fetchedAt": "2026-11-12T05:58:04.243381+00:00",
       "available": true,
       "items": [
+        {
+          "title": "Singapore schools to stay open despite haze: Desmond Lee",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBlX3BfQWMtNTg3bEQtSmdwcEVzekRUVV9rUkNUNnlCaDh6TnRfOEJlWFBkUXhwVXNESDVVWm80cGxocGRqOVZrbzBnZ3hoTHVxYnNpMGQwTzhTNjQ0Ync?oc=5",
+          "published": "2026-11-11T20:03:52+00:00",
+          "source": "The Straits Times",
+          "via": "Google News"
+        },
+        {
+          "title": "Singapore haze law: Amendments will be made at next Parliament sitting",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1mYWNkaDU3aGd6b2tySXJCVFpucXV0TnpPLXRnU2p2RUxqVHI3RVVhNXp4aG1iYktGR2ZObElQTWtvNnhfV1dvOERxeGg3M2VVS1FNU0lPd3lRUDBRX0E?oc=5",
+          "published": "2026-11-11T08:06:49+00:00",
+          "source": "The Straits Times",
+          "via": "Google News"
+        },
         {
           "title": "S’pore can designate errant entities or individuals under proposed amendments to haze law",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCU2prLUlmeHd5eVA2UVdUSW9hNi1hZHhJNkI1VGkzM1hiblZKZFNzNGZqaDR2REZENVJaN1d0blMtRzZDNXhaTy1BeWJ0RHNZREEzM2d6ZDBqTldmUHc?oc=5",
@@ -123,13 +137,6 @@
           "title": "World Cup final stadium blanketed in haze from Canada wildfires",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8yX3JUdmlEbzhpMkc5OEREUHNPZFdGREdFUkkzRGN6SjRTSjEtMUhTNnJUTms4QVFpeTdZTzVwSkh0R3dvZ0sxOU1qQkVOTkpxSmZpWENydVJnTTFwWmc?oc=5",
           "published": "2026-11-05T07:30:52+00:00",
-          "source": "The Straits Times",
-          "via": "Google News"
-        },
-        {
-          "title": "MPs raise questions on $20m fine, delay in strengthening haze law, in six-hour debate",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOX00xQ0dMRnZUcmpWUlFZbTFFdXFYR3NMeFJ3NldWSzNiamo3azdTYU1SSW1VRm9idklPT3pGbktpNlY3OHpfX3FDcGFHNEJRaGlmc0cwZmcxaTJJQkJVVUpXTW8tMmtCUllQRmRiY0dGSjJEQ0syU1JUdXg4MTVySnZjS2NIRUtZemxERjZyc3FITXA1S2k5czFYWVhnRmp3YWVZMDFzd1kxN2hFbDhNNmJqT2pmRVJhM3pfclVyWmhldDh6UU5LMlBn?oc=5",
-          "published": "2026-11-04T14:45:00+00:00",
           "source": "The Straits Times",
           "via": "Google News"
         },
