@@ -1,16 +1,23 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-12T05:58:04.243381+00:00",
+  "checkedAt": "2026-11-12T15:00:20.383877+00:00",
   "sources": [
     {
       "name": "CNA",
-      "fetchedAt": "2026-11-12T05:58:04.243381+00:00",
+      "fetchedAt": "2026-11-12T15:00:20.383877+00:00",
       "available": true,
       "items": [
         {
           "title": "CNA938 Rewind - Singapore's haze law: Can companies behind Indonesia's fires be held accountable?",
           "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNX0VHX0g5TkkweEJVOEVGeVNOUnNhWkhZMElGdllwanV1Z1dWR2NDcUVyeWJwd1FfbmZ4TUExcUJlS2Ffa3VDY2lkd0FYOXpVbHA2SEwxMU5BemdOUk5WdzRJWlZvbWI0M3didnEtS1dmZ3pCS2h0U1lkUDQyejU1WlVZdVF5Q0tJcGZsb1NhNGIzVnZsUjFXbGg1ZnpxWU1DVmwweVRoYXBHTjhsNFBpeUtPMDhreWx4dlNEQm5IcnY0eXBHNmRRM1A5NlNOOFVEYTN6X1dJUzNOb3g3TEE?oc=5",
           "published": "2026-11-11T00:58:17+00:00",
+          "source": "CNA",
+          "via": "Google News"
+        },
+        {
+          "title": "haze latest news & coverage",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBBRkN2eVdfWHkweFBrM1hXZFJpOUlZYThXdVhScTMxV2tPRmJ1Z2hjbzVVS01CZW5rbXp2bGhpbElJYm5vYXhjWG5lekNJNTBPNEpPaw?oc=5",
+          "published": "2026-11-10T14:50:50+00:00",
           "source": "CNA",
           "via": "Google News"
         },
@@ -25,13 +32,6 @@
           "title": "CNA938 Rewind - The Wellness Hour - Can the haze affect your blood sugar? What people with diabetes should know",
           "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSDZLZ29GeU9FWlVoQ3J1TlEwRWozWXZQa1NreHFTb0Z4TWNjU29IMkNTellnMWRIU0xjcDFfM19WN0dBR0Q2Q1JxSlRubDdSZTZMMFBEWDM0WHVFcnd6RjRMaWdNN0tfcmJqLUU2VDRXRzQ3WExzNlVzakNXT21sMmxJekZTalBnaHhWb1ppWXJTYXZ1S0tiaThBVGZJczVJZ3c4X1NnZWRnRU9KTXRkeG9hampwQzZWMlBvVGVlaWlkcDYyWnhtZjZUaEZpT1kyR0tkekMyUQ?oc=5",
           "published": "2026-11-10T07:09:59+00:00",
-          "source": "CNA",
-          "via": "Google News"
-        },
-        {
-          "title": "haze latest news & coverage",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBBRkN2eVdfWHkweFBrM1hXZFJpOUlZYThXdVhScTMxV2tPRmJ1Z2hjbzVVS01CZW5rbXp2bGhpbElJYm5vYXhjWG5lekNJNTBPNEpPaw?oc=5",
-          "published": "2026-11-10T05:05:09+00:00",
           "source": "CNA",
           "via": "Google News"
         },
@@ -81,7 +81,7 @@
     },
     {
       "name": "The Straits Times",
-      "fetchedAt": "2026-11-12T05:58:04.243381+00:00",
+      "fetchedAt": "2026-11-12T15:00:20.383877+00:00",
       "available": true,
       "items": [
         {
@@ -123,20 +123,6 @@
           "title": "Singapore’s stronger haze law could make non-compliant companies ‘corporate pariahs’",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWEYtMHE2MzF6ZTBJdmwzOGtCWl9LWlVwYnhSby1KTVBzN0xpbE5mTHcwNTFseTR4Y1NYSnZpdTJLdUkwaHdKOEpBZU1ZTVpHcnZ1NkFCWVRMMzVDSHZSbjdqR1VwTmswekZiZjFvNWFJdE1pVEFMSG14aE9DVEN4bFB4cThucjdndWR4UEV0MkZoeDBHOWluaGpGVGFZXzQ2bDZwOGRZN2Nvbm9vUzh3WjJuV281cWt2QTdrbE1HdUFNM1Z3Mm9jS3Btdlk?oc=5",
           "published": "2026-11-06T08:41:00+00:00",
-          "source": "The Straits Times",
-          "via": "Google News"
-        },
-        {
-          "title": "Mask distribution, haze shelters to cease by Nov 7; haze subsidy scheme to end from Nov 12",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONFVBdW1hcE5zNEE0QWtRTV82aTZ6TDBmUlF4V252QWxmNjNvT2ttV3IwNUJJQmdrV05KNk1vS3kwRjR2V0JlMldWZ1Z2RjZ0UFNGekhMZjVocnpVVXVDOHM1M2tvc21lRXk4V2lYSVU4ZjhYQkJSZVl1YWxXaUhNWHF5MjdGWkZfSG56dVhVS2g4Q0h2bzBKMGlkRF9mUEtZVFF5V1lPOTk2d0E1cHp4Y0NCSERLVVFvZkFpdmJPVDVJNUdXcm9Xc0RYR2hpaUF4NlJrZXhn?oc=5",
-          "published": "2026-11-05T12:09:00+00:00",
-          "source": "The Straits Times",
-          "via": "Google News"
-        },
-        {
-          "title": "World Cup final stadium blanketed in haze from Canada wildfires",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8yX3JUdmlEbzhpMkc5OEREUHNPZFdGREdFUkkzRGN6SjRTSjEtMUhTNnJUTms4QVFpeTdZTzVwSkh0R3dvZ0sxOU1qQkVOTkpxSmZpWENydVJnTTFwWmc?oc=5",
-          "published": "2026-11-05T07:30:52+00:00",
           "source": "The Straits Times",
           "via": "Google News"
         },
