@@ -1,12 +1,40 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-13T05:22:12.335164+00:00",
+  "checkedAt": "2026-11-13T13:59:50.088429+00:00",
   "sources": [
     {
       "name": "CNA",
-      "fetchedAt": "2026-11-13T05:22:12.335164+00:00",
+      "fetchedAt": "2026-11-13T13:59:50.088429+00:00",
       "available": true,
       "items": [
+        {
+          "title": "haze latest news & coverage",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBBRkN2eVdfWHkweFBrM1hXZFJpOUlZYThXdVhScTMxV2tPRmJ1Z2hjbzVVS01CZW5rbXp2bGhpbElJYm5vYXhjWG5lekNJNTBPNEpPaw?oc=5",
+          "published": "2026-11-13T11:28:46+00:00",
+          "source": "CNA",
+          "via": "Google News"
+        },
+        {
+          "title": "Should you 'revenge train' to catch up on training days lost to the haze?",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdWhraDFRMzd1TFVlX0NuVHR1RjRLU3hWNm4wTUZyUDlMVTBCQXNPOEZfYVgzcVYzaTd5Y1h0b1J2amdnNE1LS2tRclBER1RHaVRiS210VkZVX2ZCczFLM3hGRzZCV3FtS3U1LV9vLTdockJUX1VNaUVMeU4yUDBIY082OGl0WnQ3dm0zUUdHcExoZU5va2o4QWwxTG5iWlgwa3JIdmc5OA?oc=5",
+          "published": "2026-11-13T11:08:00+00:00",
+          "source": "CNA",
+          "via": "Google News"
+        },
+        {
+          "title": "‘A lot at stake’: Meet the meteorologist tasked with predicting Singapore’s haze",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRHg4ZGNGQlh2TGJ3OEM2bnQzTld3b1A4ci1kMy1tVjJQQkVCNWMzWVFFd1phSmJnUUFNMWZ6MzJuR1c0ZDgwQ1hlc3Y1Zm5xZDlhaURPY19DMkF5am5LdmFkQmZYYzFxVEZXSmY0NE5DYkJVc1VrOTRRQnNhTnFIWVZZRzR4TG93R0d4cmVrZmI0YWhMMkxVclJUSVQ0eGVpTzJJ?oc=5",
+          "published": "2026-11-13T11:07:57+00:00",
+          "source": "CNA",
+          "via": "Google News"
+        },
+        {
+          "title": "Deep Dive - Making companies behind the haze pay: Can Singapore succeed?",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNU2xDQURraUdDWEtfVDhqQnNZZ3NDSkpEbUpFamFoMjVPVThFVkYta1Nkb0NkdklzX25rcElXUFhTemtDQ1lnZURoMWJIZlZUMW9XcWM5S2hkSDZ6Wk1RRjFZYnZ4czdNdGpHVEhBVHg4Wk9raTdhbWw4enFyNW91Q2dmcnBiYWVjM3VGUXFOZV9HaE9yUzBnYW9JS2NwejczU2x1UEdFV2VQSjYyM1U3VGFLdUZRanlQNnU0MFpqOXRYN1E0dE9qTGRCcGs2ZUZVZVptUmQ2UEFzaV9f?oc=5",
+          "published": "2026-11-12T19:22:22+00:00",
+          "source": "CNA",
+          "via": "Google News"
+        },
         {
           "title": "CNA938 Rewind - #HazeHealth: Could air quality in your underground malls and connectors be worse? #SGToday",
           "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxORTMyc1VtVXlHY2JjRWYwS0xqOXlGUXV6bmZiTE9pdER4eWJkT19JSXlFLWtCQVduVzVjM1FBdlRQZkJMNGhBOFhwVUZIWUJqSG5NWGRHNlo0a3J1cy0tb2NqRGRVRzJjZDlEam1XMTdxZm4wR2hjTGI4SmZxWWd5cTVpTF9BMXBGcmxlMG9fNUNmbVloeG1ndXc0MFJtYnlvUXpGMXNzSktjYXlDVTVJcnZzYlNzakZKZ0E5ZzM4NWtVNW5SVUMwVUdfbjFkWnJMeHNjZXVVMkhfbFFkblJWa2xIcmxZazRvYlk5WGNoSk1PZjFCUS1EM293ZWtMWlJ4bkFzS2hTbklwaG1CZVE?oc=5",
@@ -48,40 +76,12 @@
           "published": "2026-11-09T03:58:31+00:00",
           "source": "CNA",
           "via": "Google News"
-        },
-        {
-          "title": "CNA938 Rewind - #HazeHealth: Rainy days may seem to result in \"cleaner\" air, but it's not a haze silver bullet",
-          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQeE5CZVJINFNPSUo0MW1qMEphX2ltREdjNjdlZ0Rfck5Rdllvcnp6OWNGakhaa0ZGM3hFNDhsRG9RcE9wRzFVSUdWbEFXeEdlamZBWHRxSlJHWUJpRU8zLTdfMjRid1VIVkF6RmJ3OHZ3R2lfNDlVSW4zYWZuWjloREo1OGxJNWtmcFhTbDBoSXRPaml3LWN3SldPWUhoMll1VUNlQ3VrM25UM3dCc201UnIwLWEtUmRpalNtMlc2YXJTc2h6ZWVEdTl2YjdBZFZNNDQ2SFJhcmxSaEdvVWFETlVHMnd1M2lpMWJOcVhPMlNaNzg0Q09PRnlmdjNWd19uY1ZyeA?oc=5",
-          "published": "2026-11-08T16:56:59+00:00",
-          "source": "CNA",
-          "via": "Google News"
-        },
-        {
-          "title": "CNA938 Rewind - #HazeHealth: How could the haze worsen or improve? What are the signs to look out for? #SGToday",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMy1GVzNuVDN6Vkg2dks4VlcyNTNEbFAySS00WlNxMnRFU2pibkJ4ZTUzZnRxREdHbHZ0ckZEUTdfWjJkS2RfUUtydEVTT1N1cmRtRk5qbEV5UldJNDBQR0J2Rk9TRXRXTUVGcDBmandmRWVnQk1jNG5WVmQ5cjBRNUVoNE9SbXo1b3h3SEVadnhpbUk4d0cyV2tvM1FRZmljQlZmeDJtc0xRRXg2X3luY0JGU1g2QlJ5anZ4TkVlcnVEOVYtRUtlei1wZlA2YmJBcUE?oc=5",
-          "published": "2026-11-08T16:27:43+00:00",
-          "source": "CNA",
-          "via": "Google News"
-        },
-        {
-          "title": "CNA Up Close: The meteorologist behind Singapore's haze and weather forecasts",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMXUwV3IzdTFpZ251Y3k2VnJqVEhmUlY5S1VrU293aS04Zm1lNE9HU3NMekx3aFNkN1pZd1p6bVVRYUJudWhGSXh3WUkwbjNKa3l5LUhPdDhDM2hsUFNPWEZ5WW1RVWwtaTdUeHVtcWN2VVZhMWUzaGVqa1ZEejhLSVh5UnNNcWMtejVfOC16b0FRbDJ3TXV5YkJnOWFtR2wtcTdLVzVxTEFWdXZGZkswZzBMTVcteFFC?oc=5",
-          "published": "2026-11-08T15:26:09+00:00",
-          "source": "CNA",
-          "via": "Google News"
-        },
-        {
-          "title": "Deep Dive - Making companies behind the haze pay: Can Singapore succeed?",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNa3pHZGhiaGJXTDVmNlY1YUQ5eGUtRXZvbzBVZFVxNW9wOGhFRjczOHJIRWNKWUZBMEY3cDBCenVXMGd5UFh6cmx2Y29xNU1ENDRRRWdQc21OOEFUV2lfakxLWXZBODRVbEV6XzVNUDc4VkRDM1kzREpNWW5YZFIxOUtmS0YzeTVsNWF6TXliVHltSVdRM1VBdU4wZ2ZoNUZ0R1ZpeXF5TVc4TTI5MnFibVd5aklpRHhSSGFwMHZhNEhCVVJCOHJXd1p4YUdTVEczR2wxTEh2dzJaZkRL?oc=5",
-          "published": "2026-11-08T13:51:57+00:00",
-          "source": "CNA",
-          "via": "Google News"
         }
       ]
     },
     {
       "name": "The Straits Times",
-      "fetchedAt": "2026-11-13T05:22:12.335164+00:00",
+      "fetchedAt": "2026-11-13T13:59:50.088429+00:00",
       "available": true,
       "items": [
         {
@@ -94,6 +94,13 @@
         {
           "title": "Delhi overtakes Lahore as world's most polluted city as air quality drops",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWTh2OElYdTVGaDJtLV9vVlp4MldLT3hBNjFHTVhCSEljU0lhQTN3UHV6MjlmZi1oaldWS016blU3RkwxYkx3NkJsaEtkOHJ6aDFnekJIbzRrT0xNX1BkN1RqT1JVQ09Yc21oUTIyTS1neTU1OTFJNDBzT1lFSGljSWF1bnBPRG42cWEwazJCZzFlTG5oMFBrNlQxb0NYNWFPSmN6TEpyY1hJUQ?oc=5",
+          "published": "2026-11-13T04:29:00+00:00",
+          "source": "The Straits Times",
+          "via": "Google News"
+        },
+        {
+          "title": "Delhi overtakes Lahore as world’s most polluted city as air quality drops",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWTgzcGtoMUxsMmZzOFZCMVpSbTdBQnBYMDR3eGtRaldUNzhwcUt3VTNYTUJlRkxEMzFIWkpGSXFnQUJMUmFleFFJNkc3TmJjTU4wQWVKT3hoLTJrdjFCWS12NjhrN3JPNy1FUkVpdFRnZjVXRlNqNktxbzV5MTh2Y2dIdzBPWkRONGZZMXdMOEJZLXMtZWhEdjNtZjNUSlRYV2lfWm5rTWIwYnA1UmVxbnVHVVFXT3J3?oc=5",
           "published": "2026-11-13T04:29:00+00:00",
           "source": "The Straits Times",
           "via": "Google News"
@@ -134,9 +141,9 @@
           "via": "Google News"
         },
         {
-          "title": "Singapore’s stronger haze law could make non-compliant companies ‘corporate pariahs’",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWEYtMHE2MzF6ZTBJdmwzOGtCWl9LWlVwYnhSby1KTVBzN0xpbE5mTHcwNTFseTR4Y1NYSnZpdTJLdUkwaHdKOEpBZU1ZTVpHcnZ1NkFCWVRMMzVDSHZSbjdqR1VwTmswekZiZjFvNWFJdE1pVEFMSG14aE9DVEN4bFB4cThucjdndWR4UEV0MkZoeDBHOWluaGpGVGFZXzQ2bDZwOGRZN2Nvbm9vUzh3WjJuV281cWt2QTdrbE1HdUFNM1Z3Mm9jS3Btdlk?oc=5",
-          "published": "2026-11-06T08:41:00+00:00",
+          "title": "Haze in Singapore: Mask distribution starts earlier as air quality deteriorates",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBlYjVwcERrWjU2dnVlRmJtbF9hRjZfTU90YTNEMnBodElCVlU1X25aNVp6NklXbC1XNGlvNjdiMG1nWDZfZUpudWtOMjk5bjZGY3FZODJhVEtZRmJnM1E?oc=5",
+          "published": "2026-10-14T15:23:42+00:00",
           "source": "The Straits Times",
           "via": "Google News"
         },
