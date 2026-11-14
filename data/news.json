@@ -1,22 +1,29 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-13T13:59:50.088429+00:00",
+  "checkedAt": "2026-11-14T05:11:25.268670+00:00",
   "sources": [
     {
       "name": "CNA",
-      "fetchedAt": "2026-11-13T13:59:50.088429+00:00",
+      "fetchedAt": "2026-11-14T05:11:25.268670+00:00",
       "available": true,
       "items": [
         {
+          "title": "transboundary haze latest news & coverage",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YNU4xWS0xZ3E1cnNuTVVCcGN2VlI0TXVDdmljTWdnT1ZxN1FsZVJBX2xjMXNFZm44YUEzZVptU2ItZVAxTXZsRjdTRjY0OU95QVZ2aGdONVRCYndRN1NXSFZDUDAxUW8?oc=5",
+          "published": "2026-11-13T22:28:20+00:00",
+          "source": "CNA",
+          "via": "Google News"
+        },
+        {
           "title": "haze latest news & coverage",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBBRkN2eVdfWHkweFBrM1hXZFJpOUlZYThXdVhScTMxV2tPRmJ1Z2hjbzVVS01CZW5rbXp2bGhpbElJYm5vYXhjWG5lekNJNTBPNEpPaw?oc=5",
-          "published": "2026-11-13T11:28:46+00:00",
+          "published": "2026-11-13T11:15:28+00:00",
           "source": "CNA",
           "via": "Google News"
         },
         {
           "title": "Should you 'revenge train' to catch up on training days lost to the haze?",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdWhraDFRMzd1TFVlX0NuVHR1RjRLU3hWNm4wTUZyUDlMVTBCQXNPOEZfYVgzcVYzaTd5Y1h0b1J2amdnNE1LS2tRclBER1RHaVRiS210VkZVX2ZCczFLM3hGRzZCV3FtS3U1LV9vLTdockJUX1VNaUVMeU4yUDBIY082OGl0WnQ3dm0zUUdHcExoZU5va2o4QWwxTG5iWlgwa3JIdmc5OA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMFdLSS0tWFFRMlFvZ09hYmpiTjJKZDJKM1dQUUxGeXdqc05pMkhYZU9MMWo0ODRUdU91azl6QXJSaW1pSk9EV2FoNmpnMWFuWWVXYjFPWUtXMFlmY0JRelZndlpZTEstLU82ZERvU1RONlRZaXhHUExHd0dNQ0lvZFJpWU5KM2I2Z2UySFFIYWtoUHR5VEd0d3JfdXJlTVpMZkhqbUdZUGp4eTdhZ3lCZjRpcnJWMnJ3Q0xDdTVSWDlia3B6aElQaEUyYUF1R2V4emhZRlNtVF8?oc=5",
           "published": "2026-11-13T11:08:00+00:00",
           "source": "CNA",
           "via": "Google News"
@@ -32,6 +39,13 @@
           "title": "Deep Dive - Making companies behind the haze pay: Can Singapore succeed?",
           "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNU2xDQURraUdDWEtfVDhqQnNZZ3NDSkpEbUpFamFoMjVPVThFVkYta1Nkb0NkdklzX25rcElXUFhTemtDQ1lnZURoMWJIZlZUMW9XcWM5S2hkSDZ6Wk1RRjFZYnZ4czdNdGpHVEhBVHg4Wk9raTdhbWw4enFyNW91Q2dmcnBiYWVjM3VGUXFOZV9HaE9yUzBnYW9JS2NwejczU2x1UEdFV2VQSjYyM1U3VGFLdUZRanlQNnU0MFpqOXRYN1E0dE9qTGRCcGs2ZUZVZVptUmQ2UEFzaV9f?oc=5",
           "published": "2026-11-12T19:22:22+00:00",
+          "source": "CNA",
+          "via": "Google News"
+        },
+        {
+          "title": "CNA938 Rewind - Explainer: How the Transboundary Haze Pollution Act works #SGToday",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNaVc0dVJNUWlwQnhNMEU4b0xHTlhQdmFsRzBDUmhtTm5ucVZLVnpULWxPTVctYmFUQkcxTE5XR1JPeEZiUFdlT2pMNjhVU0JQelYwcVN4WU8wbzdKeXRQWWU2dG1wNDdHck01bkhwQWdrR2YyazIxMnRjV3BIbFpRNjR3X2wtWG1PSkF5R1RRZXpGOHFJVUxmZVBiYlJzZG12TVV4NFFxWklaN1NSNkNXVTJlWEgzU2Vha1FXRmpZaDAyaWViTWNDRjd6a2FkRlE5bUpZWklGS0JJamdJeEdJNThyMmdnTFQ2b2c?oc=5",
+          "published": "2026-11-12T07:32:03+00:00",
           "source": "CNA",
           "via": "Google News"
         },
@@ -62,28 +76,21 @@
           "published": "2026-11-10T07:09:59+00:00",
           "source": "CNA",
           "via": "Google News"
-        },
-        {
-          "title": "South Asia smog: Air quality in New Delhi worsens after Diwali celebrations",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZXFTLWY3djV6MHJfS0huV3RvTExkUGxIOHFXVmpvLUplSm80NXB0ZFl6c0pVbUhhWllnbFlxcHFyUEh0OVhWZm83LTJMWDdTNmNaa1htUzk0Nm1XOVJ2RU8xQzlMV3FiYmRfMlMwN2tGV0ZVQlhhYlgyRXVaLV9LV3d1VlRnNU1DMnRBN0NabVo0S0d5VVNKdG5Gb0tNdFlRWE9Vam5aUTBJM2p2VHVQNGpNbzJNZFotOGFVSg?oc=5",
-          "published": "2026-11-09T13:30:54+00:00",
-          "source": "CNA",
-          "via": "Google News"
-        },
-        {
-          "title": "CNA938 Rewind - A different kind of haze? Closer hotspots & favourable winds",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNVk1cU1CdWtVbmxCdXRZNS1zQWhYQ2NLaWVFWUFZdDlLdG55bHcybkRZdUdpSHBYMUduRV9pNGdWVzlBLU8yM21YVjRBNFFDeE9DUlhzSHluaTBvZ2ZfOFREdlhDS3dzSUlDZTE0MUdmZjZLTVM4NTdMY1pySnZLVFMxVXRrZjByOXFqM21LQjZGbUtXYlh6Z3h5WURSVUY3amhUNlppMm15MXEtbHRncjd4dUlvakd3MWhPUXJ4ME52Y2lnSHFDQUVQSVRGckJxN3VUcTRnWG9rczhZMUlR?oc=5",
-          "published": "2026-11-09T03:58:31+00:00",
-          "source": "CNA",
-          "via": "Google News"
         }
       ]
     },
     {
       "name": "The Straits Times",
-      "fetchedAt": "2026-11-13T13:59:50.088429+00:00",
+      "fetchedAt": "2026-11-14T05:11:25.268670+00:00",
       "available": true,
       "items": [
+        {
+          "title": "Companies expected to cooperate with haze investigation: Shanmugam",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMYjlTYTBQUkxYcktvSkpWUlZGWXJCQnVKWEZ6ZlV1WUl1T3B0WUJ5TTh3NUpBenZOdjV4SUlPanQ0VW5WR0VsUXF3TFNvZnFGMllpMUNpWWF5MG5VcVE?oc=5",
+          "published": "2026-11-13T11:48:31+00:00",
+          "source": "The Straits Times",
+          "via": "Google News"
+        },
         {
           "title": "Haze-linked First Resources, Bumitama post higher profits for Q3",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSkNidDFnSXdlRTV3Z0V2ZXliTWZTMDdhajhGTzIzYWtpYzFfeDgtY2JfVy14c1JaSWhGTkNXaXgxd250NHAwQzQ2Y0MzQXBxZVo2bEdReHNFbWxNR201SDJjM3E5TF9CemJ1VWp4azVTRlM2cjNSNWpGc1JzR0RTcnM1b05rSUlmc3Y3SEVVaVgyUWJ1RmdoQWFHeHk0bEFCLTBB?oc=5",
@@ -113,13 +120,6 @@
           "via": "Google News"
         },
         {
-          "title": "Workers’ Party’s Jamus Lim draws comparison between the approach to resolving haze fires in Indonesia to negotiating space on a plane when reclining seats",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HT1pVMEU5ZUI1bTV3WDNmSVJZd1RGdE9VZE5NRjRHbjNMelBidkxuUE5IOEZpQ3BNbnFzSUZhRVB5Z0pWMzJfTDc4WVZUYnl2ZHBZUUVHZDZrSHVQRnc?oc=5",
-          "published": "2026-11-12T10:17:56+00:00",
-          "source": "The Straits Times",
-          "via": "Google News"
-        },
-        {
           "title": "West Kalimantan residents sue Indonesian government over haze ‘gross negligence’",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE10U0Vqa1NLM2UwZkFkT1pxSWlZUmZtb29xNnVjQ1pEM3RIMXpFbDNWTVUtY2Z2V2VYLXBDU3hJLXIzdXgxUFBIVFlWbkprcDM3Slh5ODJ1N3UzOHpHMFE?oc=5",
           "published": "2026-11-12T10:03:48+00:00",
@@ -127,16 +127,16 @@
           "via": "Google News"
         },
         {
-          "title": "Haze in 2026 estimated to cost Singapore $2.32 billion, up 4% from 2015: Experts",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdTZ3YWZDalBVdUU5N2tocmswSkNycUNOZWo5TjN4NVdVQUVLLVVtdUs4dTdaRGkyOVVyNE5nblZPQzVwajB1QXZtZERNdE00clpwSjNxbmVTZzlzTFE2Ykw1aU9vTEVPUV81bF9TTmNkSjVUVWJUcHZRRWlSMUFCY3plQnFYSTJvNVBURld0OGloYWZwbzVzZVZrZWtpbmRVZHNxLTNnRmNuNVhHanRxZm5sTi1jQQ?oc=5",
-          "published": "2026-11-08T10:39:00+00:00",
+          "title": "Haze vs VIPs at BigBang concert in Singapore",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZVTVmYllZMzhpemx1U1JKbDNxb1FaczFTRUdZMXpRaEJLQl9Ca0UyYUJ6b2ZKV2NIN1l1YXhaNVBpWFpUTzVVSVlNQ0FSYjZJNkI1amFVZ09UcWFzQ2c?oc=5",
+          "published": "2026-11-12T09:19:40+00:00",
           "source": "The Straits Times",
           "via": "Google News"
         },
         {
-          "title": "Southeast Asia must be vigilant for haze with ‘Godzilla El Nino’ forecast: Grace Fu",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uZDBZSTFyM1NNYl9yS3BYby1Pdl9FVGdWVjkxWWY2RFAyQ2VjNVJFVmRqU1NTQmNxVnNpN2pqeHFnaG5WcUhXX1l3TFUyUHN2Zmk3RXB2bTFQME9lekE?oc=5",
-          "published": "2026-11-07T08:00:00+00:00",
+          "title": "Haze in 2026 estimated to cost Singapore $2.32 billion, up 4% from 2015: Experts",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdTZ3YWZDalBVdUU5N2tocmswSkNycUNOZWo5TjN4NVdVQUVLLVVtdUs4dTdaRGkyOVVyNE5nblZPQzVwajB1QXZtZERNdE00clpwSjNxbmVTZzlzTFE2Ykw1aU9vTEVPUV81bF9TTmNkSjVUVWJUcHZRRWlSMUFCY3plQnFYSTJvNVBURld0OGloYWZwbzVzZVZrZWtpbmRVZHNxLTNnRmNuNVhHanRxZm5sTi1jQQ?oc=5",
+          "published": "2026-11-08T10:39:00+00:00",
           "source": "The Straits Times",
           "via": "Google News"
         },
