@@ -1,23 +1,16 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-14T13:02:07.880600+00:00",
+  "checkedAt": "2026-11-15T05:03:58.249089+00:00",
   "sources": [
     {
       "name": "CNA",
-      "fetchedAt": "2026-11-14T13:02:07.880600+00:00",
+      "fetchedAt": "2026-11-15T05:03:58.249089+00:00",
       "available": true,
       "items": [
         {
-          "title": "transboundary haze latest news & coverage",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YNU4xWS0xZ3E1cnNuTVVCcGN2VlI0TXVDdmljTWdnT1ZxN1FsZVJBX2xjMXNFZm44YUEzZVptU2ItZVAxTXZsRjdTRjY0OU95QVZ2aGdONVRCYndRN1NXSFZDUDAxUW8?oc=5",
-          "published": "2026-11-13T22:25:43+00:00",
-          "source": "CNA",
-          "via": "Google News"
-        },
-        {
-          "title": "haze latest news & coverage",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBBRkN2eVdfWHkweFBrM1hXZFJpOUlZYThXdVhScTMxV2tPRmJ1Z2hjbzVVS01CZW5rbXp2bGhpbElJYm5vYXhjWG5lekNJNTBPNEpPaw?oc=5",
-          "published": "2026-11-13T22:10:44+00:00",
+          "title": "CNA938 Rewind - Singapore haze crisis: What worked, what fell short and what’s next?",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdk1HMGF5Z29kLXJ1bVc1anNiazJjRTRpd2FON1gxbTY4cG9FOGNfT0ZyQ0JRWjRFbDk4Vk9fNHlSeXhqQkJVaS1HcEs2WkxlQW9TRFh1cFR2cDVUa2ZYVzM0VUtabXdkN3NWd3JsNzlRMVlHRUFBNTQ2UEFGOC1teUpZaUNsajVkT0M4eERHMXdpR05vM2Q3aW1jd3hTWHp5TnA1MWFfdTRxcnVHSlljWmNRYkw4THVWWnZlMnNoOHFUcnc?oc=5",
+          "published": "2026-11-15T01:46:15+00:00",
           "source": "CNA",
           "via": "Google News"
         },
@@ -30,7 +23,7 @@
         },
         {
           "title": "Should you 'revenge train' to catch up on training days lost to the haze?",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdWhraDFRMzd1TFVlX0NuVHR1RjRLU3hWNm4wTUZyUDlMVTBCQXNPOEZfYVgzcVYzaTd5Y1h0b1J2amdnNE1LS2tRclBER1RHaVRiS210VkZVX2ZCczFLM3hGRzZCV3FtS3U1LV9vLTdockJUX1VNaUVMeU4yUDBIY082OGl0WnQ3dm0zUUdHcExoZU5va2o4QWwxTG5iWlgwa3JIdmc5OA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMFdLSS0tWFFRMlFvZ09hYmpiTjJKZDJKM1dQUUxGeXdqc05pMkhYZU9MMWo0ODRUdU91azl6QXJSaW1pSk9EV2FoNmpnMWFuWWVXYjFPWUtXMFlmY0JRelZndlpZTEstLU82ZERvU1RONlRZaXhHUExHd0dNQ0lvZFJpWU5KM2I2Z2UySFFIYWtoUHR5VEd0d3JfdXJlTVpMZkhqbUdZUGp4eTdhZ3lCZjRpcnJWMnJ3Q0xDdTVSWDlia3B6aElQaEUyYUF1R2V4emhZRlNtVF8?oc=5",
           "published": "2026-11-13T11:08:00+00:00",
           "source": "CNA",
           "via": "Google News"
@@ -76,12 +69,19 @@
           "published": "2026-11-10T07:48:00+00:00",
           "source": "CNA",
           "via": "Google News"
+        },
+        {
+          "title": "CNA938 Rewind - The Wellness Hour - Can the haze affect your blood sugar? What people with diabetes should know",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSDZLZ29GeU9FWlVoQ3J1TlEwRWozWXZQa1NreHFTb0Z4TWNjU29IMkNTellnMWRIU0xjcDFfM19WN0dBR0Q2Q1JxSlRubDdSZTZMMFBEWDM0WHVFcnd6RjRMaWdNN0tfcmJqLUU2VDRXRzQ3WExzNlVzakNXT21sMmxJekZTalBnaHhWb1ppWXJTYXZ1S0tiaThBVGZJczVJZ3c4X1NnZWRnRU9KTXRkeG9hampwQzZWMlBvVGVlaWlkcDYyWnhtZjZUaEZpT1kyR0tkekMyUQ?oc=5",
+          "published": "2026-11-10T07:09:59+00:00",
+          "source": "CNA",
+          "via": "Google News"
         }
       ]
     },
     {
       "name": "The Straits Times",
-      "fetchedAt": "2026-11-14T13:02:07.880600+00:00",
+      "fetchedAt": "2026-11-15T05:03:58.249089+00:00",
       "available": true,
       "items": [
         {
