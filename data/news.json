@@ -1,12 +1,26 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-15T05:03:58.249089+00:00",
+  "checkedAt": "2026-11-15T13:30:28.219724+00:00",
   "sources": [
     {
       "name": "CNA",
-      "fetchedAt": "2026-11-15T05:03:58.249089+00:00",
+      "fetchedAt": "2026-11-15T13:30:28.219724+00:00",
       "available": true,
       "items": [
+        {
+          "title": "haze latest news & coverage",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBBRkN2eVdfWHkweFBrM1hXZFJpOUlZYThXdVhScTMxV2tPRmJ1Z2hjbzVVS01CZW5rbXp2bGhpbElJYm5vYXhjWG5lekNJNTBPNEpPaw?oc=5",
+          "published": "2026-11-15T11:49:52+00:00",
+          "source": "CNA",
+          "via": "Google News"
+        },
+        {
+          "title": "Singapore-Indonesia haze task force should become ASEAN-wide platform: PM Wong",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWkJvVmc0ZXZJS0dWZUIwdXlKNXQ0c1BTRnF3Ulh1ejZKaFVIM1ZGVWMwN1pwYTZSSkdISmhaYzdMV2hXa1dQXzYyNjE2b0FwODJ2ZTlBcm5zTXV5UGp1M3Y2QzdkYnBVTGxZbk0tZmFmaDR4Z1l4YnRTcDl6a3BCNGtjY0oyV0IycktTRDRGODY0TExmRFRpc3lJSnU1V00?oc=5",
+          "published": "2026-11-15T11:49:20+00:00",
+          "source": "CNA",
+          "via": "Google News"
+        },
         {
           "title": "CNA938 Rewind - Singapore haze crisis: What worked, what fell short and what’s next?",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdk1HMGF5Z29kLXJ1bVc1anNiazJjRTRpd2FON1gxbTY4cG9FOGNfT0ZyQ0JRWjRFbDk4Vk9fNHlSeXhqQkJVaS1HcEs2WkxlQW9TRFh1cFR2cDVUa2ZYVzM0VUtabXdkN3NWd3JsNzlRMVlHRUFBNTQ2UEFGOC1teUpZaUNsajVkT0M4eERHMXdpR05vM2Q3aW1jd3hTWHp5TnA1MWFfdTRxcnVHSlljWmNRYkw4THVWWnZlMnNoOHFUcnc?oc=5",
@@ -62,28 +76,21 @@
           "published": "2026-11-11T00:58:17+00:00",
           "source": "CNA",
           "via": "Google News"
-        },
-        {
-          "title": "Lost race training days to the haze? Don't rush to catch up, say experts",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNXdmZ1BOTTJsNlVtSGVYY3NIZndCQ1RDTHZoZDJ0VThfemJTRTQ3TmJNMFZZNWtQQnRFOExqSWh1YnVvUURpdXViM3BkSE5wam9PeEZUVkZxRjBvdEdxbXp2VnJEVVQxcHY1V0F0VGE2dFlmODJOc1VCdVJiQ1ZQSkxJcXQyWVhBWlRELW5wTDRLZUdGUXE1dWFMU2RYZTB6ZmpMY2RqWDM0SXZGT2lj?oc=5",
-          "published": "2026-11-10T07:48:00+00:00",
-          "source": "CNA",
-          "via": "Google News"
-        },
-        {
-          "title": "CNA938 Rewind - The Wellness Hour - Can the haze affect your blood sugar? What people with diabetes should know",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSDZLZ29GeU9FWlVoQ3J1TlEwRWozWXZQa1NreHFTb0Z4TWNjU29IMkNTellnMWRIU0xjcDFfM19WN0dBR0Q2Q1JxSlRubDdSZTZMMFBEWDM0WHVFcnd6RjRMaWdNN0tfcmJqLUU2VDRXRzQ3WExzNlVzakNXT21sMmxJekZTalBnaHhWb1ppWXJTYXZ1S0tiaThBVGZJczVJZ3c4X1NnZWRnRU9KTXRkeG9hampwQzZWMlBvVGVlaWlkcDYyWnhtZjZUaEZpT1kyR0tkekMyUQ?oc=5",
-          "published": "2026-11-10T07:09:59+00:00",
-          "source": "CNA",
-          "via": "Google News"
         }
       ]
     },
     {
       "name": "The Straits Times",
-      "fetchedAt": "2026-11-15T05:03:58.249089+00:00",
+      "fetchedAt": "2026-11-15T13:30:28.219724+00:00",
       "available": true,
       "items": [
+        {
+          "title": "Regional platform to tackle haze among ways for ASEAN to manage differences amicably: PM Wong",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOFhxWHVMYXJROE1fYjdQQXllaGx2X29uX213b2dPVmkwMDBSVFg2NVZwellwbTV6Tnp6cHBQcmg2VmZ4VFBmNGtPM1JGTGhqLVFGQ21uLUtQV1NZME12ZHlvdW5rNUUya2NSSzFadUlwa2FSc2psUHdmRThPNzF6d3lsVlR3SHlRNTFJWXY5YVVDc19CZVZjTDY3RTlsSGdoZnhmaDFtbWY3d3NNU0EzTm5wa3BPUjN4ZzljZHJaTkhzc3pQbTJyWDg5U2trOHNrdWJiM21FYw?oc=5",
+          "published": "2026-11-15T11:59:00+00:00",
+          "source": "The Straits Times",
+          "via": "Google News"
+        },
         {
           "title": "Haze-linked First Resources, Bumitama post higher profits for Q3",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSkNidDFnSXdlRTV3Z0V2ZXliTWZTMDdhajhGTzIzYWtpYzFfeDgtY2JfVy14c1JaSWhGTkNXaXgxd250NHAwQzQ2Y0MzQXBxZVo2bEdReHNFbWxNR201SDJjM3E5TF9CemJ1VWp4azVTRlM2cjNSNWpGc1JzR0RTcnM1b05rSUlmc3Y3SEVVaVgyUWJ1RmdoQWFHeHk0bEFCLTBB?oc=5",
@@ -109,13 +116,6 @@
           "title": "Heat from climate change, El Nino’s drought worsened Indonesia haze: Study",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQWc2N2RMUjJWQ2wzSkRsekRKU29JU1U2dE40RzNWOWJ1OHZjdkxZRkRuMDZqOVNISy1LRVkwN2pUWVFmV0U4VFI2R2hqcUdCLVlrZ2RuYTR1bnJnYkd4R2dCZEhMQ2YzcG90TkZXNDZISl9pMnd6djQ5UkVvM2tGNUUxRm1KMmxqZ3ZkbzAxenpUV2stZDhHSmNJLWhMdk92dGZicy1CWWpLcWJxdjZ3TGhFVVFCZmRROFVvM2FjQQ?oc=5",
           "published": "2026-11-12T22:00:00+00:00",
-          "source": "The Straits Times",
-          "via": "Google News"
-        },
-        {
-          "title": "Haze in 2026 estimated to cost Singapore $2.32 billion, up 4% from 2015: Experts",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdTZ3YWZDalBVdUU5N2tocmswSkNycUNOZWo5TjN4NVdVQUVLLVVtdUs4dTdaRGkyOVVyNE5nblZPQzVwajB1QXZtZERNdE00clpwSjNxbmVTZzlzTFE2Ykw1aU9vTEVPUV81bF9TTmNkSjVUVWJUcHZRRWlSMUFCY3plQnFYSTJvNVBURld0OGloYWZwbzVzZVZrZWtpbmRVZHNxLTNnRmNuNVhHanRxZm5sTi1jQQ?oc=5",
-          "published": "2026-11-08T10:39:00+00:00",
           "source": "The Straits Times",
           "via": "Google News"
         }
