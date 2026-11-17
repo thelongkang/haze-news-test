@@ -1,16 +1,30 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-17T06:49:59.435356+00:00",
+  "checkedAt": "2026-11-17T16:43:02.612766+00:00",
   "sources": [
     {
       "name": "CNA",
-      "fetchedAt": "2026-11-17T06:49:59.435356+00:00",
+      "fetchedAt": "2026-11-17T16:43:02.612766+00:00",
       "available": true,
       "items": [
         {
+          "title": "ASEAN chief on haze talks, South China Sea code of conduct",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcW1XYUdJRi1HaThlbEhWeG10d0JJVGQtb2IyQ21TLWYxTElsaG96MzA0Z2duZi1FOEkzUDZxaExvNmpzR2hCRC1uRjhDOUxGOHVsLXBSS1dRUk9Wa19SazRvLUZEckI1S2pELUVDWFRKS0JPaG85M28yclhPS2NyejB3RS1rNC15YVZMTEdEWE1BS09hRl9GbGY2cFhkZw?oc=5",
+          "published": "2026-11-17T13:13:41+00:00",
+          "source": "CNA",
+          "via": "Google News"
+        },
+        {
           "title": "ASEAN chief highlights unusually extensive haze talks, hurdles in South China Sea code negotiations",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNV281UWEwNHZWWXJUWmlBdWVNZlVxVkFtdnE3TXJDTlY5Q2UxRF9IaVpjV3ZXWU01Q2oyM2F1WHlTUlpZQjIyUmFvOERYdnB4enF0SkItX0NsVDV4QWthWXpCMTlKQlZmWmlNM2hFU1BNTDFUakMwS3ZHYWdIeVBiaHhqeUxaYWtUaW9GZmFveTBsZkhUVVpLSA?oc=5",
-          "published": "2026-11-17T06:38:54+00:00",
+          "published": "2026-11-17T06:38:00+00:00",
+          "source": "CNA",
+          "via": "Google News"
+        },
+        {
+          "title": "transboundary haze latest news & coverage",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YNU4xWS0xZ3E1cnNuTVVCcGN2VlI0TXVDdmljTWdnT1ZxN1FsZVJBX2xjMXNFZm44YUEzZVptU2ItZVAxTXZsRjdTRjY0OU95QVZ2aGdONVRCYndRN1NXSFZDUDAxUW8?oc=5",
+          "published": "2026-11-17T01:48:24+00:00",
           "source": "CNA",
           "via": "Google News"
         },
@@ -18,6 +32,13 @@
           "title": "Indonesia President Prabowo apologises to Singapore, Malaysia over haze",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUUIzSGtpcm52c1NjZ0hCdWtpQzdFS0ZrRDNRNlBDYmtDYmRvLW5pSnZQcnRJRWM0dDVnRVkzdHFtczVDRjF0cXg0OThlbnBPenpyZ0t6ekVmLU10a1E5bE9KWklQWF9VU0RRa0txNXhUa2pqaUtJVlN4S2pqVlU3NVhVemltUmpfd1FVYXplRVJBVUpuNnRfcml6SGVBemZjOUg1MzBBbjhCeTd0SXpqWHJEQzc?oc=5",
           "published": "2026-11-16T04:37:20+00:00",
+          "source": "CNA",
+          "via": "Google News"
+        },
+        {
+          "title": "haze latest news & coverage",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBBRkN2eVdfWHkweFBrM1hXZFJpOUlZYThXdVhScTMxV2tPRmJ1Z2hjbzVVS01CZW5rbXp2bGhpbElJYm5vYXhjWG5lekNJNTBPNEpPaw?oc=5",
+          "published": "2026-11-15T15:58:15+00:00",
           "source": "CNA",
           "via": "Google News"
         },
@@ -43,13 +64,6 @@
           "via": "Google News"
         },
         {
-          "title": "haze latest news & coverage",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBBRkN2eVdfWHkweFBrM1hXZFJpOUlZYThXdVhScTMxV2tPRmJ1Z2hjbzVVS01CZW5rbXp2bGhpbElJYm5vYXhjWG5lekNJNTBPNEpPaw?oc=5",
-          "published": "2026-11-15T06:05:02+00:00",
-          "source": "CNA",
-          "via": "Google News"
-        },
-        {
           "title": "CNA938 Rewind - Singapore haze crisis: What worked, what fell short and what’s next?",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdk1HMGF5Z29kLXJ1bVc1anNiazJjRTRpd2FON1gxbTY4cG9FOGNfT0ZyQ0JRWjRFbDk4Vk9fNHlSeXhqQkJVaS1HcEs2WkxlQW9TRFh1cFR2cDVUa2ZYVzM0VUtabXdkN3NWd3JsNzlRMVlHRUFBNTQ2UEFGOC1teUpZaUNsajVkT0M4eERHMXdpR05vM2Q3aW1jd3hTWHp5TnA1MWFfdTRxcnVHSlljWmNRYkw4THVWWnZlMnNoOHFUcnc?oc=5",
           "published": "2026-11-15T01:46:15+00:00",
@@ -62,26 +76,12 @@
           "published": "2026-11-13T14:40:31+00:00",
           "source": "CNA",
           "via": "Google News"
-        },
-        {
-          "title": "‘A lot at stake’: Meet the meteorologist tasked with predicting Singapore’s haze",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRHg4ZGNGQlh2TGJ3OEM2bnQzTld3b1A4ci1kMy1tVjJQQkVCNWMzWVFFd1phSmJnUUFNMWZ6MzJuR1c0ZDgwQ1hlc3Y1Zm5xZDlhaURPY19DMkF5am5LdmFkQmZYYzFxVEZXSmY0NE5DYkJVc1VrOTRRQnNhTnFIWVZZRzR4TG93R0d4cmVrZmI0YWhMMkxVclJUSVQ0eGVpTzJJ?oc=5",
-          "published": "2026-11-13T11:07:57+00:00",
-          "source": "CNA",
-          "via": "Google News"
-        },
-        {
-          "title": "Deep Dive - Making companies behind the haze pay: Can Singapore succeed?",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNU2xDQURraUdDWEtfVDhqQnNZZ3NDSkpEbUpFamFoMjVPVThFVkYta1Nkb0NkdklzX25rcElXUFhTemtDQ1lnZURoMWJIZlZUMW9XcWM5S2hkSDZ6Wk1RRjFZYnZ4czdNdGpHVEhBVHg4Wk9raTdhbWw4enFyNW91Q2dmcnBiYWVjM3VGUXFOZV9HaE9yUzBnYW9JS2NwejczU2x1UEdFV2VQSjYyM1U3VGFLdUZRanlQNnU0MFpqOXRYN1E0dE9qTGRCcGs2ZUZVZVptUmQ2UEFzaV9f?oc=5",
-          "published": "2026-11-12T19:22:22+00:00",
-          "source": "CNA",
-          "via": "Google News"
         }
       ]
     },
     {
       "name": "The Straits Times",
-      "fetchedAt": "2026-11-17T06:49:59.435356+00:00",
+      "fetchedAt": "2026-11-17T16:43:02.612766+00:00",
       "available": true,
       "items": [
         {
