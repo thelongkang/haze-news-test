@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-18T16:13:15.159933+00:00",
+  "checkedAt": "2026-11-19T06:10:17.369173+00:00",
   "sources": [
     {
       "name": "CNA",
-      "fetchedAt": "2026-11-18T16:13:15.159933+00:00",
+      "fetchedAt": "2026-11-19T06:10:17.369173+00:00",
       "available": true,
       "items": [
         {
@@ -18,6 +18,13 @@
           "title": "ASEAN chief highlights unusually extensive haze talks, hurdles in South China Sea code negotiations",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNV281UWEwNHZWWXJUWmlBdWVNZlVxVkFtdnE3TXJDTlY5Q2UxRF9IaVpjV3ZXWU01Q2oyM2F1WHlTUlpZQjIyUmFvOERYdnB4enF0SkItX0NsVDV4QWthWXpCMTlKQlZmWmlNM2hFU1BNTDFUakMwS3ZHYWdIeVBiaHhqeUxaYWtUaW9GZmFveTBsZkhUVVpLSA?oc=5",
           "published": "2026-11-17T06:38:00+00:00",
+          "source": "CNA",
+          "via": "Google News"
+        },
+        {
+          "title": "transboundary haze latest news & coverage",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YNU4xWS0xZ3E1cnNuTVVCcGN2VlI0TXVDdmljTWdnT1ZxN1FsZVJBX2xjMXNFZm44YUEzZVptU2ItZVAxTXZsRjdTRjY0OU95QVZ2aGdONVRCYndRN1NXSFZDUDAxUW8?oc=5",
+          "published": "2026-11-17T05:21:59+00:00",
           "source": "CNA",
           "via": "Google News"
         },
@@ -69,19 +76,12 @@
           "published": "2026-11-13T11:07:57+00:00",
           "source": "CNA",
           "via": "Google News"
-        },
-        {
-          "title": "Deep Dive - Making companies behind the haze pay: Can Singapore succeed?",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNU2xDQURraUdDWEtfVDhqQnNZZ3NDSkpEbUpFamFoMjVPVThFVkYta1Nkb0NkdklzX25rcElXUFhTemtDQ1lnZURoMWJIZlZUMW9XcWM5S2hkSDZ6Wk1RRjFZYnZ4czdNdGpHVEhBVHg4Wk9raTdhbWw4enFyNW91Q2dmcnBiYWVjM3VGUXFOZV9HaE9yUzBnYW9JS2NwejczU2x1UEdFV2VQSjYyM1U3VGFLdUZRanlQNnU0MFpqOXRYN1E0dE9qTGRCcGs2ZUZVZVptUmQ2UEFzaV9f?oc=5",
-          "published": "2026-11-12T19:22:22+00:00",
-          "source": "CNA",
-          "via": "Google News"
         }
       ]
     },
     {
       "name": "The Straits Times",
-      "fetchedAt": "2026-11-18T16:13:15.159933+00:00",
+      "fetchedAt": "2026-11-19T06:10:17.369173+00:00",
       "available": true,
       "items": [
         {
