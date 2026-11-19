@@ -1,12 +1,19 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-19T06:10:17.369173+00:00",
+  "checkedAt": "2026-11-19T16:20:41.573686+00:00",
   "sources": [
     {
       "name": "CNA",
-      "fetchedAt": "2026-11-19T06:10:17.369173+00:00",
+      "fetchedAt": "2026-11-19T16:20:41.573686+00:00",
       "available": true,
       "items": [
+        {
+          "title": "transboundary haze latest news & coverage",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YNU4xWS0xZ3E1cnNuTVVCcGN2VlI0TXVDdmljTWdnT1ZxN1FsZVJBX2xjMXNFZm44YUEzZVptU2ItZVAxTXZsRjdTRjY0OU95QVZ2aGdONVRCYndRN1NXSFZDUDAxUW8?oc=5",
+          "published": "2026-11-17T16:14:32+00:00",
+          "source": "CNA",
+          "via": "Google News"
+        },
         {
           "title": "ASEAN chief on haze talks, South China Sea code of conduct",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcW1XYUdJRi1HaThlbEhWeG10d0JJVGQtb2IyQ21TLWYxTElsaG96MzA0Z2duZi1FOEkzUDZxaExvNmpzR2hCRC1uRjhDOUxGOHVsLXBSS1dRUk9Wa19SazRvLUZEckI1S2pELUVDWFRKS0JPaG85M28yclhPS2NyejB3RS1rNC15YVZMTEdEWE1BS09hRl9GbGY2cFhkZw?oc=5",
@@ -18,13 +25,6 @@
           "title": "ASEAN chief highlights unusually extensive haze talks, hurdles in South China Sea code negotiations",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNV281UWEwNHZWWXJUWmlBdWVNZlVxVkFtdnE3TXJDTlY5Q2UxRF9IaVpjV3ZXWU01Q2oyM2F1WHlTUlpZQjIyUmFvOERYdnB4enF0SkItX0NsVDV4QWthWXpCMTlKQlZmWmlNM2hFU1BNTDFUakMwS3ZHYWdIeVBiaHhqeUxaYWtUaW9GZmFveTBsZkhUVVpLSA?oc=5",
           "published": "2026-11-17T06:38:00+00:00",
-          "source": "CNA",
-          "via": "Google News"
-        },
-        {
-          "title": "transboundary haze latest news & coverage",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YNU4xWS0xZ3E1cnNuTVVCcGN2VlI0TXVDdmljTWdnT1ZxN1FsZVJBX2xjMXNFZm44YUEzZVptU2ItZVAxTXZsRjdTRjY0OU95QVZ2aGdONVRCYndRN1NXSFZDUDAxUW8?oc=5",
-          "published": "2026-11-17T05:21:59+00:00",
           "source": "CNA",
           "via": "Google News"
         },
@@ -81,13 +81,13 @@
     },
     {
       "name": "The Straits Times",
-      "fetchedAt": "2026-11-19T06:10:17.369173+00:00",
+      "fetchedAt": "2026-11-19T16:20:41.573686+00:00",
       "available": true,
       "items": [
         {
           "title": "Prabowo apologises to Singapore and Malaysia for issues caused by haze during ASEAN Summit",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kWFhBOW9Bdnpoa0FRN3VTaVlSaDhrWWQzWXRPQTV5OWk3MVVDWTJXX2ZHTTdzY3lMWU5SSlVTNTRmWUIxVVAyYVRtdjQ4UDZLZ2dBTXNLdkJDMEQxTmc?oc=5",
-          "published": "2026-11-17T14:48:39+00:00",
+          "published": "2026-11-19T07:35:52+00:00",
           "source": "The Straits Times",
           "via": "Google News"
         },
