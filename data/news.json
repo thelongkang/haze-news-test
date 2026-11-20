@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-20T05:56:10.387551+00:00",
+  "checkedAt": "2026-11-20T15:03:17.695046+00:00",
   "sources": [
     {
       "name": "CNA",
-      "fetchedAt": "2026-11-20T05:56:10.387551+00:00",
+      "fetchedAt": "2026-11-20T15:03:17.695046+00:00",
       "available": true,
       "items": [
         {
           "title": "transboundary haze latest news & coverage",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YNU4xWS0xZ3E1cnNuTVVCcGN2VlI0TXVDdmljTWdnT1ZxN1FsZVJBX2xjMXNFZm44YUEzZVptU2ItZVAxTXZsRjdTRjY0OU95QVZ2aGdONVRCYndRN1NXSFZDUDAxUW8?oc=5",
-          "published": "2026-11-18T04:12:02+00:00",
+          "published": "2026-11-18T13:06:30+00:00",
           "source": "CNA",
           "via": "Google News"
         },
@@ -62,32 +62,18 @@
           "published": "2026-11-15T01:46:15+00:00",
           "source": "CNA",
           "via": "Google News"
-        },
-        {
-          "title": "CNA938 Rewind - Haze particles make you feel hot and tired, and can kick in 1hr after exposure #SGToday",
-          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNMXJfSF9heXp1d0tzS2IwQnowMkpSUF9ZdUFxaDNzWjRKMTdBYng5Q2NDX0NqcVBRcEczV0U5OVZsMmhMQ2lrQmN3UW5FeGt5YUhSaFQybFluUXpoSEVTeUJYZmFKNFNjXzdhMlppWllHM3lnZUt1ZzJOWEppd0s4QW5QS0ZFVGctWEgwSWtQR001NHNoQU12dzFsMVdkOFBWeS1rSktpN05vUXpCNEJlRUh4WXVOWDlMclMxWEFTcmdmSkV5V0dOcXdGeTJ4bFkxSHVxS21GR0VjY0JxZTdjbVV1U2s2YWJqVVREZnk0TGhYSmI1TWRrZUZxTW9zb2p0d1Q3MzJ1bmJGQS11?oc=5",
-          "published": "2026-11-13T14:40:31+00:00",
-          "source": "CNA",
-          "via": "Google News"
-        },
-        {
-          "title": "‘A lot at stake’: Meet the meteorologist tasked with predicting Singapore’s haze",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRHg4ZGNGQlh2TGJ3OEM2bnQzTld3b1A4ci1kMy1tVjJQQkVCNWMzWVFFd1phSmJnUUFNMWZ6MzJuR1c0ZDgwQ1hlc3Y1Zm5xZDlhaURPY19DMkF5am5LdmFkQmZYYzFxVEZXSmY0NE5DYkJVc1VrOTRRQnNhTnFIWVZZRzR4TG93R0d4cmVrZmI0YWhMMkxVclJUSVQ0eGVpTzJJ?oc=5",
-          "published": "2026-11-13T11:07:57+00:00",
-          "source": "CNA",
-          "via": "Google News"
         }
       ]
     },
     {
       "name": "The Straits Times",
-      "fetchedAt": "2026-11-20T05:56:10.387551+00:00",
+      "fetchedAt": "2026-11-20T15:03:17.695046+00:00",
       "available": true,
       "items": [
         {
           "title": "Prabowo apologises to Singapore and Malaysia for issues caused by haze during ASEAN Summit",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kWFhBOW9Bdnpoa0FRN3VTaVlSaDhrWWQzWXRPQTV5OWk3MVVDWTJXX2ZHTTdzY3lMWU5SSlVTNTRmWUIxVVAyYVRtdjQ4UDZLZ2dBTXNLdkJDMEQxTmc?oc=5",
-          "published": "2026-11-19T16:43:37+00:00",
+          "published": "2026-11-20T06:14:26+00:00",
           "source": "The Straits Times",
           "via": "Google News"
         },
