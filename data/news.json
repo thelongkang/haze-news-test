@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-19T16:20:41.573686+00:00",
+  "checkedAt": "2026-11-20T05:56:10.387551+00:00",
   "sources": [
     {
       "name": "CNA",
-      "fetchedAt": "2026-11-19T16:20:41.573686+00:00",
+      "fetchedAt": "2026-11-20T05:56:10.387551+00:00",
       "available": true,
       "items": [
         {
           "title": "transboundary haze latest news & coverage",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YNU4xWS0xZ3E1cnNuTVVCcGN2VlI0TXVDdmljTWdnT1ZxN1FsZVJBX2xjMXNFZm44YUEzZVptU2ItZVAxTXZsRjdTRjY0OU95QVZ2aGdONVRCYndRN1NXSFZDUDAxUW8?oc=5",
-          "published": "2026-11-17T16:14:32+00:00",
+          "published": "2026-11-18T04:12:02+00:00",
           "source": "CNA",
           "via": "Google News"
         },
@@ -81,13 +81,13 @@
     },
     {
       "name": "The Straits Times",
-      "fetchedAt": "2026-11-19T16:20:41.573686+00:00",
+      "fetchedAt": "2026-11-20T05:56:10.387551+00:00",
       "available": true,
       "items": [
         {
           "title": "Prabowo apologises to Singapore and Malaysia for issues caused by haze during ASEAN Summit",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kWFhBOW9Bdnpoa0FRN3VTaVlSaDhrWWQzWXRPQTV5OWk3MVVDWTJXX2ZHTTdzY3lMWU5SSlVTNTRmWUIxVVAyYVRtdjQ4UDZLZ2dBTXNLdkJDMEQxTmc?oc=5",
-          "published": "2026-11-19T07:35:52+00:00",
+          "published": "2026-11-19T16:43:37+00:00",
           "source": "The Straits Times",
           "via": "Google News"
         },
@@ -102,27 +102,6 @@
           "title": "PM Wong calls for setting up of regional platform to tackle haze issue",
           "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOFhxWHVMYXJROE1fYjdQQXllaGx2X29uX213b2dPVmkwMDBSVFg2NVZwellwbTV6Tnp6cHBQcmg2VmZ4VFBmNGtPM1JGTGhqLVFGQ21uLUtQV1NZME12ZHlvdW5rNUUya2NSSzFadUlwa2FSc2psUHdmRThPNzF6d3lsVlR3SHlRNTFJWXY5YVVDc19CZVZjTDY3RTlsSGdoZnhmaDFtbWY3d3NNU0EzTm5wa3BPUjN4ZzljZHJaTkhzc3pQbTJyWDg5U2trOHNrdWJiM21FYw?oc=5",
           "published": "2026-11-15T11:59:00+00:00",
-          "source": "The Straits Times",
-          "via": "Google News"
-        },
-        {
-          "title": "Haze-linked First Resources, Bumitama post higher profits for Q3",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSkNidDFnSXdlRTV3Z0V2ZXliTWZTMDdhajhGTzIzYWtpYzFfeDgtY2JfVy14c1JaSWhGTkNXaXgxd250NHAwQzQ2Y0MzQXBxZVo2bEdReHNFbWxNR201SDJjM3E5TF9CemJ1VWp4azVTRlM2cjNSNWpGc1JzR0RTcnM1b05rSUlmc3Y3SEVVaVgyUWJ1RmdoQWFHeHk0bEFCLTBB?oc=5",
-          "published": "2026-11-13T04:50:00+00:00",
-          "source": "The Straits Times",
-          "via": "Google News"
-        },
-        {
-          "title": "Delhi overtakes Lahore as world’s most polluted city as air quality drops",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWTgzcGtoMUxsMmZzOFZCMVpSbTdBQnBYMDR3eGtRaldUNzhwcUt3VTNYTUJlRkxEMzFIWkpGSXFnQUJMUmFleFFJNkc3TmJjTU4wQWVKT3hoLTJrdjFCWS12NjhrN3JPNy1FUkVpdFRnZjVXRlNqNktxbzV5MTh2Y2dIdzBPWkRONGZZMXdMOEJZLXMtZWhEdjNtZjNUSlRYV2lfWm5rTWIwYnA1UmVxbnVHVVFXT3J3?oc=5",
-          "published": "2026-11-13T04:29:00+00:00",
-          "source": "The Straits Times",
-          "via": "Google News"
-        },
-        {
-          "title": "Heat from climate change, El Nino’s drought worsened Indonesia haze: Study",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQWc2N2RMUjJWQ2wzSkRsekRKU29JU1U2dE40RzNWOWJ1OHZjdkxZRkRuMDZqOVNISy1LRVkwN2pUWVFmV0U4VFI2R2hqcUdCLVlrZ2RuYTR1bnJnYkd4R2dCZEhMQ2YzcG90TkZXNDZISl9pMnd6djQ5UkVvM2tGNUUxRm1KMmxqZ3ZkbzAxenpUV2stZDhHSmNJLWhMdk92dGZicy1CWWpLcWJxdjZ3TGhFVVFCZmRROFVvM2FjQQ?oc=5",
-          "published": "2026-11-12T22:00:00+00:00",
           "source": "The Straits Times",
           "via": "Google News"
         }
