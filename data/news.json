@@ -1,19 +1,12 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-20T15:03:17.695046+00:00",
+  "checkedAt": "2026-11-21T05:51:04.573244+00:00",
   "sources": [
     {
       "name": "CNA",
-      "fetchedAt": "2026-11-20T15:03:17.695046+00:00",
+      "fetchedAt": "2026-11-21T05:51:04.573244+00:00",
       "available": true,
       "items": [
-        {
-          "title": "transboundary haze latest news & coverage",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YNU4xWS0xZ3E1cnNuTVVCcGN2VlI0TXVDdmljTWdnT1ZxN1FsZVJBX2xjMXNFZm44YUEzZVptU2ItZVAxTXZsRjdTRjY0OU95QVZ2aGdONVRCYndRN1NXSFZDUDAxUW8?oc=5",
-          "published": "2026-11-18T13:06:30+00:00",
-          "source": "CNA",
-          "via": "Google News"
-        },
         {
           "title": "ASEAN chief on haze talks, South China Sea code of conduct",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcW1XYUdJRi1HaThlbEhWeG10d0JJVGQtb2IyQ21TLWYxTElsaG96MzA0Z2duZi1FOEkzUDZxaExvNmpzR2hCRC1uRjhDOUxGOHVsLXBSS1dRUk9Wa19SazRvLUZEckI1S2pELUVDWFRKS0JPaG85M28yclhPS2NyejB3RS1rNC15YVZMTEdEWE1BS09hRl9GbGY2cFhkZw?oc=5",
@@ -29,9 +22,9 @@
           "via": "Google News"
         },
         {
-          "title": "Indonesia President Prabowo apologises to Singapore, Malaysia over haze",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUUIzSGtpcm52c1NjZ0hCdWtpQzdFS0ZrRDNRNlBDYmtDYmRvLW5pSnZQcnRJRWM0dDVnRVkzdHFtczVDRjF0cXg0OThlbnBPenpyZ0t6ekVmLU10a1E5bE9KWklQWF9VU0RRa0txNXhUa2pqaUtJVlN4S2pqVlU3NVhVemltUmpfd1FVYXplRVJBVUpuNnRfcml6SGVBemZjOUg1MzBBbjhCeTd0SXpqWHJEQzc?oc=5",
-          "published": "2026-11-16T04:37:20+00:00",
+          "title": "Here's how Singapore’s haze law has been made tougher",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQamlXNEdzZ2dNVGV1YnVodFdjUzVkbHd6V01ua1NheU9MdVdhWHlDR1RxOVg0cVYwVmc3SjhmUWNUZDhQMDN2VzNqN1BkR0xoX0NjbEk5N3EzT2JqSkVSdmhwM3RwSFVDUHRzUXRqWFozOGZMUzdWdnBvYzFVY1RTZ0dFeE9pc2UwYmhxOWhLVldLLUJfS0paVVprSGt3SzA?oc=5",
+          "published": "2026-11-16T08:53:49+00:00",
           "source": "CNA",
           "via": "Google News"
         },
@@ -55,25 +48,18 @@
           "published": "2026-11-15T10:44:00+00:00",
           "source": "CNA",
           "via": "Google News"
-        },
-        {
-          "title": "CNA938 Rewind - Singapore haze crisis: What worked, what fell short and what’s next?",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdk1HMGF5Z29kLXJ1bVc1anNiazJjRTRpd2FON1gxbTY4cG9FOGNfT0ZyQ0JRWjRFbDk4Vk9fNHlSeXhqQkJVaS1HcEs2WkxlQW9TRFh1cFR2cDVUa2ZYVzM0VUtabXdkN3NWd3JsNzlRMVlHRUFBNTQ2UEFGOC1teUpZaUNsajVkT0M4eERHMXdpR05vM2Q3aW1jd3hTWHp5TnA1MWFfdTRxcnVHSlljWmNRYkw4THVWWnZlMnNoOHFUcnc?oc=5",
-          "published": "2026-11-15T01:46:15+00:00",
-          "source": "CNA",
-          "via": "Google News"
         }
       ]
     },
     {
       "name": "The Straits Times",
-      "fetchedAt": "2026-11-20T15:03:17.695046+00:00",
+      "fetchedAt": "2026-11-21T05:51:04.573244+00:00",
       "available": true,
       "items": [
         {
           "title": "Prabowo apologises to Singapore and Malaysia for issues caused by haze during ASEAN Summit",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kWFhBOW9Bdnpoa0FRN3VTaVlSaDhrWWQzWXRPQTV5OWk3MVVDWTJXX2ZHTTdzY3lMWU5SSlVTNTRmWUIxVVAyYVRtdjQ4UDZLZ2dBTXNLdkJDMEQxTmc?oc=5",
-          "published": "2026-11-20T06:14:26+00:00",
+          "published": "2026-11-20T21:48:04+00:00",
           "source": "The Straits Times",
           "via": "Google News"
         },
