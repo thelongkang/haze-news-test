@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-22T05:24:10.680414+00:00",
+  "checkedAt": "2026-11-22T14:09:14.097723+00:00",
   "sources": [
     {
       "name": "CNA",
-      "fetchedAt": "2026-11-22T05:24:10.680414+00:00",
+      "fetchedAt": "2026-11-22T14:09:14.097723+00:00",
       "available": true,
       "items": [
         {
@@ -22,9 +22,9 @@
           "via": "Google News"
         },
         {
-          "title": "Here's how Singapore’s haze law has been made tougher",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQamlXNEdzZ2dNVGV1YnVodFdjUzVkbHd6V01ua1NheU9MdVdhWHlDR1RxOVg0cVYwVmc3SjhmUWNUZDhQMDN2VzNqN1BkR0xoX0NjbEk5N3EzT2JqSkVSdmhwM3RwSFVDUHRzUXRqWFozOGZMUzdWdnBvYzFVY1RTZ0dFeE9pc2UwYmhxOWhLVldLLUJfS0paVVprSGt3SzA?oc=5",
-          "published": "2026-11-16T08:53:49+00:00",
+          "title": "Indonesia President Prabowo apologises to Singapore, Malaysia over haze",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUUIzSGtpcm52c1NjZ0hCdWtpQzdFS0ZrRDNRNlBDYmtDYmRvLW5pSnZQcnRJRWM0dDVnRVkzdHFtczVDRjF0cXg0OThlbnBPenpyZ0t6ekVmLU10a1E5bE9KWklQWF9VU0RRa0txNXhUa2pqaUtJVlN4S2pqVlU3NVhVemltUmpfd1FVYXplRVJBVUpuNnRfcml6SGVBemZjOUg1MzBBbjhCeTd0SXpqWHJEQzc?oc=5",
+          "published": "2026-11-16T04:37:20+00:00",
           "source": "CNA",
           "via": "Google News"
         },
@@ -41,25 +41,18 @@
           "published": "2026-11-15T14:50:29+00:00",
           "source": "CNA",
           "via": "Google News"
-        },
-        {
-          "title": "Singapore-Indonesia haze task force should become ASEAN-wide platform: PM Wong",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWkJvVmc0ZXZJS0dWZUIwdXlKNXQ0c1BTRnF3Ulh1ejZKaFVIM1ZGVWMwN1pwYTZSSkdISmhaYzdMV2hXa1dQXzYyNjE2b0FwODJ2ZTlBcm5zTXV5UGp1M3Y2QzdkYnBVTGxZbk0tZmFmaDR4Z1l4YnRTcDl6a3BCNGtjY0oyV0IycktTRDRGODY0TExmRFRpc3lJSnU1V00?oc=5",
-          "published": "2026-11-15T10:44:00+00:00",
-          "source": "CNA",
-          "via": "Google News"
         }
       ]
     },
     {
       "name": "The Straits Times",
-      "fetchedAt": "2026-11-22T05:24:10.680414+00:00",
+      "fetchedAt": "2026-11-22T14:09:14.097723+00:00",
       "available": true,
       "items": [
         {
           "title": "Prabowo apologises to Singapore and Malaysia for issues caused by haze during ASEAN Summit",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kWFhBOW9Bdnpoa0FRN3VTaVlSaDhrWWQzWXRPQTV5OWk3MVVDWTJXX2ZHTTdzY3lMWU5SSlVTNTRmWUIxVVAyYVRtdjQ4UDZLZ2dBTXNLdkJDMEQxTmc?oc=5",
-          "published": "2026-11-22T00:46:39+00:00",
+          "published": "2026-11-22T12:03:19+00:00",
           "source": "The Straits Times",
           "via": "Google News"
         },
@@ -67,13 +60,6 @@
           "title": "Indonesia President apologises to Singapore, Malaysia over wildfire haze",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQWwyZFJvWW5ZLXpfOHdSQWJ1LTU5NEp1TE84OV9uaklQdlJrcWMyb2tZVE56SVVCMUJ1ejFBRTlwT2VsVFBiZ3VGdElnSTMzU184aW4xX3RadnA4VExLU01Wd3kyQXN2VEFZVllkTTZ5X1JFanVEd0tpZWUzXy0xU2xUa1VUOEZlWHRRbkxLT2t1UnZKRkVXUS0xNnhkOTBQMmJ4TzNyWGxMZkwyT3BFcl90MThqaXhLVUE?oc=5",
           "published": "2026-11-16T00:25:00+00:00",
-          "source": "The Straits Times",
-          "via": "Google News"
-        },
-        {
-          "title": "PM Wong calls for setting up of regional platform to tackle haze issue",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOFhxWHVMYXJROE1fYjdQQXllaGx2X29uX213b2dPVmkwMDBSVFg2NVZwellwbTV6Tnp6cHBQcmg2VmZ4VFBmNGtPM1JGTGhqLVFGQ21uLUtQV1NZME12ZHlvdW5rNUUya2NSSzFadUlwa2FSc2psUHdmRThPNzF6d3lsVlR3SHlRNTFJWXY5YVVDc19CZVZjTDY3RTlsSGdoZnhmaDFtbWY3d3NNU0EzTm5wa3BPUjN4ZzljZHJaTkhzc3pQbTJyWDg5U2trOHNrdWJiM21FYw?oc=5",
-          "published": "2026-11-15T11:59:00+00:00",
           "source": "The Straits Times",
           "via": "Google News"
         }
