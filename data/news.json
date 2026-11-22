@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-21T14:17:50.254286+00:00",
+  "checkedAt": "2026-11-22T05:24:10.680414+00:00",
   "sources": [
     {
       "name": "CNA",
-      "fetchedAt": "2026-11-21T14:17:50.254286+00:00",
+      "fetchedAt": "2026-11-22T05:24:10.680414+00:00",
       "available": true,
       "items": [
         {
@@ -53,13 +53,13 @@
     },
     {
       "name": "The Straits Times",
-      "fetchedAt": "2026-11-21T14:17:50.254286+00:00",
+      "fetchedAt": "2026-11-22T05:24:10.680414+00:00",
       "available": true,
       "items": [
         {
           "title": "Prabowo apologises to Singapore and Malaysia for issues caused by haze during ASEAN Summit",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kWFhBOW9Bdnpoa0FRN3VTaVlSaDhrWWQzWXRPQTV5OWk3MVVDWTJXX2ZHTTdzY3lMWU5SSlVTNTRmWUIxVVAyYVRtdjQ4UDZLZ2dBTXNLdkJDMEQxTmc?oc=5",
-          "published": "2026-11-20T21:48:04+00:00",
+          "published": "2026-11-22T00:46:39+00:00",
           "source": "The Straits Times",
           "via": "Google News"
         },
