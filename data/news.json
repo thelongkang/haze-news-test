@@ -1,19 +1,12 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-23T06:00:08.649156+00:00",
+  "checkedAt": "2026-11-23T18:59:51.555460+00:00",
   "sources": [
     {
       "name": "CNA",
-      "fetchedAt": "2026-11-23T06:00:08.649156+00:00",
+      "fetchedAt": "2026-11-23T18:59:51.555460+00:00",
       "available": true,
       "items": [
-        {
-          "title": "CNA938 Rewind - The Wellness Hour - Can the haze affect your blood sugar? What people with diabetes should know",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSDZLZ29GeU9FWlVoQ3J1TlEwRWozWXZQa1NreHFTb0Z4TWNjU29IMkNTellnMWRIU0xjcDFfM19WN0dBR0Q2Q1JxSlRubDdSZTZMMFBEWDM0WHVFcnd6RjRMaWdNN0tfcmJqLUU2VDRXRzQ3WExzNlVzakNXT21sMmxJekZTalBnaHhWb1ppWXJTYXZ1S0tiaThBVGZJczVJZ3c4X1NnZWRnRU9KTXRkeG9hampwQzZWMlBvVGVlaWlkcDYyWnhtZjZUaEZpT1kyR0tkekMyUQ?oc=5",
-          "published": "2026-11-23T03:29:03+00:00",
-          "source": "CNA",
-          "via": "Google News"
-        },
         {
           "title": "ASEAN chief on haze talks, South China Sea code of conduct",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcW1XYUdJRi1HaThlbEhWeG10d0JJVGQtb2IyQ21TLWYxTElsaG96MzA0Z2duZi1FOEkzUDZxaExvNmpzR2hCRC1uRjhDOUxGOHVsLXBSS1dRUk9Wa19SazRvLUZEckI1S2pELUVDWFRKS0JPaG85M28yclhPS2NyejB3RS1rNC15YVZMTEdEWE1BS09hRl9GbGY2cFhkZw?oc=5",
@@ -27,19 +20,12 @@
           "published": "2026-11-17T06:38:00+00:00",
           "source": "CNA",
           "via": "Google News"
-        },
-        {
-          "title": "Here's how Singapore’s haze law has been made tougher",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQamlXNEdzZ2dNVGV1YnVodFdjUzVkbHd6V01ua1NheU9MdVdhWHlDR1RxOVg0cVYwVmc3SjhmUWNUZDhQMDN2VzNqN1BkR0xoX0NjbEk5N3EzT2JqSkVSdmhwM3RwSFVDUHRzUXRqWFozOGZMUzdWdnBvYzFVY1RTZ0dFeE9pc2UwYmhxOWhLVldLLUJfS0paVVprSGt3SzA?oc=5",
-          "published": "2026-11-16T08:53:49+00:00",
-          "source": "CNA",
-          "via": "Google News"
         }
       ]
     },
     {
       "name": "The Straits Times",
-      "fetchedAt": "2026-11-23T06:00:08.649156+00:00",
+      "fetchedAt": "2026-11-23T18:59:51.555460+00:00",
       "available": true,
       "items": []
     }
