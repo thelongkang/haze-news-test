@@ -1,23 +1,30 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-23T18:59:51.555460+00:00",
+  "checkedAt": "2026-11-24T08:40:39.504332+00:00",
   "sources": [
     {
       "name": "CNA",
-      "fetchedAt": "2026-11-23T18:59:51.555460+00:00",
+      "fetchedAt": "2026-11-24T08:40:39.504332+00:00",
       "available": true,
       "items": [
         {
-          "title": "ASEAN chief on haze talks, South China Sea code of conduct",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcW1XYUdJRi1HaThlbEhWeG10d0JJVGQtb2IyQ21TLWYxTElsaG96MzA0Z2duZi1FOEkzUDZxaExvNmpzR2hCRC1uRjhDOUxGOHVsLXBSS1dRUk9Wa19SazRvLUZEckI1S2pELUVDWFRKS0JPaG85M28yclhPS2NyejB3RS1rNC15YVZMTEdEWE1BS09hRl9GbGY2cFhkZw?oc=5",
-          "published": "2026-11-17T13:13:41+00:00",
+          "title": "haze latest news & coverage",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBBRkN2eVdfWHkweFBrM1hXZFJpOUlZYThXdVhScTMxV2tPRmJ1Z2hjbzVVS01CZW5rbXp2bGhpbElJYm5vYXhjWG5lekNJNTBPNEpPaw?oc=5",
+          "published": "2026-11-24T03:41:09+00:00",
           "source": "CNA",
           "via": "Google News"
         },
         {
-          "title": "ASEAN chief highlights unusually extensive haze talks, hurdles in South China Sea code negotiations",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNV281UWEwNHZWWXJUWmlBdWVNZlVxVkFtdnE3TXJDTlY5Q2UxRF9IaVpjV3ZXWU01Q2oyM2F1WHlTUlpZQjIyUmFvOERYdnB4enF0SkItX0NsVDV4QWthWXpCMTlKQlZmWmlNM2hFU1BNTDFUakMwS3ZHYWdIeVBiaHhqeUxaYWtUaW9GZmFveTBsZkhUVVpLSA?oc=5",
-          "published": "2026-11-17T06:38:00+00:00",
+          "title": "indonesia peatland fire haze latest news & coverage",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9kMzBwU2lDb1c0MjExbTFNYi1HQUZ3ZDdJUUs5bjRkTjVacFk5Vl9IS0tmOS01SDBpSktkTHptM1RjY2NSSjVIUld6TXBuT0hXQlZBN2FLd2tUNW15STNaYnVqbTlHUFl0b0xLenZVemtRS1Ax?oc=5",
+          "published": "2026-11-24T00:02:53+00:00",
+          "source": "CNA",
+          "via": "Google News"
+        },
+        {
+          "title": "ASEAN chief on haze talks, South China Sea code of conduct",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcW1XYUdJRi1HaThlbEhWeG10d0JJVGQtb2IyQ21TLWYxTElsaG96MzA0Z2duZi1FOEkzUDZxaExvNmpzR2hCRC1uRjhDOUxGOHVsLXBSS1dRUk9Wa19SazRvLUZEckI1S2pELUVDWFRKS0JPaG85M28yclhPS2NyejB3RS1rNC15YVZMTEdEWE1BS09hRl9GbGY2cFhkZw?oc=5",
+          "published": "2026-11-17T13:13:41+00:00",
           "source": "CNA",
           "via": "Google News"
         }
@@ -25,9 +32,17 @@
     },
     {
       "name": "The Straits Times",
-      "fetchedAt": "2026-11-23T18:59:51.555460+00:00",
+      "fetchedAt": "2026-11-24T08:40:39.504332+00:00",
       "available": true,
-      "items": []
+      "items": [
+        {
+          "title": "Singapore’s haze response could offer lessons for future climate crises",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcTU5N1NiVFFNSlA2OGF3WldHRVVuY0dJNTdjLUFNNm40V08yTGVJeXNja2todTRRSVlaaG9WQVQ1Q2VpZ1JwUFhZRjZzbk1SdGxmRzFLMjFWUkZNVlJZZUdIbnMwSkFjRi1fcjFpNDN1VHR5cEsta2QwcElKNklSUm9yeUR1VU5zNmxxeE5nWmZHVlo5WWxwaGhpdEpDeUxCb0ZUZkpPRmYzN0FIN2NZQXljM2lKNTJYZkJMVHBR?oc=5",
+          "published": "2026-11-24T05:44:00+00:00",
+          "source": "The Straits Times",
+          "via": "Google News"
+        }
+      ]
     }
   ]
 }
