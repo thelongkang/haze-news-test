@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-24T08:40:39.504332+00:00",
+  "checkedAt": "2026-11-24T19:58:12.964091+00:00",
   "sources": [
     {
       "name": "CNA",
-      "fetchedAt": "2026-11-24T08:40:39.504332+00:00",
+      "fetchedAt": "2026-11-24T19:58:12.964091+00:00",
       "available": true,
       "items": [
         {
           "title": "haze latest news & coverage",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBBRkN2eVdfWHkweFBrM1hXZFJpOUlZYThXdVhScTMxV2tPRmJ1Z2hjbzVVS01CZW5rbXp2bGhpbElJYm5vYXhjWG5lekNJNTBPNEpPaw?oc=5",
-          "published": "2026-11-24T03:41:09+00:00",
+          "published": "2026-11-24T03:31:49+00:00",
           "source": "CNA",
           "via": "Google News"
         },
@@ -22,9 +22,9 @@
           "via": "Google News"
         },
         {
-          "title": "ASEAN chief on haze talks, South China Sea code of conduct",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcW1XYUdJRi1HaThlbEhWeG10d0JJVGQtb2IyQ21TLWYxTElsaG96MzA0Z2duZi1FOEkzUDZxaExvNmpzR2hCRC1uRjhDOUxGOHVsLXBSS1dRUk9Wa19SazRvLUZEckI1S2pELUVDWFRKS0JPaG85M28yclhPS2NyejB3RS1rNC15YVZMTEdEWE1BS09hRl9GbGY2cFhkZw?oc=5",
-          "published": "2026-11-17T13:13:41+00:00",
+          "title": "CNA938 Rewind - The Wellness Hour - Can the haze affect your blood sugar? What people with diabetes should know",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSDZLZ29GeU9FWlVoQ3J1TlEwRWozWXZQa1NreHFTb0Z4TWNjU29IMkNTellnMWRIU0xjcDFfM19WN0dBR0Q2Q1JxSlRubDdSZTZMMFBEWDM0WHVFcnd6RjRMaWdNN0tfcmJqLUU2VDRXRzQ3WExzNlVzakNXT21sMmxJekZTalBnaHhWb1ppWXJTYXZ1S0tiaThBVGZJczVJZ3c4X1NnZWRnRU9KTXRkeG9hampwQzZWMlBvVGVlaWlkcDYyWnhtZjZUaEZpT1kyR0tkekMyUQ?oc=5",
+          "published": "2026-11-23T03:29:03+00:00",
           "source": "CNA",
           "via": "Google News"
         }
@@ -32,9 +32,16 @@
     },
     {
       "name": "The Straits Times",
-      "fetchedAt": "2026-11-24T08:40:39.504332+00:00",
+      "fetchedAt": "2026-11-24T19:58:12.964091+00:00",
       "available": true,
       "items": [
+        {
+          "title": "Why ASEAN has struggled to tackle haze, and what a new task force could change",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY3RsdldGOU0yVmZHT2swM3hKY2l1MGpsVXgyYTZaX25GRzliTUtVUGJXcWR5TUoxRUVfQVNMOE02dndxbDNQQ2VuRmNUd2RTQldPNGZodmdQQlBIUVRzUC1uRmdEN2JWQ0FoNVgzeDFvSU5nbE5FU3AtcEYwZDZZeFJ3a2JkREVZT3kwYzRFRXN3WFFUa2EzeG1sNXBsVkhLcGIxWUFPU2FCd1FmSGxYaGJUOVBVMVN0SDVj?oc=5",
+          "published": "2026-11-24T09:35:00+00:00",
+          "source": "The Straits Times",
+          "via": "Google News"
+        },
         {
           "title": "Singapore’s haze response could offer lessons for future climate crises",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcTU5N1NiVFFNSlA2OGF3WldHRVVuY0dJNTdjLUFNNm40V08yTGVJeXNja2todTRRSVlaaG9WQVQ1Q2VpZ1JwUFhZRjZzbk1SdGxmRzFLMjFWUkZNVlJZZUdIbnMwSkFjRi1fcjFpNDN1VHR5cEsta2QwcElKNklSUm9yeUR1VU5zNmxxeE5nWmZHVlo5WWxwaGhpdEpDeUxCb0ZUZkpPRmYzN0FIN2NZQXljM2lKNTJYZkJMVHBR?oc=5",
