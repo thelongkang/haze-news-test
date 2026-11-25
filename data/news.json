@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-25T07:14:41.780567+00:00",
+  "checkedAt": "2026-11-25T18:27:42.874721+00:00",
   "sources": [
     {
       "name": "CNA",
-      "fetchedAt": "2026-11-25T07:14:41.780567+00:00",
+      "fetchedAt": "2026-11-25T18:27:42.874721+00:00",
       "available": true,
       "items": [
         {
@@ -18,7 +18,7 @@
     },
     {
       "name": "The Straits Times",
-      "fetchedAt": "2026-11-25T07:14:41.780567+00:00",
+      "fetchedAt": "2026-11-25T18:27:42.874721+00:00",
       "available": true,
       "items": [
         {
