@@ -1,16 +1,23 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-25T18:27:42.874721+00:00",
+  "checkedAt": "2026-11-26T07:03:45.465976+00:00",
   "sources": [
     {
       "name": "CNA",
-      "fetchedAt": "2026-11-25T18:27:42.874721+00:00",
+      "fetchedAt": "2026-11-26T07:03:45.465976+00:00",
       "available": true,
       "items": [
         {
           "title": "indonesia peatland fire haze latest news & coverage",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9kMzBwU2lDb1c0MjExbTFNYi1HQUZ3ZDdJUUs5bjRkTjVacFk5Vl9IS0tmOS01SDBpSktkTHptM1RjY2NSSjVIUld6TXBuT0hXQlZBN2FLd2tUNW15STNaYnVqbTlHUFl0b0xLenZVemtRS1Ax?oc=5",
-          "published": "2026-11-24T00:02:53+00:00",
+          "published": "2026-11-25T00:08:51+00:00",
+          "source": "CNA",
+          "via": "Google News"
+        },
+        {
+          "title": "haze latest news & coverage",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBBRkN2eVdfWHkweFBrM1hXZFJpOUlZYThXdVhScTMxV2tPRmJ1Z2hjbzVVS01CZW5rbXp2bGhpbElJYm5vYXhjWG5lekNJNTBPNEpPaw?oc=5",
+          "published": "2026-11-24T07:00:58+00:00",
           "source": "CNA",
           "via": "Google News"
         }
@@ -18,7 +25,7 @@
     },
     {
       "name": "The Straits Times",
-      "fetchedAt": "2026-11-25T18:27:42.874721+00:00",
+      "fetchedAt": "2026-11-26T07:03:45.465976+00:00",
       "available": true,
       "items": [
         {
